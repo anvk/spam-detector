@@ -1,0 +1,163 @@
+Delivered-To: alexey.novak.mail@gmail.com
+Received: by 10.36.213.130 with SMTP id a124csp53978itg;
+        Tue, 27 Sep 2016 15:16:37 -0700 (PDT)
+X-Received: by 10.28.88.130 with SMTP id m124mr4771763wmb.133.1475014597744;
+        Tue, 27 Sep 2016 15:16:37 -0700 (PDT)
+Return-Path: <ml-bounce-newsletter@mlsend3.com>
+Received: from mail5.mlsend3.com (mail5.mlsend3.com. [195.12.186.56])
+        by mx.google.com with ESMTPS id ka4si4724256wjb.274.2016.09.27.15.16.37
+        for <alexey.novak.mail@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 27 Sep 2016 15:16:37 -0700 (PDT)
+Received-SPF: pass (google.com: domain of ml-bounce-newsletter@mlsend3.com designates 195.12.186.56 as permitted sender) client-ip=195.12.186.56;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@mlsend3.com;
+       dkim=pass header.i=@mlsend3.com;
+       spf=pass (google.com: domain of ml-bounce-newsletter@mlsend3.com designates 195.12.186.56 as permitted sender) smtp.mailfrom=ml-bounce-newsletter@mlsend3.com
+Received: from mail5.mlsend3.com (mail5.mlsend3.com [195.12.186.56]) (using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits)) (Client CN "mlsend3.com", Issuer "mlsend3.com" (verified OK)) by mail5.mlsend3.com (Postfix) with ESMTPS id B839C50044C24 for <alexey.novak.mail@gmail.com>; Wed, 28 Sep 2016 01:16:36 +0300 (EEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=mlsend3.com; s=ml; t=1475014596; bh=UWGzQYmAAMFD00SZcIUQklmNnUY=; h=Date:To:From:Reply-To:Subject:List-Unsubscribe; b=f01wgRIuz5d8BAKMd4jID5h9raxqDjSvME3jOi4jC4SimZ9oqrqDZEVPtgwFBrSNM
+   Kg0CEs0PlCsgJ4GGsKI38dgA+ebajqmAYll33X2yMQfS5okG+VdPqq0NyviiDEREhR
+   XLcZp1DwCo4/dZX1oMcwDipH1vORmI/vSJFkdLXU=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=mlsend3.com; s=ml; t=1475014596; bh=UWGzQYmAAMFD00SZcIUQklmNnUY=; h=Date:To:From:Subject:Sender:Sender:From:To:Subject:Date; b=ex5as3MW4jEPKCkJ0hnw14KY5TR8H1oxLz9IhwZzzCkp1athb/ZhJcAg7WaVXHXaF
+   7row9HO0/iABu75ymOj0q83u4ON+6q9FQSI2YRI2lefofRiw+7/iJn1FjJyY1p6u7I
+   PSxoBTcBfE233+XpBAkNF+DJ2s9R4IVbsFqhQXUM=
+Date: Tue, 27 Sep 2016 22:16:36 +0000
+To: alexey.novak.mail@gmail.com
+From: Codewars <info@codewars.com>
+Reply-To: Codewars <info@codewars.com>
+Subject: Codewars Needs Your Help
+Message-ID: <482f00d95e0b9a6528d528b3689c3070@mlsend3.com>
+X-Priority: 3
+X-Mailer-PostfixId: 106
+X-Mailer-SubscriberID: 460935522995408425;a4x5;7f1b91993307d75ecdd9162b20604380
+X-Mailru-Msgtype: 7f1b91993307d75ecdd9162b20604380
+Feedback-ID: e1u5o7:7f1b91993307d75ecdd9162b20604380:1602818407:MailerLite
+Sender: "\"Codewars\"" <info=codewars.com@mlsend3.com>
+List-Unsubscribe: <mailto:unsubscribe-460935522995408425-a4x5-7f1b91993307d75ecdd9162b20604380@mlsend3.com?body=unsubscribe>, <http://track.mlsend3.com/link/c/YT00NjA5MzU1MjI5OTU0MDg0MjUmYz1hNHg1JmU9MTkyOCZiPTYxNzA4ODQ5JmQ9eDN6MGYxbA==.2tTFXk3hOsAPeaN92nsh6QFlT07REWb3rVam6111r5s>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="b1_482f00d95e0b9a6528d528b3689c3070"
+
+--b1_482f00d95e0b9a6528d528b3689c3070
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi ,
+The CodeWars community knows that building a new product is hard.=C2=A0
+We, the CodeWars team, are currently building a new tool to help engineerin=
+g teams hire more efficiently =E2=80=94 Qualified.io (http://www.qualified.=
+io).
+Want to help us?
+Please fill out this short survey (https://nathan46.typeform.com/to/viBq2I?=
+email=3Dalexey.novak.mail@gmail.com). It will only take a few minutes and w=
+e would really appreciate it.=C2=A0If not, don't worry we still love you.
+As a token of our gratitude (bribe) we're giving away 5 Codewars t-shirts!=
+=C2=A0Just fill out the survey to=C2=A0enter to win.
+Survey Link (https://nathan46.typeform.com/to/viBq2I?email=3Dalexey.novak.m=
+ail@gmail.com)
+Thanks for you help,
+Codewars Team
+
+QualifiedThis email was sent to alexey.novak.mail@gmail.com (mailto:alexey.=
+novak.mail@gmail.com) | Unsubscribe (http://track.mlsend3.com/link/c/YT00Nj=
+A5MzU1MjI5OTU0MDg0MjUmYz1hNHg1JmU9MTkyOCZiPTYxNzA4ODUxJmQ9YjlqMmc2eg=3D=3D.=
+kuRh4Rh7Z28aw7dXgX91mvU-LCBpwoAOjgHwq9yi1XU) | Forward this email to a frie=
+nd (http://track.mlsend3.com/link/c/YT00NjA5MzU1MjI5OTU0MDg0MjUmYz1hNHg1JmU=
+9MTkyOCZiPTYxNzA4Nzg1JmQ9bjllMHo0Zw=3D=3D.wgwIei_Qscma9I20xSFwDp1pt_6r5_UqH=
+LA71qUZROs)
+
+
+--b1_482f00d95e0b9a6528d528b3689c3070
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ =20
+  <head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width" initial-scale=
+=3D"1.0" user-scalable=3D"yes" />
+    <style>
+      @media only screen and (max-width: 480px) {
+      table[class=3Dcontent] { width:100% !important; }
+      img { width:100% !important; height:auto !important; }
+      img.open_img { width:1px !important; height:1px !important; }
+      }
+    </style>
+    <style>
+      div.OutlookMessageHeader, table.moz-email-headers-table, blockquote #=
+_t, #MailContainerBody #_t {background-image:url("http://track.mlsend3.com/=
+link/f/cnM9NDYwOTM1NTIyOTk1NDA4NDI1JmNvZGU9YTR4NSZyPTQ2MDczNjk=3D.70-O7vbGB=
+8Ezi0dP1po5-J9qGlb7hivLXSVvKbs5bkY")}
+    </style>
+  </head>
+ =20
+  <body>
+    <img src=3D"http://track.mlsend3.com/link/o/YT00NjA5MzU1MjI5OTU0MDg0MjU=
+mYz1hNHg1JmU9MTkyOA=3D=3D.AmK1QP8wWswU0r5bSYvu_ky7rAnwfxVK3qgtPK3nXJs" clas=
+s=3D"open_img" style=3D"display:block; height:0px; width:0px; max-width:0px=
+; max-height:0px; overflow:hidden;" width=3D"1" height=3D"1" border=3D"0" a=
+lt=3D"" style=3D"margin: 5px 0px;" />
+    <table width=3D"560" class=3D"content">
+      <tr>
+        <td class=3D"content" style=3D"font-size: 13px; line-height: 19.5px=
+; font-family: Arial;">
+          <p style=3D"line-height: 150%; margin-top: 0px; margin-bottom: 10=
+px; padding: 0px; ">Hi ,</p>
+          <p style=3D"line-height: 150%; margin-top: 0px; margin-bottom: 10=
+px; padding: 0px; ">The CodeWars community knows that building a new produc=
+t is hard.=C2=A0</p>
+          <p style=3D"line-height: 150%; margin-top: 0px; margin-bottom: 10=
+px; padding: 0px; ">We, the CodeWars team, are currently building a new too=
+l to help engineering teams hire more efficiently =E2=80=94 <a href=3D"http=
+://track.mlsend3.com/link/c/YT00NjA5MzU1MjI5OTU0MDg0MjUmYz1hNHg1JmU9MTkyOCZ=
+iPTYxNzA4Nzc5JmQ9eTBkNWY4ZA=3D=3D.Isv3f9fWPW1K9rK8mhNt3pBAThHF22Dc38w0zNbj7=
+Kk" data-link-id=3D"61708779" target=3D"_blank"style=3D"color: #006AE3;"><s=
+pan style=3D"color: #006AE3;">Qualified.io</span></a>.</p>
+          <p style=3D"line-height: 150%; margin-top: 0px; margin-bottom: 10=
+px; padding: 0px; ">Want to help us?</p>
+          <p style=3D"line-height: 150%; margin-top: 0px; margin-bottom: 10=
+px; padding: 0px; ">Please fill out this <a href=3D"http://track.mlsend3.co=
+m/link/c/YT00NjA5MzU1MjI5OTU0MDg0MjUmYz1hNHg1JmU9MTkyOCZiPTYxNzA4NzgxJmQ9cT=
+RxN2o3YQ=3D=3D.rp4j74u39zTtAMaCJKDsC-BuT5g2xisWmZn8_Q1kHHc" data-link-id=3D=
+"61708781" target=3D"_blank"style=3D"color: #006AE3;"><span style=3D"color:=
+ #006AE3;">short survey</span></a>. It will only take a few minutes and we =
+would really appreciate it.=C2=A0If not, don't worry we still love you.</p>
+          <p style=3D"line-height: 150%; margin-top: 0px; margin-bottom: 10=
+px; padding: 0px; ">As a token of our gratitude (bribe) we're giving away 5=
+ Codewars t-shirts!=C2=A0Just fill out the survey to=C2=A0enter to win.</p>
+          <p style=3D"line-height: 150%; margin-top: 0px; margin-bottom: 10=
+px; padding: 0px; "><a href=3D"http://track.mlsend3.com/link/c/YT00NjA5MzU1=
+MjI5OTU0MDg0MjUmYz1hNHg1JmU9MTkyOCZiPTYxNzA4NzgzJmQ9bjVlOXU0bQ=3D=3D.qQ1PiZ=
+KehsgmK1-JqBH6nQrep_3TrXAc9UIbihLi7SM" data-link-id=3D"61708783" target=3D"=
+_blank"style=3D"color: #006AE3;"><span style=3D"color: #006AE3;">Survey Lin=
+k</span></a></p>
+          <p style=3D"line-height: 150%; margin-top: 0px; margin-bottom: 10=
+px; padding: 0px; ">Thanks for you help,</p>
+          <p style=3D"line-height: 150%; margin-top: 0px; margin-bottom: 10=
+px; padding: 0px; ">Codewars Team</p>
+          <hr style=3D"color: #ccc; background-color: #ccc; height: 1px; bo=
+rder: 0; margin: 15px 0px 20px 0px; " />
+          <h6 style=3D"font-size: 11px; font-weight: normal; line-height: 1=
+50%; margin-bottom: 10px;margin-top: 0px; "><strong>Qualified</strong><br /=
+>This email was sent to <a href=3D"mailto:alexey.novak.mail@gmail.com"style=
+=3D"color: #006AE3;"><span style=3D"color: #006AE3;"><strong>alexey.novak.m=
+ail@gmail.com</strong></span></a> | <a href=3D"http://track.mlsend3.com/lin=
+k/c/YT00NjA5MzU1MjI5OTU0MDg0MjUmYz1hNHg1JmU9MTkyOCZiPTYxNzA4ODQ3JmQ9ZjhuNWg=
+2dA=3D=3D.-isYKt1ArO8SV2xRlGzU5_a3u03Vh68TfuXEFVNJ2Ac"style=3D"color: #006A=
+E3;"><span style=3D"color: #006AE3;">Unsubscribe</span></a> | <a href=3D"ht=
+tp://track.mlsend3.com/link/c/YT00NjA5MzU1MjI5OTU0MDg0MjUmYz1hNHg1JmU9MTkyO=
+CZiPTYxNzA4Nzg1JmQ9bjllMHo0Zw=3D=3D.wgwIei_Qscma9I20xSFwDp1pt_6r5_UqHLA71qU=
+ZROs" data-link-id=3D"61708785" target=3D"_blank"style=3D"color: #006AE3;">=
+<span style=3D"color: #006AE3;">Forward this email to a friend</span></a></=
+h6>
+        </td>
+      </tr>
+    </table>
+  </body>
+
+</html>
+
+
+
+--b1_482f00d95e0b9a6528d528b3689c3070--

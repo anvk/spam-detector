@@ -1,0 +1,257 @@
+Delivered-To: alexey.novak.mail@gmail.com
+Received: by 10.36.213.130 with SMTP id a124csp1861652itg;
+        Mon, 3 Oct 2016 13:28:59 -0700 (PDT)
+X-Received: by 10.55.89.65 with SMTP id n62mr7952058qkb.229.1475526539762;
+        Mon, 03 Oct 2016 13:28:59 -0700 (PDT)
+Return-Path: <return+-a9-1909-1916-alexey.novak.mail=gmail.com=4@mailer.liveserveronline.com>
+Received: from smtp1-6.mailer.liveserveronline.com (smtp1-6.mailer.liveserveronline.com. [158.85.29.53])
+        by mx.google.com with SMTP id e36si12433471qkh.300.2016.10.03.13.28.59
+        for <alexey.novak.mail@gmail.com>;
+        Mon, 03 Oct 2016 13:28:59 -0700 (PDT)
+Received-SPF: pass (google.com: domain of return+-a9-1909-1916-alexey.novak.mail=gmail.com=4@mailer.liveserveronline.com designates 158.85.29.53 as permitted sender) client-ip=158.85.29.53;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@liveserveronline.com;
+       spf=pass (google.com: domain of return+-a9-1909-1916-alexey.novak.mail=gmail.com=4@mailer.liveserveronline.com designates 158.85.29.53 as permitted sender) smtp.mailfrom=return+-a9-1909-1916-alexey.novak.mail=gmail.com=4@mailer.liveserveronline.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=liveserveronline.com; s=default; t=1475526539; bh=3RM8iELfC0PtZ9Y8CKhGSjDOIJ4=; h=Subject:From:To:Date:List-Unsubscribe:X-Mailer:X-CampaignID:
+   Message-ID:X-Mailer-Info:MIME-Version:Content-Type; b=thDWBXafjJzDi8NaCNUW43dh7CnCYLFGwW+1EQnQgdnuKHKjbfyukKgKWCpp6BFLY
+   tMYTDzv90oqy27XsTHIer6Y3a1dwvTvTmSCAvR7Z5Ffn9x8wY7HzGFLXex4wcW7Uic
+   4Xf6tcpqCExxa0ohWtVZDfE26hg/p7PvAwc21l0k=
+Subject: AppBuilderOnline.com Receives 2016 Best of Manhattan Award
+From: "Jeff @ App Builder" <info@liveserveronline.com>
+To: alexey.novak.mail@gmail.com
+Date: 03 Oct 2016 20:28:59 -0000
+List-Unsubscribe: <http://mailer.liveserveronline.com/ga/unsubscribe/2-533041-9-301-1916-e551a49cd5da02b-a242ef6d4a>, <mailto:return+-a9-1909-1916-alexey.novak.mail=gmail.com=4u@mailer.liveserveronline.com>
+X-Mailer: GreenArrow Studio (v4.78.0)
+X-CampaignID: s4:1909-1cdbf3036b1cd1b6
+Message-ID: <mid-7caecb6c06cc53f1f7a928208320079b@mailer.liveserveronline.com>
+X-Mailer-Info: 4.EWO.QM5ATO.hxWZ4VWeu42b2F2au0WYpxGQn1WYpxmLj9Wb.QM5EjN
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==793f4d98e23e5a9a6caa740f532f42ea"
+
+--==793f4d98e23e5a9a6caa740f532f42ea
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+FOR IMMEDIATE RELEASE
+
+AppBuilderOnline.com Receives 2016 Best of Manhattan Award=20
+
+Manhattan Award Program Honors the Achievement=20
+
+MANHATTAN September 22, 2016 -- AppBuilderOnline.com has been selected for =
+the 2016 Best of Manhattan Award in the Mobile Applications category by the=
+ Manhattan Award Program.=20
+
+Each year, the Manhattan Award Program identifies companies that we believe=
+ have achieved exceptional marketing success in their local community and b=
+usiness category. These are local companies that enhance the positive image=
+ of small business through service to their customers and our community. Th=
+ese exceptional companies help make the Manhattan area a great place to liv=
+e, work and play.=20
+
+Various sources of information were gathered and analyzed to choose the win=
+ners in each category. The 2016 Manhattan Award Program focuses on quality,=
+ not quantity. Winners are determined based on the information gathered bot=
+h internally by the Manhattan Award Program and data provided by third part=
+ies.=20
+
+About Manhattan Award Program=20
+
+The Manhattan Award Program is an annual awards program honoring the achiev=
+ements and accomplishments of local businesses throughout the Manhattan are=
+a. Recognition is given to those companies that have shown the ability to u=
+se their best practices and implemented programs to generate competitive ad=
+vantages and long-term value.=20
+
+The Manhattan Award Program was established to recognize the best of local =
+businesses in our community. Our organization works exclusively with local =
+business owners, trade groups, professional associations and other business=
+ advertising and marketing groups. Our mission is to recognize the small bu=
+siness community's contributions to the U.S. economy.
+
+SOURCE: Manhattan Award ProgramCONTACT:Manhattan Award Program=20
+
+Sign Up for 30-Day Free Trial  Click Here http://mailer.liveserveronline.co=
+m/ga/click/2-533041-9-301-1916-948-66dee704a2-a242ef6d4a
+
+Get Your OWN Branded App for iPhone, iPad and Android!
+
+Just enter the promo code when you sign up.Hurry this deal ends soon!=20
+
+ =20
+  Mobile Marketing with Branded App for iPhone, iPad and Android.
+=20
+The GrayBar Building at Grand Central
+420 Lexington Avenue, Suite 300
+New York, NY 10170=20
+http://mailer.liveserveronline.com/ga/unsubscribe/2-533041-9-301-1916-e551a=
+49cd5da02b-a242ef6d4a Unsubscribe me from this mailing list
+--==793f4d98e23e5a9a6caa740f532f42ea
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+
+<head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso=
+-8859-1" >
+
+=09<title></title>
+
+</head>
+
+<body bgcolor=3D"#595959">
+<p>&#160;</p>
+<table style=3D"border-collapse: collapse;" border=3D"0" width=3D"100%" cel=
+lspacing=3D"0" cellpadding=3D"0" align=3D"center" bgcolor=3D"#595959">
+<tbody>
+<tr>
+<td valign=3D"top"><center style=3D"width: 100%;">
+<div style=3D"border: solid 1px #cccccc; width: 682px;">
+<table width=3D"702" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" b=
+gcolor=3D"#FFFFFF">
+<tbody>
+<tr>
+<td style=3D"text-align: center;">
+<p><strong><span style=3D"font-family: verdana, geneva; font-size: 18pt;">A=
+ppBuilderOnline.com&#160;Receives 2016 Best of Manhattan Award</span></stro=
+ng></p>
+<p><span style=3D"font-family: Helvetica, Arial, sans-serif;"><span style=
+=3D"font-family: Helvetica, Arial, sans-serif;"><a href=3D"http://mailer.li=
+veserveronline.com/ga/click/2-533041-9-301-1916-948-66dee704a2-a242ef6d4a">=
+<img src=3D"http://mailer.liveserveronline.com/ga/campaign_images/301/App-B=
+uilder-Logo-PNG.PNG" alt=3D"" width=3D"153" height=3D"58" /></a><br /></spa=
+n></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"width: 368px; font-family: Arial; font-size: 10pt; color: #000=
+000; padding-top: 15px; padding-left: 15px;">
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;"><strong>F=
+OR IMMEDIATE RELEASE</strong></span></p>
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;"><strong>A=
+ppBuilderOnline.com&#160;Receives 2016 Best of Manhattan Award</strong>&#16=
+0;</span></p>
+<p><strong><span style=3D"font-size: 10pt; font-family: verdana, geneva;">M=
+anhattan Award Program Honors the Achievement&#160;</span></strong></p>
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;">MANHATTAN=
+ September 22, 2016 -- AppBuilderOnline.com&#160;has been selected for the =
+2016 Best of Manhattan Award in the Mobile Applications category by the Man=
+hattan Award Program.&#160;</span></p>
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;">Each year=
+, the Manhattan Award Program identifies companies that we believe have ach=
+ieved exceptional marketing success in their local community and business c=
+ategory. These are local companies that enhance the positive image of small=
+ business through service to their customers and our community. These excep=
+tional companies help make the Manhattan area a great place to live, work a=
+nd play.&#160;</span></p>
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;">Various s=
+ources of information were gathered and analyzed to choose the winners in e=
+ach category. The 2016 Manhattan Award Program focuses on quality, not quan=
+tity. Winners are determined based on the information gathered both interna=
+lly by the Manhattan Award Program and data provided by third parties.&#160=
+;</span></p>
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;"><strong>A=
+bout Manhattan Award Program</strong>&#160;</span></p>
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;">The Manha=
+ttan Award Program is an annual awards program honoring the achievements an=
+d accomplishments of local businesses throughout the Manhattan area. Recogn=
+ition is given to those companies that have shown the ability to use their =
+best practices and implemented programs to generate competitive advantages =
+and long-term value.&#160;</span></p>
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;">The Manha=
+ttan Award Program was established to recognize the best of local businesse=
+s in our community. Our organization works exclusively with local business =
+owners, trade groups, professional associations and other business advertis=
+ing and marketing groups. Our mission is to recognize the small business co=
+mmunity's contributions to the U.S. economy.</span></p>
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;">SOURCE: M=
+anhattan Award ProgramCONTACT:Manhattan Award Program&#160;</span></p>
+<table class=3D"devicebutton" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" align=3D"center">
+<tbody>
+<tr>
+<td style=3D"border-radius: 45px;" align=3D"center" bgcolor=3D"#00BB0F"><a =
+class=3D"devicebutton" style=3D"font-family: Helvetica,Arial,sans-serif; fo=
+nt-size: 18px; font-weight: bold; color: #ffffff; text-decoration: none; di=
+splay: inline-block; padding: 15px 30px 13px; background-color: #00bb0f; ba=
+ckground-image: linear-gradient(to top, #00BB0F 0%, #00BB0F 100%); border-r=
+adius: 45px; border: 1px solid #00BB0F;" href=3D"http://mailer.liveserveron=
+line.com/ga/click/2-533041-9-301-1916-948-66dee704a2-a242ef6d4a" target=3D"=
+_blank">Sign Up for 30-Day Free Trial</a></td>
+</tr>
+</tbody>
+</table>
+<p style=3D"text-align: center;"><span style=3D"font-size: 10pt; font-famil=
+y: verdana, geneva; color: #ff0000;"><strong>Get Your OWN Branded App for i=
+Phone, iPad and Android!</strong></span></p>
+<p style=3D"text-align: center;"><span style=3D"font-size: 10pt; font-famil=
+y: verdana, geneva;"><strong>Just enter the promo code when you sign up.Hur=
+ry this deal ends soon!&#160;</strong></span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: Helvetica, Ari=
+al, sans-serif;"><span style=3D"font-family: Helvetica, Arial, sans-serif;"=
+>&#160;<a href=3D"http://mailer.liveserveronline.com/ga/click/2-533041-9-30=
+1-1916-948-66dee704a2-a242ef6d4a"><img src=3D"https://mailer.liveserveronli=
+ne.com/ga/campaign_images/30/appbuildercoupon.jpg" alt=3D"" width=3D"285" h=
+eight=3D"151" /></a>&#160;&#160;</span></span></p>
+</td>
+<!---------------></tr>
+<tr>
+<td colspan=3D"2"><span style=3D"font-family: Helvetica, Arial, sans-serif;=
+"><span style=3D"font-size: 14px;">&#160;</span></span></td>
+</tr>
+<tr>
+<td style=3D"background-color: #d9100f; height: 20px;" colspan=3D"2">
+<div style=3D"color: #ffffff; font-family: Verdana; font-size: 7pt;"><span =
+style=3D"font-size: 10pt;"><a style=3D"font-size: 14px;" href=3D"http://mai=
+ler.liveserveronline.com/ga/click/2-533041-9-301-1916-948-66dee704a2-a242ef=
+6d4a"><span style=3D"color: #000000; font-family: Helvetica, Arial, sans-se=
+rif;"><img style=3D"float: left;" src=3D"https://mailer.liveserveronline.co=
+m/ga/campaign_images/30/appfooter.PNG" alt=3D"" width=3D"195" height=3D"87"=
+ /></span></a></span></div>
+<div style=3D"color: #ffffff; font-family: Verdana; font-size: 7pt;"><span =
+style=3D"color: #000000; font-family: Helvetica, Arial, sans-serif;"><span =
+style=3D"color: #000000; font-family: Helvetica, Arial, sans-serif;">&#160;=
+</span></span></div>
+<div style=3D"color: #ffffff; font-family: Verdana; font-size: 7pt;"><span =
+style=3D"color: #000000; font-family: Helvetica, Arial, sans-serif;"><span =
+style=3D"color: #000000; font-family: Helvetica, Arial, sans-serif;">&#160;=
+</span></span></div>
+<div style=3D"color: #ffffff; font-family: Verdana; font-size: 7pt;"><span =
+style=3D"color: #000000; font-family: Helvetica, Arial, sans-serif;"><span =
+style=3D"color: #000000; font-family: Helvetica, Arial, sans-serif;">&#160;=
+</span></span></div>
+<div style=3D"color: #ffffff; font-family: Verdana; font-size: 7pt;"><span =
+style=3D"color: #000000; font-family: Helvetica, Arial, sans-serif;"><span =
+style=3D"font-size: 14px;">&#160;</span></span></div>
+<div style=3D"color: #ffffff; font-family: Verdana; font-size: 7pt;"><span =
+style=3D"color: #000000; font-family: Helvetica, Arial, sans-serif;"><span =
+style=3D"font-size: 14px;">&#160;</span></span></div>
+<div style=3D"color: #ffffff; font-family: Verdana; font-size: 7pt;"><span =
+style=3D"color: #ffffff;"><strong><span style=3D"font-size: 10pt;"><span st=
+yle=3D"font-family: Helvetica, Arial, sans-serif;"><span style=3D"backgroun=
+d-color: #d9100f;">Mobile Marketing with Branded App for iPhone, iPad and A=
+ndroid.</span>&#160;</span></span></strong></span></div>
+</td>
+</tr>
+<tr>
+<td style=3D"font-family: Verdana; font-size: 9px; color: #000000; line-hei=
+ght: 1.6em;" colspan=3D"2"><span style=3D"font-family: Helvetica, Arial, sa=
+ns-serif; font-size: 10pt;"><span style=3D"font-family: Helvetica, Arial, s=
+ans-serif;">The GrayBar Building at Grand Central<br />420 Lexington Avenue=
+, Suite 300<br />New York, NY 10170&#160;<br /><a href=3D"http://mailer.liv=
+eserveronline.com/ga/unsubscribe/2-533041-9-301-1916-e551a49cd5da02b-a242ef=
+6d4a">Unsubscribe me from this mailing list</a></span></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</center></td>
+</tr>
+</tbody>
+</table>
+<img src=3D"http://mailer.liveserveronline.com/ga/open/2-533041-9-301-1916-=
+a242ef6d4a" height=3D"2" width=3D"3" alt=3D""></body></html>
+--==793f4d98e23e5a9a6caa740f532f42ea--

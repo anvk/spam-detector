@@ -1,0 +1,1653 @@
+Delivered-To: abovebluesky@gmail.com
+Received: by 10.202.7.196 with SMTP id 187csp650679oih;
+        Fri, 23 Sep 2016 07:57:35 -0700 (PDT)
+X-Received: by 10.13.214.197 with SMTP id y188mr5990722ywd.244.1474642655448;
+        Fri, 23 Sep 2016 07:57:35 -0700 (PDT)
+Return-Path: <gmail.com.159571.abovebluesky@exemplify.usatoday.email>
+Received: from exemplify.usatoday.email (exemplify.usatoday.email. [196.52.1.144])
+        by mx.google.com with ESMTPS id 7si3098385ybq.98.2016.09.23.07.57.35
+        for <abovebluesky@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 23 Sep 2016 07:57:35 -0700 (PDT)
+Received-SPF: pass (google.com: domain of gmail.com.159571.abovebluesky@exemplify.usatoday.email designates 196.52.1.144 as permitted sender) client-ip=196.52.1.144;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@usatoday.email;
+       spf=pass (google.com: domain of gmail.com.159571.abovebluesky@exemplify.usatoday.email designates 196.52.1.144 as permitted sender) smtp.mailfrom=gmail.com.159571.abovebluesky@exemplify.usatoday.email;
+       dmarc=pass (p=NONE dis=NONE) header.from=usatoday.email
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=usatoday.email; s=s1024; l=51010; x=1475247454; i=@usatoday.email; h=From:To:Subject:Content-Type:Date: Message-ID; bh=GBCUiPqJP67Aok7W9kLo6fJi8Rw=; b=ljIEAJxBdFJzezVpL tiZqOyVSeKf+oG4PIpAhOe/JhCT1QJx7si3yd8MML9Go8/dsfhqZ/L6biw84S+HU 9X4/Xpf7Cq3w5U6lVIy4pemf4LIKZtxlNjvbcyT+WFyRXLzwtPmj+2mMP+afpbI0 fUp/uzR9HCYuWyV9/v6yMzmMp8=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=usatoday.email;
+  b=gWC3fI7dkxv6NfHHQzKpFhcpTOBPXv/krm9Y66IpBT44u07CNb9g08JH30BPPIN0Q2bBBnn64AJy7xduJq2gwkwnSD0PvwQd3tvB2AO4ZP33IGsoG2xIG16CNOw6GxEIUtFvUqwGF+wx9Z/2j1HThBMf8zxCxNRtiJh7B2IwCwA=;
+Received: from exemplify.usatoday.email [196.52.1.144] by exemplify.usatoday.email [196.52.1.144];
+  Fri, 23 Sep 2016 10:40:03 -0500
+MIME-Version: 1.0
+From: Constipation info <postmaster@usatoday.email>
+To: abovebluesky@gmail.com
+Reply-To: postmaster@usatoday.email
+Subject: Something different for constipation.
+Content-Type: multipart/alternative;
+   boundary="-=fb623d51a0c9258c57c2ae370774f0ed";
+Date: Fri, 23 Sep 2016 10:40:03 -0500
+Message-ID: <1-159571-QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP@exemplify.usatoday.email>
+
+---=fb623d51a0c9258c57c2ae370774f0ed
+Content-Type: text/plain; charset="UTF-8"
+
+                                  Full Prescribing Information
+http://usatoday.email/sorop?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=0.
+�� �|� �� Important Risk Information
+http://usatoday.email/soxan?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=1.
+�� �|� �� Patient Medication Guide
+http://usatoday.email/soxan?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=2.
+                                       IMPORTANT RISK INFORMATION
+  &#8226;    Do not give LINZESS to children who are under 6�years of
+age. It may harm them.      &#8226;    You should not give LINZESS to
+children 6 to 17 years of age. It may harm them.      &#8226;    Do
+not take LINZESS if a doctor has told you that you have a bowel
+blockage (intestinal obstruction).              LINZESS is a
+prescription medication used in adults to treat Irritable Bowel
+Syndrome with Constipation (IBS‑C) and Chronic Idiopathic
+Constipation (CIC).                                    Are you still
+searching for something to keep your constipation from coming back?
+  It feels like you've tried everything, but your constipation and
+belly pain   keep coming back, which means you may be dealing with
+more than   constipation. You could have Irritable Bowel Syndrome with
+Constipation   (IBS-C)Irritable Bowel Syndrome with Constipation
+(IBS-C)
+http://usatoday.email/aek?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=6.
+or Chronic Idiopathic Constipation (CIC).Chronic Idiopathic
+Constipation (CIC). And if so, you may want   to try something that
+works differently than laxatives to help keep your   symptoms from
+coming�back.�      LINZESS can help relieve your IBS-C or CIC
+symptoms.      If you're ready to try something different, ask your
+doctor about LINZESS.   It works differently from over-the-counter
+laxatives that you may have   tried. LINZESS can help relieve your
+belly pain and let you have more   frequent and complete bowel
+movements that are easier to pass.      LINZESS is the #1 prescribed
+branded treatment for   IBS-C and CIC since May 2014.
+                 Click to download          �           Many doctors
+have used LINZESS as an   option for their patients. But maybe you're
+ not sure how to talk to your doctor about   your symptoms. Don't
+worry. Our   Steps Toward Relief
+http://usatoday.email/track?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=11.Steps
+Toward Relief
+http://usatoday.email/solim?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=12.
+guide can help you   start the conversation.      So, if you're ready
+to start proactively   managing your symptoms, speak with your
+doctor about LINZESS at your next visit and   join the over 1 million
+patients who have   already tried it.*
+           *IMS Health, Total Patient Tracker, November 2012-April
+2016.                                          Be proactive      If
+you're looking for relief,
+ it's time to talk to your doctor�about LINZESS. Check�out our guide
+to starting�the conversation.                             IMPORTANT
+RISK INFORMATION              &#8226;  Do not give LINZESS to children
+who are under 6   years of age. It may harm them.      &#8226;  You
+should not give   LINZESS to children  6   to 17 years of age. It may
+harm them.      &#8226;  Do not take LINZESS if a
+ doctor has told you that
+ you have a bowel
+ blockage (intestinal
+ obstruction).              Please see additional Important Risk
+Information below.
+What is LINZESS?        LINZESS� (linaclotide) is a prescription
+medication used in adults to treat irritable bowel syndrome with
+constipation (IBS‑C) and chronic idiopathic constipation (CIC).
+“Idiopathic” means the cause of the constipation is unknown. It is
+not known if LINZESS is safe and effective in children.
+  IMPORTANT RISK INFORMATION                  &#8226;    Do not give
+LINZESS to children who are under 6 years of age. It may harm them.
+  &#8226;    You should not give LINZESS to children 6 to 17 years of
+age. It may harm them.      &#8226;    Do not take LINZESS if a doctor
+has told you that you have a bowel blockage (intestinal obstruction).
+                        Before you take LINZESS, tell your doctor:
+                   &#8226;    If you have any other medical
+conditions.      &#8226;    If you are pregnant or plan to become
+pregnant. It is not known if LINZESS will harm your unborn�baby.
+&#8226;    If you are breastfeeding or plan to breastfeed. It is not
+known if LINZESS passes into your breast�milk.      &#8226;    About
+all the medicines you take, including prescription and
+over-the-counter medicines, vitamins, and herbal supplements.
+                Side Effects        LINZESS can cause serious side
+effects, including diarrhea, the most common side effect,  which can
+sometimes be severe. Diarrhea often begins with the first 2 weeks of
+LINZESS  treatment. Stop taking LINZESS and call your doctor right
+away if you get severe diarrhea  during treatment with LINZESS.
+Other common side effects of LINZESS include gas, stomach-area
+(abdominal) pain, swelling, or a feeling of fullness or pressure in
+your abdomen (distension). Tell your doctor if you have any side
+effect that bothers you or that does not go away. These are not all
+the possible side effects of LINZESS. For more information, ask your
+doctor or pharmacist.        In addition, call your doctor or go to
+the nearest hospital emergency room right away if you develop unusual
+or severe stomach-area (abdominal) pain, especially if you also have
+bright red, bloody stools or black stools that look like tar.
+Please also see Medication Guide within full Prescribing Information.
+      Ask your doctor about LINZESS today.
+           PLEASE NOTE: DO NOT REPLY TO THIS EMAIL. Emails sent to
+this account will not be read.
+ We respect your privacy. See our Privacy Policy
+http://usatoday.email/sordna?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=18.Privacy
+Policy
+http://usatoday.email/sovsel?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=19..
+ For more information, call 1-800-LINZESS. tel:1-800-546399
+
+                  Allergan� and its design are trademarks of Allergan,
+Inc.
+
+ Ironwood� and its three-leaf design are trademarks of Ironwood
+Pharmaceuticals, Inc.
+
+ LINZESS� and its design are registered trademarks of Ironwood
+Pharmaceuticals, Inc.
+
+ �2016 Allergan and Ironwood Pharmaceuticals, Inc. All rights
+reserved.
+
+ LIN51266 07/16
+
+
+
+Take 5 Media
+
+P.O Box 811502
+
+Boca Raton, FL
+
+33481
+
+Click http://usatoday.email/1/unsub.do?e=abovebluesky@gmail.com&m=159571 to
+unsubscribe.
+
+
+<1;QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP;159571;slWYtVmL5FGZvRXYzVnL5ZWasBXblhXZD>
+---=fb623d51a0c9258c57c2ae370774f0ed
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta name="viewport" content="width=device-width,
+initial-scale=1.0">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="format-detection" content="telephone=no">
+        <link rel="stylesheet"
+href="href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|'Tahoma''
+rel='stylesheet' type='text/css'>">
+        <title>[~EmailSubject~]</title>
+        <style type="text/css">
+            .nomobile {
+            }
+            .appleLinksWhite, .appleLinksWhite a {
+            color: #ffffff;
+            text-decoration: none;
+            }
+            /****** BUG FIXES DO NOT TOUCH  ********/
+            /* Forces Hotmail to display emails at full width */
+            .ExternalClass {
+            width: 100%;
+            }
+            /* Forces Hotmail to display normal line spacing*/
+            .ExternalClass, .ExternalClass p, .ExternalClass span,
+.ExternalClass font, .ExternalClass td, .ExternalClass div {
+            line-height: 100%;
+            }
+            /* Prevents Webkit and Windows Mobile platforms from changing
+default font sizes. */
+            body {
+            -webkit-text-size-adjust: none;
+            -ms-text-size-adjust: none;
+            }
+            /* Resets all body margins and padding to 0 */
+            body {
+            margin: 0;
+            padding: 0;
+            }
+            /*Resolves Outlook 07/10 and Gmail td padding*/
+            table td {
+            border-collapse: collapse;
+            }
+            /****** END BUG FIXES ********/
+            /****** RESETTING DEFAULTS********/
+            /* This sets a clean slate for all clients EXCEPT Gmail. But
+avoid using P tags*/
+            p {
+            margin: 0;
+            padding: 0;
+            margin-bottom: 0;
+            }
+            /* Overwrites Hotmails default css*/
+            h1, h2, h3, h4, h5, h6 {
+            color: black;
+            line-height: 100%;
+            }
+            /*
+            Embedded CSS link color for Gmail.  Overwrites Hotmail and
+Yahoo Beta's embedded link colors.
+            Dev NEEDS TO UPDATE THIS COLOR PER PROJECT!!
+            */
+            a, a:link {
+            color: #333333;
+            text-decoration: none;
+            }
+            /*Fixes Outlook blue lines */
+            href>a {
+            text-decoration: none;
+            }
+            a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+
+font-size: inherit !important;
+
+font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+            }
+            /****** END RESETTING DEFAULTS ********/
+            /****** EDITABLE STYLES  ********/
+            body, #body_style {
+            margin: 0 auto;
+            background:#fff color:#3e3f3f;
+
+font-family: 'Tahoma', Arial, sans-serif;
+
+font-size: 14px;
+            line-height: 1.25;
+            }
+            /*Destroys Yahoo shortcuts */
+            span.yshortcuts {
+            color: #000;
+            background-color: none;
+            border: none;
+            }
+            span.yshortcuts:hover, span.yshortcuts:active,
+span.yshortcuts:focus {
+            color: #000;
+            background-color: none;
+            border: none;
+            }
+            h1 {
+            margin: 0;
+            }
+            /*ul { list-style-image:
+url(http://images3.mytake5.com/+SE/+/34361-linzess/bullet.png); }*/
+            /*Put default link color here*/
+            /*a[class="bodyLink"]   {
+            color:#5b5b5b;
+            text-decoration:none;
+            }*/    /*If unable to "fix" gmail or other email clients from
+wrapping phone numbers, unlinked websites, email addresses, add this class
+to the anchor tags and customize color and other styles accordingly */
+            /*Optimizing for mobile devices */
+            @media only screen and (max-width: 599px) {
+            /* Add this class to any table/td where you have set a defined
+width larger than "300"/"320"--the width of the device.  */
+            table[class="table"], td[class="cell"] {
+            width: 100% !important;
+            min-width: 0 !important;
+            }
+            table[class="dotted"], td[class="dotted"] {
+            width: 95% !important;
+
+font-size: 14px !important;
+            }
+            table[class="cta"] {
+            width: 75%;
+            }
+            td[class="top"] {
+            height: 40px;
+            }
+            /*Online version style*/
+            td[class="online"] {
+            padding-top: 5px;
+            padding-bottom: 5px;
+            padding-right: 5px;
+            padding-left: 5px;
+
+font-size: 14px !important;
+            }
+            td[class="half_tables"] {
+            width: 50% !important;
+            }
+            /* Image resize */
+            table[class="Fluid_image"], img[class="Fluid_image"],
+[class="w100p"] {
+            width: 100% !important;
+            height: auto !important;
+            }
+            img[class="small_image"] {
+            max-width: 337px;
+            width: 80%;
+            height: auto;
+            }
+            table[class="first_half_table"] {
+            width: 100% !important;
+            border-right: 0 !important;
+            }
+            table[class="second_half_table"] {
+            width: 0 !important;
+            overflow: visible !important;
+            float: none !important;
+            display: none !important;
+            width: auto !important;
+            height: auto !important;
+            }
+            table[class="flag"] {
+            width: 60% !important;
+            }
+            td[class="chart"] {
+            text-align: left;
+            }
+            td[class="flag"] {
+            width: 45% !important;
+            padding-top: 5px !important;
+            padding-bottom: 5px !important;
+            }
+            td[class="body"] {
+
+font-size: 14px !important;
+            padding-left: 20px !important;
+            padding-right: 20px !important;
+            }
+            td[class="resize_text"] {
+
+font-size: 14px !important;
+            }
+            td[class="bullet"] {
+
+font-size: 14px !important;
+            padding-left: 15px !important;
+            }
+            td[class="footer"] {
+            padding-left: 10px !important;
+            padding-right: 10px !important;
+            }
+            img[class="hide"], br[class="hide"], table[class="hide"],
+td[class="hide"] {
+            display: none !important;
+            }
+            td[class="gutter"] {
+            width: 10px !important;
+            }
+            img[class="invImageSwap"] {
+            width: 111px !important;
+            height: auto !important;
+            }
+            /*td[class="swap1122"] {
+            background-image:
+url(http://images3.mytake5.com/+SE/+/34361-linzess/m-banner.png)
+!important;
+            background-size: 111px 66px !important;
+            background-repeat: no-repeat !important;
+            width: 111px !important;
+            height: 66px !important;
+            display: block !important;
+            }*/
+            /*td[class="swap"] img { display: none !important; }*/
+            /*h1[class="swap-1"] {
+            background-image:
+url(http://images3.mytake5.com/+SE/+/34361-linzess/m-learn-how.png)
+!important;
+            background-size: 244px 40px !important;
+            background-repeat: no-repeat !important;
+            width: 244px !important;
+            height: 40px !important;
+            display: block !important;
+            }
+            h1[class="swap-1"] img { display: none !important; }*/
+            .float {
+            float: left !important;
+            }
+            .float-none {
+            float: none !important;
+            }
+            .no-pad {
+            padding: 10px 0 0 0 !important;
+            }
+            td[class="mobile-only"], br[class="mobile-only"] {
+            padding: 0 10px;
+            display: block !important;
+            }
+            td[class="vertical-align"] {
+            vertical-align: top !important;
+            }
+            td[class="vertical-bottom"] {
+            vertical-align: bottom !important;
+            }
+            td[class="center"] {
+            padding: 0 10% !important;
+            }
+            table[class="no-border"] {
+            border-right: 0 !important;
+            }
+            td[class="reference"] {
+
+font-size: 11px !important;
+            padding-left: 10px !important;
+            padding-right: 10px !important;
+            }
+            table[class="mobile_table"], td[class="mobile_cell"] {
+            overflow: visible !important;
+            float: none !important;
+            display: block !important;
+            width: auto !important;
+            line-height: 16px !important;
+            height: auto !important;
+            max-height: inherit !important;
+
+font-family: 'Tahoma', Arial, sans-serif;
+
+font-size: 12px !important;
+            padding-top: 10px;
+            }
+            table[class="mobile_table_1"] {
+            overflow: visible !important;
+            float: none !important;
+            display: block !important;
+            width: auto !important;
+            line-height: 16px !important;
+            height: auto !important;
+            max-height: inherit !important;
+
+font-family: 'Tahoma', Arial, sans-serif;
+
+font-size: 12px !important;
+            padding-top: 10px;
+            }
+            td[class="mobile_image"], td[class="mobile_hide"] {
+            width: 0 !important;
+            max-height: 0 !important;
+
+font-size: 0 !important;
+            line-height: 0 !important;
+            mso-hide: all !important;
+            display: none !important;
+            overflow: hidden !important;
+            float: left !important
+            }
+            td[class="5"] {
+            height: 5px !important;
+            }
+            td[class="10"] {
+            height: 10px !important;
+            }
+            td[class="15"] {
+            height: 15px !important;
+            }
+            td[class="mobile_bullet"] {
+
+font-size: 14px;
+            color: #000000;
+            height: auto !important;
+            }
+            td[class="mobile_text"] {
+            color: #323232;
+            height: auto !important;
+            }
+            td[class="mobile_text_bold"] {
+            color: #323232;
+            font-weight: bold;
+            height: auto !important;
+            }
+            td[class="w3"] {
+            width: 3px !important;
+            }
+            td[class="w20"] {
+            width: 20px !important;
+            }
+            td[class="3"] {
+            height: 3px !important;
+            }
+            td[class="25"] {
+            height: 25px !important;
+            }
+            /*td[class="show_mobile_image1"] img,
+td[class="show_mobile_image2"] img {
+            width: 0 !important;
+            max-height: 0 !important;
+
+font-size: 0 !important;
+            line-height: 0 !important;
+            mso-hide: all !important;
+            display: none !important;
+            overflow: hidden !important;
+            }*/
+            /*td[class="show_mobile_image1"] {
+            overflow: visible !important;
+            float: none !important;
+            display: block !important;
+            max-height: inherit !important;
+            background-image:
+url(http://images3.mytake5.com/+SE/+/34361-linzess/IBSC-checklist.png)
+!important;
+            background-size: 259px 152px !important;
+            background-repeat: no-repeat !important;
+            width: 259px !important;
+            height: 152px !important;
+            }*/
+            /*       td[class="show_mobile_image2"] {
+            overflow: visible !important;
+            float: none !important;
+            display:block !important;
+            max-height: inherit !important;
+
+background-image:url(http://images3.mytake5.com/+SE/+/34361-linzess/m-CIC-checklist.png)
+!important;
+            background-size:259px 152px !important;
+            background-repeat: no-repeat !important;
+            width:259px !important;
+            height:152px !important;
+            }*/
+            td[class="bold"] {
+            font-weight: bold;
+            height: auto !important;
+            }
+            [class="mobile-headline"] {
+            overflow: visible !important;
+            float: none !important;
+            display: block !important;
+            width: auto !important;
+            line-height: 1 !important;
+            max-height: inherit !important;
+            height: auto !important;
+
+font-family: 'Tahoma', Arial, sans-serif;
+
+font-size: 14px !important;
+            color: #114b8c !important;
+            }
+            [class="headline"] {
+
+font-size: 14px !important;
+            }
+            .small-space {
+
+font-size: 2px !important;
+            }
+            .small-height {
+            height: 20px !important;
+            }
+            .pad20 {
+            padding-left: 0 !important;
+            }
+            .adjust-bg {
+            background: #6c909a !important;
+            }
+            td {
+
+font-size: 14px !important;
+            }
+            td a {
+
+font-size: 14px !important;
+            }
+            .mobile-hide {
+            display: none;
+            }
+            /*-----------------------------------------------------------*/
+            /*-----------------------------------------------------------*/
+            [class="nomobile"] {
+            display: none!important;
+            }
+            [class="shownow"] {
+            display: block !important;
+            margin: 0 !important;
+            padding: 0 !important;
+            overflow: visible !important;
+            width: auto !important;
+            max-height: inherit !important;
+            }
+            /*-----------------------------------------------------------*/
+            /*-----------------------------------------------------------*/
+            /*-----------------------------------------------------------*/
+            [class="bPad"] {
+            display: block !important;
+
+font-size: 1px !important;
+            line-height: 1px !important;
+            height: 5px !important;
+            }
+            [class="textMobileLinkTEXT"] {
+
+font-size: 14px !important;
+            line-height: 16px !important;
+            color: #323232 !important;
+            }
+
+/*-----OJO------------------------------------------------------*/
+            a[class="textMobileLink"] {
+
+font-size: 12px !important;
+            line-height: 18px !important;
+            display: inline !important;
+            color: #6c909a !important;
+            font-weight: bold !important;
+            text-decoration: underline !important;
+
+font-family: Arial, 'Tahoma', Helvetica, sans-serif !important;
+            letter-spacing: -0.009em !important;
+            }
+            /*-----------------------------------------------------------*/
+            /*-----------------------------------------------------------*/
+            a[class="textMobileLink2"] {
+
+font-size: 12px !important;
+            line-height: 18px !important;
+            display: block !important;
+            color: #6c909a !important;
+            color: #14E332 !important;
+            font-weight: bold !important;
+            text-align: left !important;
+            text-decoration: underline !important;
+            padding: 5px 0px 20px !important;
+
+font-family: Arial, 'Tahoma', Helvetica, sans-serif !important;
+            letter-spacing: -0.009em !important;
+            }
+            [class="textMobileLink3W"] {
+
+font-family: Arial, 'Tahoma', Helvetica, sans-serif !important;
+
+font-size: 12px !important;
+            line-height: 12px !important;
+            display: inline !important;
+            color: #ffffff !important;
+            }
+            a[class="textMobileLink3"] {
+
+font-size: 12px !important;
+            line-height: 12px !important;
+            display: inline !important;
+            color: #ffffff !important;
+            text-decoration: underline !important;
+
+font-family: Arial, 'Tahoma', Helvetica, sans-serif !important;
+            }
+            img[class="invImageChecklist"] {
+            width: 100% !important;
+            height: auto !important;
+            max-width: 280px !important;
+            padding-top: 10px !important;
+            }
+            img[class="invImageLearnMore"] {
+            width: 244px !important;
+            height: auto !important;
+            }
+            img[class="invImageClickDownload"] {
+            width: 144px !important;
+            height: auto !important;
+            border: solid 1px #000000 !important;
+            }
+            a[class="link"] {
+            padding-bottom: 2px !important;
+
+font-size: 11px !important;
+            }
+            [class="menuW"] {
+            padding-bottom: 7px !important;
+            }
+            }
+            /*** END EDITABLE STYLES ***/
+        </style>
+        <!--end style-->
+        <!--[if gte mso 15]>
+<xml>
+  <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+
+<style type="text/css">
+  body, td, th {
+font-family: Arial, sans-serif;}
+.textSup {
+font-size: 10px; line-height: 100%; vertical-align: text-top;}
+</style>
+<![endif]-->
+    </head>
+    <!--body: Setting topmargin, bottommargin, leftmargin, rightmargin,
+marginheight and marginwidth are set to "0" to account for a specific
+vendor (BUDCO) issue in Outlook -->
+    <body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0"
+marginheight="0" marginwidth="0" style="padding:0;
+margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:100%;
+background-color:#FFFFFF; min-height:1000px;">
+        <div id="body_style" style="padding:0px" bgcolor="#FFFFFF">
+        <table
+cellpadding="0" cellspacing="0" width="100%" bgcolor="#FFFFFF">
+            <tbody>
+                <tr>
+                    <td align="center" valign="top"><!--Links-->
+                    <!--Banner-->
+                    <table
+class="table" cellpadding="0" cellspacing="0" width="600"
+style="min-width:600px;">
+                        <tbody>
+                            <tr>
+                                <td class="adjust-bg" align="center"
+style="padding:0px 10px;background-color:#114b8c;">
+                                <table
+class="table" cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td class="menuW"
+align="center" style="padding: 3px 0; text-align:left; color: #FFFFFF;"><a
+style="color: #FFFFFF;
+font-size: 12px; text-decoration:underline;" class="link"
+href="http://usatoday.email/sok?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=0."
+target="_blank">Full Prescribing Information</a> <span class="nomobile"
+style="text-decoration:none">&nbsp;&nbsp;</span> <span>&nbsp;|&nbsp;</span>
+<span class="nomobile" style="text-decoration:none">&nbsp;&nbsp;</span> <a
+style="color: #FFFFFF;
+font-size: 12px; text-decoration:underline;" class="link"
+href="http://usatoday.email/sok?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=1."
+target="_blank">Important Risk Information</a> <span class="nomobile"
+style="text-decoration:none">&nbsp;&nbsp;</span> <span>&nbsp;|&nbsp;</span>
+<span class="nomobile" style="text-decoration:none">&nbsp;&nbsp;</span> <a
+style="color: #FFFFFF;
+font-size: 12px; text-decoration:underline;" class="link"
+href="http://usatoday.email/sonit?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=2."
+target="_blank">Patient Medication Guide</a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                </td>
+                            </tr>
+                            <!--[if !mso]><!-->
+                            <tr class="shownow" style="
+font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px; max-height:
+0; text-decoration:none; width:0; overflow: hidden; display: none;">
+                                <td align="center" valign="top"
+style="display:block;
+font-size:0%; line-height:0;"><a
+href="http://usatoday.email/sorys?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=3."
+align="center" target="_blank" style="text-decoration:none;
+border-left-style:none;"><img
+src="http://images3.mytake5.com/+SE/+/34361-linzess/m-banner.png"
+border="0" width="1" height="1" style="display:block; float:left;"
+class="invImageSwap" alt="" align="left"></a></td>
+                            </tr>
+                            <!--<![endif]-->
+                            <tr>
+                                <td class="nomobile" align="left"><a
+href="http://usatoday.email/sovsel?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=4."
+target="_blank"><img
+src="http://images3.mytake5.com/+SE/+/34361-linzess/hero.png"
+class="Fluid_image" width="600" height="190" border="0"
+style="display:block;" alt="" title=""></a></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <!-- Hide Important Risk Information -->
+                    <table
+class="mobile_table" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF"
+style="width:
+0;mso-hide:all;height:0;max-height:0;display:none;line-height: 0;
+font-size:0;overflow:hidden;float:left" height="0">
+                        <tbody>
+                            <tr>
+                                <td class="body" align="left"
+style="padding-top: 10px"><strong class="mobile-headline" style="width:
+0;mso-hide:all;height:0;max-height:0;display:none;line-height: 0;
+font-size:0;overflow:hidden;float:left">IMPORTANT RISK INFORMATION</strong>
+                                <table
+class="mobile_table_1" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF"
+style="width: 0;mso-hide:all;display:none;line-height: 0;overflow:hidden;
+font-size: 0;float:left;" height="0">
+                                    <tbody>
+                                        <tr>
+                                            <td class="mobile_bullet"
+valign="top" align="left" style="
+font-size:14px;">&#8226;</td>
+                                            <td class="w3"></td>
+                                            <td class="bold"
+align="left">Do not give LINZESS to children who are under 6&nbsp;years of
+age. It may harm them.</td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="top" align="left"
+class="mobile_bullet">&#8226;</td>
+                                            <td class="w3"></td>
+                                            <td class="bold"
+align="left">You should not give LINZESS to children 6 to 17 years of age.
+It may harm them.</td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="top" align="left"
+class="mobile_bullet">&#8226;</td>
+                                            <td class="w3"></td>
+                                            <td align="left">Do not take
+LINZESS if a doctor has told you that you have a bowel blockage (intestinal
+obstruction).</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="body" align="left"
+style="padding-top:25px;">LINZESS is a prescription medication used in
+adults to treat Irritable Bowel Syndrome with Constipation (IBS‑C) and
+Chronic Idiopathic Constipation (CIC).</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table
+class="table" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" width="600"
+style="min-width:600px;">
+                        <tbody>
+                            <tr>
+                                <td height="15"></td>
+                            </tr>
+                            <tr>
+                                <td class="body">
+                                <table
+class="w100p" width="585" border="0" align="right" cellpadding="0"
+cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td align="left" valign="top">
+                                            <table
+width="100%" align="left" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF"
+class="first_half_table">
+                                                <tbody>
+                                                    <tr>
+                                                        <td
+class="headline" align="left" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:14px; line-height:18px; mso-line-height-rule: exactly;
+color:#114b8c; font-weight: bold; padding-bottom:5px;">Are you still
+searching for something to keep your constipation from coming back?</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td
+align="left"><span class="textMobileLinkTEXT" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:12px; line-height:18px; mso-line-height-rule: exactly;
+color:#323232; letter-spacing:-0.009em;">It feels like you've tried
+everything, but your constipation and belly pain <br class="nomobile">
+                                                        keep coming back,
+which means you may be dealing with more than <br class="nomobile">
+                                                        constipation. You
+could have <a
+class="nomobile"
+href="http://usatoday.email/anigea?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=5."
+target="_blank" style="color:#6c909a;text-decoration:underline;
+font-weight:bold;">Irritable Bowel Syndrome with Constipation <br
+class="nomobile">
+
+(IBS-C)</a></span><a
+href="http://usatoday.email/sok?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=6."
+class="textMobileLink" style="display:none;
+font-size:0px;">Irritable Bowel Syndrome with Constipation (IBS-C)</a><span
+class="textMobileLinkTEXT" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:12px; line-height:18px; mso-line-height-rule: exactly;
+color:#323232; letter-spacing:-0.009em;"> or <a
+class="nomobile"
+href="http://usatoday.email/sonit?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=7."
+target="_blank" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:12px;color:#6c909a;text-decoration:underline;
+font-weight:bold;">Chronic Idiopathic Constipation (CIC)<span
+class="textMobileLinkTEXT" style="text-decoration:none;
+color:#323232;">.</span></a></span><a
+href="http://usatoday.email/ardyh?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=8."
+class="textMobileLink" style="display:none;
+font-size:0px;">Chronic Idiopathic Constipation (CIC)<span
+style="text-decoration:none; color:#323232;">.</span></a><span
+class="textMobileLinkTEXT" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:12px; line-height:18px; mso-line-height-rule: exactly;
+color:#323232; letter-spacing:-0.009em;"> And if so, you may want <br
+class="nomobile">
+                                                        to try something
+that works differently than laxatives to help keep your <br
+class="nomobile">
+                                                        symptoms from
+coming&nbsp;back.</span><span class="bPad">&nbsp;</span></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td
+class="headline" align="left"><span style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:14px; line-height:18px; mso-line-height-rule: exactly;
+color:#114b8c; font-weight: bold; letter-spacing:-0.035em; padding:5px
+0px;">LINZESS</span><img
+style="display:inline-block;
+font-family:Arial,sans-serif;
+font-size:10px; color:#000000;" border="0"
+src="http://images3.mytake5.com/+SE/+/34361-linzess/r.jpg" width="9"
+height="11" alt=""> <span style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:14px; line-height:18px; mso-line-height-rule: exactly;
+color:#114b8c; font-weight: bold; letter-spacing:-0.035em; padding:5px
+0px;">can help relieve your IBS-C or CIC symptoms.</span></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left"
+style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:12px; line-height:18px; mso-line-height-rule: exactly;
+color:#323232; letter-spacing:-0.009em;">If you're ready to try something
+different, ask your doctor about LINZESS. <br class="nomobile">
+                                                        It works
+differently from over-the-counter laxatives that you may have <br
+class="nomobile">
+                                                        tried. LINZESS can
+help relieve your belly pain and let you have more <br class="nomobile">
+                                                        frequent and
+complete bowel movements that are easier to pass.</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left"
+style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:14px; line-height:18px; color:#114b8c; font-weight:
+bold;letter-spacing:-0.035em; padding:5px 0px;">LINZESS is the #1
+prescribed branded treatment for <br class="nomobile">
+                                                        IBS-C and CIC since
+May 2014. </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td
+class="nomobile" height="5" align="center" valign="top" style="
+font-size:1px; line-height:1px; mso-line-height-rule: exactly;"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center"
+valign="top">
+                                                        <table
+width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td
+class="nomobile" width="140" align="left" valign="top">
+                                                                    <table
+width="100%" border="0" cellspacing="0" cellpadding="0">
+
+<tbody>
+
+<tr>
+
+    <td class="mobile_imageaa" valign="top" style="text-align: center;
+background:#000000; padding:1px;"><a
+href="http://usatoday.email/inirotnas?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=9."
+target="_blank"><img
+src="http://images3.mytake5.com/+SE/+/34361-linzess/steps-towards-relief.png"
+alt="" width="140" height="175" style="display:block;" border="0"></a></td>
+
+</tr>
+
+<tr>
+
+    <td class="mobile_image" valign="top" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:12px; line-height:12px; mso-line-height-rule: exactly;
+color:#323232; text-align: center; padding-top:5px;"><a
+href="http://usatoday.email/sossaht?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=10."
+target="_blank"
+style="color:#6c909a;text-decoration:underline;"><strong>Click to
+download</strong></a></td>
+
+</tr>
+
+</tbody>
+
+</table>
+                                                                    </td>
+                                                                    <td
+class="nomobile" width="5" align="left" valign="top">&nbsp;</td>
+                                                                    <td
+align="left" valign="top">
+                                                                    <table
+width="100%" border="0" cellspacing="0" cellpadding="0">
+
+<tbody>
+
+<tr>
+
+    <td align="left" style="padding-bottom:5px;"><span
+class="textMobileLinkTEXT" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:12px; line-height:18px; mso-line-height-rule: exactly;
+color:#323232; letter-spacing:-0.009em;"> Many doctors have used LINZESS as
+an <br class="nomobile">
+
+    option for their patients. But maybe you're <br class="nomobile">
+
+    not sure how to talk to your doctor about <br class="nomobile">
+
+    your symptoms. Don't worry. Our <br class="nomobile">
+
+    <a
+class="nomobile"
+href="http://usatoday.email/anigea?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=11."
+target="_win" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:12px;color:#6c909a;text-decoration:underline;
+font-weight:bold;">Steps Toward Relief</a></span><a
+href="http://usatoday.email/soihc?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=12."
+class="textMobileLink" style="display:none;
+font-size:0px;">Steps Toward Relief</a><span class="textMobileLinkTEXT"
+style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:12px; line-height:18px; mso-line-height-rule: exactly;
+color:#323232; letter-spacing:-0.009em;"> guide can help you <br
+class="nomobile">
+
+    start the conversation.</span></td>
+
+</tr>
+
+<tr>
+
+    <td align="left" style="padding-bottom:5px;"><span
+class="textMobileLinkTEXT" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:12px; line-height:18px; mso-line-height-rule: exactly;
+color:#323232; letter-spacing:-0.009em;">So, if you're ready to start
+proactively <br class="nomobile">
+
+    managing your symptoms, speak with your <br class="nomobile">
+
+    doctor about LINZESS at your next  visit and <br class="nomobile">
+
+    join the over 1 million patients  who have <br class="nomobile">
+
+    already tried it.*</span></td>
+
+</tr>
+
+</tbody>
+
+</table>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left"><a
+
+class="nomobile"
+href="http://usatoday.email/sorop?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=13."
+target="_blank">
+                                                        <h1><img
+src="http://images3.mytake5.com/+SE/+/34361-linzess/learn-more-2.png"
+border="0" style="display:block" alt=""></h1>
+                                                        </a>
+                                                        <div
+class="shownow" style="mso-hide:all;
+font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px; max-height:
+0; text-decoration:none; width:0; overflow: hidden; display: none;
+float:left;"><a
+href="http://usatoday.email/somas?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=14."
+align="center" target="_blank" style="text-decoration:none;
+border-left-style:none;"><img
+src="http://images3.mytake5.com/+SE/+/34361-linzess/m-learn-how.png"
+border="0" width="1" height="1" style="display:block; text-align:center;"
+class="invImageLearnMore" alt=""></a> </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td
+height="10"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><span style="
+font-size:9px"> *IMS Health, Total Patient Tracker, November 2012-April
+2016.</span></td>
+                                                    </tr>
+                                                    <!--[if !mso]><!-->
+                                                    <tr class="shownow"
+style="
+font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px; max-height:
+0; text-decoration:none; width:0; overflow: hidden; display: none;">
+                                                        <td align="center"
+valign="top" style="display:block; float:left;
+font-size:0%; line-height:0;"><img
+src="http://images3.mytake5.com/+SE/+/34361-linzess/IBS-checklist-2.png"
+border="0" width="1" height="1" style="display:block; text-align:center;"
+class="invImageChecklist" alt=""></td>
+                                                    </tr>
+                                                    <!--<![endif]-->
+                                                    <tr>
+                                                        <td
+class="15"></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            </td>
+                                            <td width="170" valign="top"
+class="nomobile" style="border-left: 1px solid #b3b3b3;">
+                                            <table
+width="160" align="right" border="0" cellspacing="0" cellpadding="0"
+bgcolor="#FFFFFF" class="first_half_table" valign="top">
+                                                <tbody>
+                                                    <tr>
+                                                        <td>
+                                                        <table
+valign="top" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"
+width="100%">
+                                                            <tbody>
+                                                                <tr
+class="nomobile">
+                                                                    <td
+class="headline" align="left" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:12px; line-height:12px; mso-line-height-rule: exactly;
+color:#114b8c; padding-bottom:5px;"><strong>Be proactive</strong></td>
+                                                                </tr>
+                                                                <tr
+class="nomobile">
+                                                                    <td
+align="left" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:12px; line-height:18px; mso-line-height-rule: exactly;
+color:#323232; letter-spacing:-0.009em;">If you're looking for relief,<br>
+                                                                    it's
+time to talk to your doctor&nbsp;about LINZESS. Check&nbsp;out our guide to
+starting&nbsp;the conversation. </td>
+                                                                </tr>
+                                                                <tr
+class="nomobile">
+                                                                    <td
+style="padding:5px 0px 10px;"><a
+href="http://usatoday.email/soxan?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=15."
+target="_blank"><img
+src="http://images3.mytake5.com/+SE/+/34361-linzess/learn-more.png"
+border="0" style="display:block" alt=""></a></td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                        </td>
+                                                    </tr>
+                                                    <tr class="nomobile">
+                                                        <td>
+                                                        <table
+class="nomobile" valign="top" cellpadding="0" cellspacing="0"
+bgcolor="#FFFFFF" width="100%">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td
+align="left" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:14px; line-height:16px; color:#114b8c; font-weight:
+bold;letter-spacing:-0.035em; padding-bottom:5px;">IMPORTANT RISK
+INFORMATION</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td
+align="center" valign="top">
+                                                                    <table
+border="0" cellspacing="0" cellpadding="0">
+
+<tbody>
+
+<tr>
+
+    <td width="10" valign="top" align="left" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:16px; line-height:18px; mso-line-height-rule: exactly;
+color:#000000;">&#8226;</td>
+
+    <td align="left" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:11px; line-height:14px; mso-line-height-rule: exactly;
+color:#323232; font-weight:bold; padding-bottom:3px;">Do not give LINZESS
+to children who are under 6 <br class="nomobile">
+
+    years of age. It may <nobr>harm them.</nobr></td>
+
+</tr>
+
+<tr>
+
+    <td width="10" valign="top" align="left" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:16px; line-height:18px; mso-line-height-rule: exactly;
+color:#000000;">&#8226;</td>
+
+    <td align="left" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:11px; line-height:14px; mso-line-height-rule: exactly;
+color:#323232; font-weight:bold; padding-bottom:3px;">You should not give
+<br class="nomobile">
+
+    LINZESS to children
+
+    6 <br class="nomobile">
+
+    to 17 years of age. It may harm them.</td>
+
+</tr>
+
+<tr>
+
+    <td width="10" valign="top" align="left" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:16px; line-height:18px; mso-line-height-rule: exactly;
+color:#000000;">&#8226;</td>
+
+    <td align="left" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:11px; line-height:14px; mso-line-height-rule: exactly;
+color:#323232; padding-bottom:5px;">Do not take LINZESS if a <br>
+
+    doctor has told you that <br>
+
+    you have a bowel <br>
+
+    blockage (intestinal <br>
+
+    obstruction).</td>
+
+</tr>
+
+</tbody>
+
+</table>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td
+align="left" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:14px; line-height:16px; color:#114b8c; font-weight:
+bold;letter-spacing:-0.035em; padding-bottom:5px;">Please see additional
+Important Risk Information below.</td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left"
+valign="top"><img
+src="http://images3.mytake5.com/+SE/+/34361-linzess/IBS-checklist-2.png"
+width="160" border="0" style="display:block" alt=""></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td height="20"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table
+class="table" cellpadding="0" cellspacing="0" width="600" bgcolor="#ffffff"
+style="min-width:600px;">
+                        <tbody>
+                            <tr>
+                                <td class="hide"></td>
+                                <td class="body" align="left" style="
+font-family: 'Tahoma', Arial, sans-serif;
+font-size: 14px; line-height:16px; color: #6c909a;
+padding-bottom:5px;"><span class="headline"><strong>What is
+LINZESS?</strong></span></td>
+                            </tr>
+                            <tr>
+                                <td width="20" class="hide"></td>
+                                <td class="body" align="left" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:12px; line-height:18px; mso-line-height-rule: exactly;
+color:#000000; letter-spacing:-0.009em; padding-bottom:15px;">LINZESS<sup
+style="line-height:0px;vertical-align:3px;
+font-size:10px;">&reg;</sup> (linaclotide) is a prescription medication
+used in adults to treat irritable bowel syndrome with constipation
+(IBS‑C) and chronic idiopathic constipation (CIC). “Idiopathic” means
+the cause of the constipation is unknown. <b>It is not known if LINZESS is
+safe and effective in children.</b></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <!--ISI-->
+                    <table
+class="table" cellpadding="0" cellspacing="0" width="600" bgcolor="#ffffff"
+style="min-width:600px;">
+                        <tbody>
+                            <tr>
+                                <td width="20" class="hide"></td>
+                                <td class="body" align="left" style="
+font-family: 'Tahoma', Arial, sans-serif;
+font-size: 14px; line-height:16px; color: #6c909a;
+padding-bottom:5px;"><span class="headline"><strong>IMPORTANT RISK
+INFORMATION</strong></span></td>
+                                <td width="50" class="hide"></td>
+                            </tr>
+                            <tr>
+                                <td class="hide"></td>
+                                <td class="body" align="left"
+style="padding-bottom:15px;">
+                                <table
+cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td valign="top" align="left"
+style="
+font-family: 'Tahoma', Arial, sans-serif;
+font-size: 12px; line-height:15px; color: #000000;">&#8226;</td>
+                                            <td width="2"></td>
+                                            <td align="left" style="
+font-family: 'Tahoma', Arial, sans-serif;
+font-size: 12px; line-height:16px; color: #000000;font-weight:bold">Do not
+give LINZESS to children who are under 6 years of age. It may harm
+them.</td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="top" align="left"
+style="
+font-family: 'Tahoma', Arial, sans-serif;
+font-size: 12px; line-height:15px; color: #000000;">&#8226;</td>
+                                            <td width="2"></td>
+                                            <td align="left" style="
+font-family: 'Tahoma', Arial, sans-serif;
+font-size: 12px; line-height:16px; color: #000000;font-weight:bold">You
+should not give LINZESS to children 6 to 17 years of age. It may harm
+them.</td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="top" align="left"
+style="
+font-family: 'Tahoma', Arial, sans-serif;
+font-size: 12px; line-height:15px; color: #000000;">&#8226;</td>
+                                            <td width="2"></td>
+                                            <td align="left" style="
+font-family: 'Tahoma', Arial, sans-serif;
+font-size: 12px; line-height:16px; color: #000000;">Do not take LINZESS if
+a doctor has told you that you have a bowel blockage (intestinal
+obstruction).</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                </td>
+                                <td class="hide"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table
+class="table" cellpadding="0" cellspacing="0" width="600" bgcolor="#ffffff"
+style="min-width:600px;">
+                        <tbody>
+                            <tr>
+                                <td width="20" class="hide"></td>
+                                <td class="body" align="left" style="
+font-family: 'Tahoma', Arial, sans-serif;
+font-size: 14px; line-height:16px; color: #6c909a;
+padding-bottom:5px;"><strong class="headline">Before you take LINZESS, tell
+your doctor:</strong></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table
+class="table" cellpadding="0" cellspacing="0" width="600" bgcolor="#ffffff"
+style="min-width:600px;">
+                        <tbody>
+                            <tr>
+                                <td width="20" class="hide"></td>
+                                <td class="body" align="left"
+style="padding-bottom:15px;">
+                                <table
+cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td valign="top" align="left"
+style="
+font-family: 'Tahoma', Arial, sans-serif;
+font-size: 12px; line-height:18px; color: #000000;">&#8226;</td>
+                                            <td width="5"></td>
+                                            <td align="left" style="
+font-family: 'Tahoma', Arial, sans-serif;
+font-size: 12px; line-height:18px; color: #000000;">If you have any other
+medical conditions.</td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="top" align="left"
+style="
+font-family: 'Tahoma', Arial, sans-serif;
+font-size: 12px; line-height:18px; color: #000000;">&#8226;</td>
+                                            <td width="5"></td>
+                                            <td align="left" style="
+font-family: 'Tahoma', Arial, sans-serif;
+font-size: 12px; line-height:18px; color: #000000;">If you are pregnant or
+plan to become pregnant. It is not known if LINZESS will harm your
+unborn&nbsp;baby.</td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="top" align="left"
+style="
+font-family: 'Tahoma', Arial, sans-serif;
+font-size: 12px; line-height:18px; color: #000000;">&#8226;</td>
+                                            <td width="5"></td>
+                                            <td align="left" style="
+font-family: 'Tahoma', Arial, sans-serif;
+font-size: 12px; line-height:18px; color: #000000;">If you are
+breastfeeding or plan to breastfeed. It is not known if LINZESS passes into
+your breast&nbsp;milk.</td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="top" align="left"
+style="
+font-family: 'Tahoma', Arial, sans-serif;
+font-size: 12px; line-height:18px; color: #000000;">&#8226;</td>
+                                            <td width="5"></td>
+                                            <td align="left" style="
+font-family: 'Tahoma', Arial, sans-serif;
+font-size: 12px; line-height:18px; color: #000000;"><strong>About all the
+medicines you take</strong>, including prescription and over-the-counter
+medicines, vitamins, and herbal supplements.</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                </td>
+                                <td width="50" class="hide"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table
+class="table" cellpadding="0" cellspacing="0" width="600" bgcolor="#ffffff"
+style="min-width:600px;">
+                        <tbody>
+                            <tr>
+                                <td class="hide"></td>
+                                <td class="body" align="left" style="
+font-family: 'Tahoma', Arial, sans-serif;
+font-size: 14px; line-height:16px; color: #6c909a;
+padding-bottom:5px;"><span class="headline"><strong>Side
+Effects</strong></span></td>
+                            </tr>
+                            <tr>
+                                <td width="20" class="hide"></td>
+                                <td class="body" align="left" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:12px; line-height:18px; mso-line-height-rule: exactly;
+color:#000000; letter-spacing:-0.009em;
+padding-bottom:15px;"><strong>LINZESS can cause serious side effects,
+including diarrhea, the most common side effect,
+                                which can sometimes be severe.</strong>
+Diarrhea often begins with the first 2 weeks of LINZESS
+                                treatment. <strong>Stop taking LINZESS and
+call your doctor right away if you get severe diarrhea
+                                during treatment with
+LINZESS.</strong></td>
+                            </tr>
+                            <tr>
+                                <td width="20" class="hide"></td>
+                                <td class="body" align="left" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:12px; line-height:18px; mso-line-height-rule: exactly;
+color:#000000; letter-spacing:-0.009em; padding-bottom:15px;">Other common
+side effects of LINZESS include gas, stomach-area (abdominal) pain,
+swelling, or a feeling of fullness or pressure in your abdomen
+(distension). Tell your doctor if you have any side effect that bothers you
+or that does not go away. These are not all the possible side effects of
+LINZESS. For more information, ask your doctor or pharmacist.</td>
+                            </tr>
+                            <tr>
+                                <td width="20" class="hide"></td>
+                                <td class="body" align="left" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:12px; line-height:18px; mso-line-height-rule: exactly;
+color:#000000; letter-spacing:-0.009em; padding-bottom:15px;"><strong>In
+addition, call your doctor or go to the nearest hospital emergency room
+right away if you develop unusual or severe stomach-area (abdominal) pain,
+especially if you also have bright red, bloody stools or black stools that
+look like tar.</strong></td>
+                            </tr>
+                            <tr>
+                                <td width="20" class="hide"></td>
+                                <td class="body" align="left" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:12px; line-height:18px; mso-line-height-rule: exactly;
+color:#000000; letter-spacing:-0.009em; padding-bottom:15px;">Please also
+see <a
+href="http://usatoday.email/sorys?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=16."
+target="_blank" style="text-decoration:underline;
+color:#6C909A;"><strong>Medication Guide</strong></a> within <nobr><a
+href="http://usatoday.email/sorop?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=17."
+target="_blank" style="text-decoration:underline;
+color:#6C909A;"><strong>full Prescribing
+Information</strong></a>.</nobr></td>
+                            </tr>
+                            <tr>
+                                <td width="20" class="hide"></td>
+                                <td class="body" align="left" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:12px; line-height:18px; mso-line-height-rule: exactly;
+color:#114b8c; letter-spacing:-0.009em; font-weight:bold;
+padding-bottom:15px;">Ask your doctor about LINZESS today.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <!--Footer-->
+                    <table
+class="table" cellpadding="0" cellspacing="0" width="600" bgcolor="#6C909A"
+style="min-width:600px;">
+                        <tbody>
+                            <tr>
+                                <td colspan="2" style="padding:10px;">
+                                <table
+cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="hide"></td>
+                                <td class="footer" align="left"><span
+class="textMobileLink3W" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:11px; line-height:15px; mso-line-height-rule: exactly;
+color:#ffffff;">PLEASE NOTE: DO NOT REPLY TO THIS EMAIL. Emails sent to
+this account will not be read.<br>
+                                We respect your privacy. See our <a
+class="nomobile"
+href="http://usatoday.email/sok?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=18."
+target="_blank" style="text-decoration:underline;color:#ffffff;">Privacy
+Policy</a></span><a
+href="http://usatoday.email/sonokym?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=159571&l=19."
+class="textMobileLink3" style="display:none;
+
+font-size:0px;">Privacy Policy</a><span class="textMobileLink3W" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:11px; line-height:15px; mso-line-height-rule: exactly;
+color:#ffffff;">.<br>
+                                For more information, call <a
+href="tel:1-800-546399" style="color:#FFFFFF">1-800-LINZESS.</a><br>
+                                <br>
+                                </span></td>
+                            </tr>
+                            <tr>
+                                <td class="hide"></td>
+                                <td class="footer" align="left" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size: 11px; line-height:15px; color: #ffffff;
+padding-bottom:15px;"><img
+src="http://images3.mytake5.com/+SE/+/34361-linzess/logo.png" width="152"
+height="42" border="0" alt="" title="" style="display:block;"></td>
+                            </tr>
+                            <tr>
+                                <td width="20" class="hide"></td>
+                                <td class="footer" align="left"><span
+class="textMobileLink3W" style="
+font-family:Arial, 'Tahoma', Helvetica, sans-serif;
+font-size:11px; line-height:15px; mso-line-height-rule: exactly;
+color:#ffffff;"> Allergan<sup style="line-height:0px;vertical-align:3px;
+font-size:9px">&reg;</sup> and its design are trademarks of Allergan, Inc.
+<br>
+                                <br>
+                                Ironwood<sup
+style="line-height:0px;vertical-align:3px;
+font-size:9px">&reg;</sup> and its three-leaf design are trademarks of
+Ironwood Pharmaceuticals, Inc.<br>
+                                <br>
+                                LINZESS<sup
+style="line-height:0px;vertical-align:3px;
+font-size:9px">&reg;</sup> and its design are registered trademarks of
+Ironwood Pharmaceuticals, Inc.<br>
+                                <br>
+                                &copy;2016 Allergan and Ironwood
+Pharmaceuticals, Inc.  All rights reserved.<br>
+                                <br>
+                                LIN51266 <span class="appleLinksWhite"
+style="color:#FFFFFF !important">07/16</span><br>
+                                </span></td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" style="padding:25px;">
+                                <table
+cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <!--end #main-table-->
+        </div>
+        <!--end #body_style-->
+        <!--end body-->
+        <!--end html-->
+    <img
+src="https://take5tracking.com/redirect/shim.gif?utm_campaign=34361_D4_B1_Linzess&utm_medium=OPEN_PIXEL"
+width="1" height="1" border="0" alt="" style="display:block"></body>
+</html><br><br>
+<center>
+<p title="Company Name" style="font-size: 11px; color: #707070;">Take 5
+Media</p>
+<p title="Company Address" style="font-size: 11px; color: #707070;">P.O Box
+811502</p>
+<p title="Company City" style="font-size: 11px; color: #707070;">Boca
+Raton, FL</p>
+<p title="Company Zip" style="font-size: 11px; color: #707070;">33481</p>
+<p style="font-size: 11px; color: #707070;">Click <a
+href="http://usatoday.email/1/unsub.do?e=abovebluesky@gmail.com&m=159571">here</a>
+to unsubscribe.</p></center><br
+class='1_QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP_159571_slWYtVmL5FGZvRXYzVnL5ZWasBXblhXZD'/>
+<img
+src="http://usatoday.email/clickopen?msgid=159571&email=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP"
+width="1" height="1">
+---=fb623d51a0c9258c57c2ae370774f0ed--

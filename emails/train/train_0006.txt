@@ -1,0 +1,279 @@
+Delivered-To: alexey.novak.mail@gmail.com
+Received: by 10.36.213.130 with SMTP id a124csp569218itg;
+        Thu, 29 Sep 2016 13:29:50 -0700 (PDT)
+X-Received: by 10.31.227.129 with SMTP id a123mr3020373vkh.65.1475180990332;
+        Thu, 29 Sep 2016 13:29:50 -0700 (PDT)
+Return-Path: <return+-a9-1895-1902-alexey.novak.mail=gmail.com=4@mailer.liveserveronline.com>
+Received: from smtp1-5.mailer.liveserveronline.com (smtp1-5.mailer.liveserveronline.com. [158.85.29.52])
+        by mx.google.com with SMTP id y124si5072798vkc.12.2016.09.29.13.29.50
+        for <alexey.novak.mail@gmail.com>;
+        Thu, 29 Sep 2016 13:29:50 -0700 (PDT)
+Received-SPF: pass (google.com: domain of return+-a9-1895-1902-alexey.novak.mail=gmail.com=4@mailer.liveserveronline.com designates 158.85.29.52 as permitted sender) client-ip=158.85.29.52;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@liveserveronline.com;
+       spf=pass (google.com: domain of return+-a9-1895-1902-alexey.novak.mail=gmail.com=4@mailer.liveserveronline.com designates 158.85.29.52 as permitted sender) smtp.mailfrom=return+-a9-1895-1902-alexey.novak.mail=gmail.com=4@mailer.liveserveronline.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=liveserveronline.com; s=default; t=1475180987; bh=Hi4D1S8phdbUDpK7m3Z9bi/91Ds=; h=Subject:From:To:Date:List-Unsubscribe:X-Mailer:X-CampaignID:
+   Message-ID:X-Mailer-Info:MIME-Version:Content-Type; b=s8tWMvuodyoHY7WnX26O+ifCeW2/IWcLw6OEpjjS+baV4ZBslBWbszKOPlOyHMfb5
+   XEMJofQ01bvGpUgNhbyqBgLfqkXudgPGdbusj5b9cK1CNdE7Wwn9CCEzmgYS/57b0i
+   xlyvD9c1ubr4+9+Ke7qUSZqQI7LcpegY/pwHL7Kw=
+Subject: Secrets to Making an Addictive App
+From: "Jeff @ App Builder" <info@liveserveronline.com>
+To: alexey.novak.mail@gmail.com
+Date: 29 Sep 2016 20:29:47 -0000
+List-Unsubscribe: <http://mailer.liveserveronline.com/ga/unsubscribe/2-533041-9-294-1902-e551a49cd5da02b-dc95a81825>, <mailto:return+-a9-1895-1902-alexey.novak.mail=gmail.com=4u@mailer.liveserveronline.com>
+X-Mailer: GreenArrow Studio (v4.78.0)
+X-CampaignID: s4:1895-7cfa0d97f3c53ca2
+Message-ID: <mid-c05c179996203f24572b258e8664fe07@mailer.liveserveronline.com>
+X-Mailer-Info: 4.EWO.QM4kTN.hxWZ4VWeu42b2F2au0WYpxGQn1WYpxmLj9Wb.QM5AjM
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==133f17e3326c6a6ef61cab7cde8268b3"
+
+--==133f17e3326c6a6ef61cab7cde8268b3
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+An addictive app should be unique and tap into what users want. On the same=
+ lines, an app that includes setting goals can also be addictive to users a=
+s they struggle to meet and beat targets. According to Techinasia.com, Flap=
+py Bird is addictive as it holds all the above quality to draw player=E2=80=
+=99s attention to it.
+
+Hook: To make an app addictive, it needs a hook. An app to bring out emotio=
+n. Negative ones are the most effective, like stress or frustration.
+
+Repetition: Apps that constantly require repeating the same actions are als=
+o effective in luring users.
+
+Leave Users Wanting More: Developers should impose time limits as this leav=
+es users wanting to achieve extra. Candy Crush is a unique widespread app t=
+hat does this well.
+
+Notifications: Notify and remind a user of the app. This method is used wel=
+l by Twitter and Facebook.
+
+Being Social: Developers can take advantage of this by linking apps to Face=
+book and Twitter. These actions have proven to be addictive, as people like=
+ to share their updates with friends.
+
+Fun: A fun app pleases users and can even act as a form of distraction.
+
+Rewards: Apps that reward users and their performance, such as Candy Crush =
+and Foursquare, have proved to be particularly addictive.
+
+Let Users Be Creative: Let users show their artistic side. Instagram lets u=
+sers manipulate photos and run wild with their imagination; possibly a reas=
+on for their popularity.
+
+Longevity or Novelty: Added challenge is generating an addictive app that h=
+as longevity rather than one that is downloaded a lot, but only utilized on=
+ce or twice.
+
+A high number of app downloads can still play a role in its success. With f=
+ree apps, there is always a likelihood that free users can be converted int=
+o paid ones.  For paid apps, the greater number of downloads, the higher th=
+e revenue.
+
+How to Achieve Addictive App Status: Making an app that not only becomes po=
+pular but is something users can=E2=80=99t live without is difficult. Howev=
+er, apps that combine the mentioned addictive essentials are likely to go f=
+ar.
+
+
+Sign Up for 30-Day Free Trial  Click Here http://mailer.liveserveronline.co=
+m/ga/click/2-533041-9-294-1902-923-cfd4038813-dc95a81825
+
+Get Your OWN Branded App for iPhone, iPad and Android!
+
+Just enter the promo code when you sign up.Hurry this deal ends soon!=20
+
+ =20
+  Mobile Marketing with Branded App for iPhone, iPad and Android.
+=20
+The GrayBar Building at Grand Central
+420 Lexington Avenue, Suite 300
+New York, NY 10170=20
+http://mailer.liveserveronline.com/ga/unsubscribe/2-533041-9-294-1902-e551a=
+49cd5da02b-dc95a81825 Unsubscribe me from this mailing list
+--==133f17e3326c6a6ef61cab7cde8268b3
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+
+<head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso=
+-8859-1" >
+
+=09<title></title>
+
+</head>
+
+<body bgcolor=3D"#595959">
+<p>&#160;</p>
+<table style=3D"border-collapse: collapse;" border=3D"0" width=3D"100%" cel=
+lspacing=3D"0" cellpadding=3D"0" align=3D"center" bgcolor=3D"#595959">
+<tbody>
+<tr>
+<td valign=3D"top"><center style=3D"width: 100%;">
+<div style=3D"border: solid 1px #cccccc; width: 682px;">
+<table width=3D"702" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" b=
+gcolor=3D"#FFFFFF">
+<tbody>
+<tr>
+<td style=3D"text-align: center;">
+<p><strong><span style=3D"font-family: verdana, geneva; font-size: 18pt;">S=
+ecrets to Making an Addictive App</span></strong></p>
+<p><span style=3D"font-family: Helvetica, Arial, sans-serif;"><span style=
+=3D"font-family: Helvetica, Arial, sans-serif;"><a href=3D"http://mailer.li=
+veserveronline.com/ga/click/2-533041-9-294-1902-923-cfd4038813-dc95a81825">=
+<img src=3D"http://mailer.liveserveronline.com/ga/campaign_images/294/App-B=
+uilder-Logo-PNG.PNG" alt=3D"" width=3D"153" height=3D"58" /></a><br /></spa=
+n></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"width: 368px; font-family: Arial; font-size: 10pt; color: #000=
+000; padding-top: 15px; padding-left: 15px;">
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;">An addict=
+ive app should be unique and tap into what users want. On the same lines, a=
+n app that includes setting goals can also be addictive to users as they st=
+ruggle to meet and beat targets. According to Techinasia.com, Flappy Bird i=
+s addictive as it holds all the above quality to draw player&#8217;s attent=
+ion to it.</span></p>
+<p><a href=3D"http://mailer.liveserveronline.com/ga/click/2-533041-9-294-19=
+02-923-cfd4038813-dc95a81825"><span style=3D"font-size: 10pt; font-family: =
+verdana, geneva;"><img style=3D"display: block; margin-left: auto; margin-r=
+ight: auto;" src=3D"http://mailer.liveserveronline.com/ga/campaign_images/2=
+94/app17Aug.JPG" alt=3D"" width=3D"273" height=3D"212" /></span></a></p>
+<p>&#160;</p>
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;"><strong>H=
+ook:</strong> To make an app addictive, it needs a hook. An app to bring ou=
+t emotion. Negative ones are the most effective, like stress or frustration=
+.</span></p>
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;"><strong>R=
+epetition:</strong> Apps that constantly require repeating the same actions=
+ are also effective in luring users.</span>&#160;</p>
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;"><strong>L=
+eave Users Wanting More:</strong> Developers should impose time limits as t=
+his leaves users wanting to achieve extra. Candy Crush is a unique widespre=
+ad app that does this well.</span>&#160;</p>
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;"><strong>N=
+otifications:</strong> Notify and remind a user of the app. This method is =
+used well by Twitter and Facebook.</span>&#160;</p>
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;"><strong>B=
+eing Social:</strong> Developers can take advantage of this by linking apps=
+ to Facebook and Twitter. These actions have proven to be addictive, as peo=
+ple like to share their updates with friends.</span>&#160;</p>
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;"><strong>F=
+un:</strong> A fun app pleases users and can even act as a form of distract=
+ion.</span>&#160;</p>
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;"><strong>R=
+ewards:</strong> Apps that reward users and their performance, such as Cand=
+y Crush and Foursquare, have proved to be particularly addictive.</span>&#1=
+60;</p>
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;"><strong>L=
+et Users Be Creative:</strong> Let users show their artistic side. Instagra=
+m lets users manipulate photos and run wild with their imagination; possibl=
+y a reason for their popularity.</span></p>
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;"><strong>L=
+ongevity or Novelty:</strong> Added challenge is generating an addictive ap=
+p that has longevity rather than one that is downloaded a lot, but only uti=
+lized once or twice.</span>&#160;</p>
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;">A high nu=
+mber of app downloads can still play a role in its success. With free apps,=
+ there is always a likelihood that free users can be converted into paid on=
+es. For paid apps, the greater number of downloads, the higher the revenue.=
+</span></p>
+<p><span style=3D"font-size: 10pt; font-family: verdana, geneva;"><strong>H=
+ow to Achieve Addictive App Status:</strong> Making an app that not only be=
+comes popular but is something users can&#8217;t live without is difficult.=
+ However, apps that combine the mentioned addictive essentials are likely t=
+o go far.</span>&#160;</p>
+<table class=3D"devicebutton" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" align=3D"center">
+<tbody>
+<tr>
+<td style=3D"border-radius: 45px;" align=3D"center" bgcolor=3D"#00BB0F"><a =
+class=3D"devicebutton" style=3D"font-family: Helvetica,Arial,sans-serif; fo=
+nt-size: 18px; font-weight: bold; color: #ffffff; text-decoration: none; di=
+splay: inline-block; padding: 15px 30px 13px; background-color: #00bb0f; ba=
+ckground-image: linear-gradient(to top, #00BB0F 0%, #00BB0F 100%); border-r=
+adius: 45px; border: 1px solid #00BB0F;" href=3D"http://mailer.liveserveron=
+line.com/ga/click/2-533041-9-294-1902-923-cfd4038813-dc95a81825" target=3D"=
+_blank">Sign Up for 30-Day Free Trial</a></td>
+</tr>
+</tbody>
+</table>
+<p style=3D"text-align: center;"><span style=3D"font-size: 10pt; font-famil=
+y: verdana, geneva; color: #ff0000;"><strong>Get Your OWN Branded App for i=
+Phone, iPad and Android!</strong></span></p>
+<p style=3D"text-align: center;"><span style=3D"font-size: 10pt; font-famil=
+y: verdana, geneva;"><strong>Just enter the promo code when you sign up.Hur=
+ry this deal ends soon!&#160;</strong></span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: Helvetica, Ari=
+al, sans-serif;"><span style=3D"font-family: Helvetica, Arial, sans-serif;"=
+>&#160;<a href=3D"http://mailer.liveserveronline.com/ga/click/2-533041-9-29=
+4-1902-923-cfd4038813-dc95a81825"><img src=3D"https://mailer.liveserveronli=
+ne.com/ga/campaign_images/30/appbuildercoupon.jpg" alt=3D"" width=3D"285" h=
+eight=3D"151" /></a>&#160;&#160;</span></span></p>
+</td>
+<!---------------></tr>
+<tr>
+<td colspan=3D"2"><span style=3D"font-family: Helvetica, Arial, sans-serif;=
+"><span style=3D"font-size: 14px;">&#160;</span></span></td>
+</tr>
+<tr>
+<td style=3D"background-color: #d9100f; height: 20px;" colspan=3D"2">
+<div style=3D"color: #ffffff; font-family: Verdana; font-size: 7pt;"><span =
+style=3D"font-size: 10pt;"><a style=3D"font-size: 14px;" href=3D"http://mai=
+ler.liveserveronline.com/ga/click/2-533041-9-294-1902-923-cfd4038813-dc95a8=
+1825"><span style=3D"color: #000000; font-family: Helvetica, Arial, sans-se=
+rif;"><img style=3D"float: left;" src=3D"https://mailer.liveserveronline.co=
+m/ga/campaign_images/30/appfooter.PNG" alt=3D"" width=3D"195" height=3D"87"=
+ /></span></a></span></div>
+<div style=3D"color: #ffffff; font-family: Verdana; font-size: 7pt;"><span =
+style=3D"color: #000000; font-family: Helvetica, Arial, sans-serif;"><span =
+style=3D"color: #000000; font-family: Helvetica, Arial, sans-serif;">&#160;=
+</span></span></div>
+<div style=3D"color: #ffffff; font-family: Verdana; font-size: 7pt;"><span =
+style=3D"color: #000000; font-family: Helvetica, Arial, sans-serif;"><span =
+style=3D"color: #000000; font-family: Helvetica, Arial, sans-serif;">&#160;=
+</span></span></div>
+<div style=3D"color: #ffffff; font-family: Verdana; font-size: 7pt;"><span =
+style=3D"color: #000000; font-family: Helvetica, Arial, sans-serif;"><span =
+style=3D"color: #000000; font-family: Helvetica, Arial, sans-serif;">&#160;=
+</span></span></div>
+<div style=3D"color: #ffffff; font-family: Verdana; font-size: 7pt;"><span =
+style=3D"color: #000000; font-family: Helvetica, Arial, sans-serif;"><span =
+style=3D"font-size: 14px;">&#160;</span></span></div>
+<div style=3D"color: #ffffff; font-family: Verdana; font-size: 7pt;"><span =
+style=3D"color: #000000; font-family: Helvetica, Arial, sans-serif;"><span =
+style=3D"font-size: 14px;">&#160;</span></span></div>
+<div style=3D"color: #ffffff; font-family: Verdana; font-size: 7pt;"><span =
+style=3D"color: rgb(255, 255, 255);"><strong><span style=3D"font-size: 10pt=
+;"><span style=3D"font-family: Helvetica, Arial, sans-serif;"><span style=
+=3D"background-color: #d9100f;">Mobile Marketing with Branded App for iPhon=
+e, iPad and Android.</span>&#160;</span></span></strong></span></div>
+</td>
+</tr>
+<tr>
+<td style=3D"font-family: Verdana; font-size: 9px; color: #000000; line-hei=
+ght: 1.6em;" colspan=3D"2"><span style=3D"font-family: Helvetica, Arial, sa=
+ns-serif; font-size: 10pt;"><span style=3D"font-family: Helvetica, Arial, s=
+ans-serif;">The GrayBar Building at Grand Central<br />420 Lexington Avenue=
+, Suite 300<br />New York, NY 10170&#160;<br /><a href=3D"http://mailer.liv=
+eserveronline.com/ga/unsubscribe/2-533041-9-294-1902-e551a49cd5da02b-dc95a8=
+1825">Unsubscribe me from this mailing list</a></span></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</center></td>
+</tr>
+</tbody>
+</table>
+<img src=3D"http://mailer.liveserveronline.com/ga/open/2-533041-9-294-1902-=
+dc95a81825" height=3D"2" width=3D"3" alt=3D""></body></html>
+--==133f17e3326c6a6ef61cab7cde8268b3--

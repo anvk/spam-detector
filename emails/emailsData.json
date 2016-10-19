@@ -1,0 +1,44 @@
+{
+  "trainData": [
+    {
+      "name": "train_0001.txt",
+      "classifier": 0
+    },
+    {
+      "name": "train_0002.txt",
+      "classifier": 0
+    },
+    {
+      "name": "train_0003.txt",
+      "classifier": 0
+    },
+    {
+      "name": "train_0004.txt",
+      "classifier": 0
+    },
+    {
+      "name": "train_0005.txt",
+      "classifier": 0
+    },
+    {
+      "name": "train_0006.txt",
+      "classifier": 0
+    },
+    {
+      "name": "train_0007.txt",
+      "classifier": 0
+    },
+    {
+      "name": "train_0008.txt",
+      "classifier": 0
+    },
+    {
+      "name": "train_0009.txt",
+      "classifier": 0
+    },
+    {
+      "name": "train_0010.txt",
+      "classifier": 0
+    }
+  ]
+}

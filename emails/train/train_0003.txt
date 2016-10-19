@@ -1,0 +1,109 @@
+Delivered-To: alexey.novak.mail@gmail.com
+Received: by 10.36.213.130 with SMTP id a124csp1511548itg;
+        Mon, 3 Oct 2016 00:25:56 -0700 (PDT)
+X-Received: by 10.31.174.134 with SMTP id x128mr13420139vke.73.1475479556421;
+        Mon, 03 Oct 2016 00:25:56 -0700 (PDT)
+Return-Path: <werberthfurtado@detran.ma.gov.br>
+Received: from mail3.seati.ma.gov.br (mail3.seati.ma.gov.br. [201.18.153.129])
+        by mx.google.com with ESMTPS id q18si7780172vka.74.2016.10.03.00.25.55
+        (version=TLS1 cipher=AES128-SHA bits=128/128);
+        Mon, 03 Oct 2016 00:25:56 -0700 (PDT)
+Received-SPF: pass (google.com: domain of werberthfurtado@detran.ma.gov.br designates 201.18.153.129 as permitted sender) client-ip=201.18.153.129;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of werberthfurtado@detran.ma.gov.br designates 201.18.153.129 as permitted sender) smtp.mailfrom=werberthfurtado@detran.ma.gov.br
+Received: from mail.seati.ma.gov.br (mail.seati.ma.gov.br [172.16.2.155]) by mail3.seati.ma.gov.br (8.14.3/8.14.3/Debian-9.4) with ESMTP id u937PqMg030022; Mon, 3 Oct 2016 04:25:52 -0300
+Received: from mail.detran.ma.gov.br (mail.detran.ma.gov.br [10.100.30.62]) by mail.seati.ma.gov.br (Postfix) with ESMTP id 68E8B140097; Mon,
+  3 Oct 2016 04:25:50 -0300 (BRT)
+Received: from localhost (localhost [127.0.0.1]) by mail.detran.ma.gov.br (Postfix) with ESMTP id 2009DCC2249; Mon,
+  3 Oct 2016 04:25:50 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at mail.detran.ma.gov.br
+Received: from mail.detran.ma.gov.br ([127.0.0.1]) by localhost (mail.detran.ma.gov.br [127.0.0.1]) (amavisd-new, port 10026) with ESMTP id TTGiGKhoehjJ; Mon,
+  3 Oct 2016 04:25:49 -0300 (BRT)
+Received: from mail.detran.ma.gov.br (mail.detran.ma.gov.br [172.17.14.31]) by mail.detran.ma.gov.br (Postfix) with ESMTP id 95248CC2244; Mon,
+  3 Oct 2016 04:25:47 -0300 (BRT)
+Date: Mon, 3 Oct 2016 04:25:47 -0300 (BRT)
+From: Credit Suisse Bank England <werberthfurtado@detran.ma.gov.br>
+Reply-To: Chris Williams <chriswilliams-creditsuisse@mail.com>
+Message-ID: <1476791145.160393.1475479547573.JavaMail.root@detran.ma.gov.br>
+Subject: Credit Suisse Bank England
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [74.82.4.45]
+X-Mailer: Zimbra 8.0.0_GA_5434 (zclient/8.0.0_GA_5434)
+Thread-Topic: Credit Suisse Bank England
+Thread-Index: BGGpmXg8txJQnuGrcWT20jvKxioUtw==
+To: undisclosed-recipients:;
+X-Bayes-Prob: 0.5 (Score 0: No Bayes scoring rules defined, tokens from: saida)
+X-Spam-Score: 1.27 (*) [Hold at 12.00] HELO_NO_DOMAIN:0.001,RDNS_NONE:1.274
+X-CanIt-Incident-Id: 01ROTpQx4
+X-CanIt-Geo: No geolocation information available for 10.100.30.62
+X-CanItPRO-Stream: saida
+X-Canit-Stats-ID: 01ROTpQx4 - 00ccfdd05611
+X-Scanned-By: CanIt (www . roaringpenguin . com) on 172.16.2.54
+
+Guten Tag, wie geht es Ihnen heute? Ich habe Ihre E-Mail-Kontakt aus Ihrem =
+Land Business Directory und beschlossen, mit Ihnen in Verbindung zu diesem =
+Business-Vorschlag. Ich bin Herr Chris Williams der Investment Banking Abte=
+ilung der Credit Suisse Bank One Cabot Square, London E14 4QJ, Gro=C3=9Fbri=
+tannien. Ich bin Kontaktaufnahme mit Ihnen in Bezug auf ein Gesch=C3=A4ft V=
+orschlag, die von einer immensen Vorteil f=C3=BCr uns beide sein wird.
+
+In meiner Abteilung, entdeckte ich eine verlassene Summe von =C2=A3 17,5 Mi=
+o. GBP (Siebzehn Millionen f=C3=BCnfhunderttausend britische Pfund Sterling=
+) in einem Konto, das zu einem unserer ausl=C3=A4ndischen Kunden verstorben=
+en Herrn Brodskij Nikolai, ein russischer Gesch=C3=A4ftsmann, der ein Opfer=
+ war, geh=C3=B6rt der Malaysia Airlines Flight 370 (MH370 / MAS370), die im=
+ S=C3=BCden der indische Ozean auf 8. M=C3=A4rz 2014 auf dem Weg von Kuala =
+Lumpur international Airport abgest=C3=BCrzt zu Beijing Capital Internation=
+al Airport zu t=C3=B6ten alle an Bord.
+
+Informieren Sie sich =C3=BCber den untenstehenden Link f=C3=BCr die Passagi=
+erliste:
+
+
+http://online.wsj.com/news/articles/SB1000142405270230336990457942723012786=
+6184
+
+MR Brodskij Nikolai Nummer 7 auf der Liste, Seit seinem Tod unserer Bank ha=
+t f=C3=BCr die n=C3=A4chsten Angeh=C3=B6rigen zu kommen f=C3=BCr die Behaup=
+tung seiner Gelder und G=C3=BCter sch=C3=A4tzten die Summe von =C2=A3 17,5 =
+Mio. GBP, aber niemand hat so, ich pers=C3=B6nlich getan gewartet , waren n=
+icht erfolgreich bei der Suche nach einer seiner Verwandten. Ich suche Ihre=
+ Zustimmung an Sie an die Bank, wie die n=C3=A4chsten Angeh=C3=B6rigen des =
+Verstorbenen zu pr=C3=A4sentieren, so dass die Erl=C3=B6se aus diesem Konto=
+ bei =C2=A3 17,5 Mio. GBP an Sie gezahlt werden bewertet.
+
+
+Der Deal wird in diesem Verh=C3=A4ltnis aufgeteilt: 55% f=C3=BCr mich und 4=
+5% zu Ihnen. Ich habe in meinem Besitz alle notwendigen und wichtigen Dokum=
+ente, die in diesem Gesch=C3=A4ft verwendet werden kann. Ich brauche Ihre e=
+hrliche Zusammenarbeit, Verschwiegenheit und Vertrauen, damit wir sehen die=
+se Verhandlung durch. Ich garantiere Ihnen 100% Erfolg in diesem Gesch=C3=
+=A4ft, wenden Sie sich bitte sicher sein, dass Sie das Angebot unter einer =
+legitimen Anordnung, die Sie aus der Verletzung des Gesetzes sowohl hier al=
+s auch in Gro=C3=9Fbritannien und in Ihrem Land zu sch=C3=BCtzen wird ausge=
+f=C3=BChrt.
+
+Wenn Sie in der Lage, dem Umgang mit diesem Angebot sind, bitte zur=C3=BCck=
+ zu mir mit folgenden Angaben, damit wir fortfahren:
+
+1. Ihr vollst=C3=A4ndiger Name:
+2. Telefonnummer:
+3. Kontakt-Adresse:
+4. Alter:
+5. Geschlecht:
+6. Beruf:
+7. Ihre Nationalit=C3=A4t:
+
+
+Nachdem durch eine methodische Suche gegangen, entschied ich mich, Sie zu k=
+ontaktieren hoffen, dass Sie diesen Vorschlag interessant, Bitte auf Ihrer =
+Best=C3=A4tigung dieser Nachricht und geben Sie Ihr Interesse, ich will dic=
+h mit mehr Informationen liefern zu finden.
+
+Ihre Zustimmung zu dieser E-Mail und Business-Vorschlag wird sehr gesch=C3=
+=A4tzt werden.
+
+Freundliche Gr=C3=BC=C3=9Fe,
+Chris Williams

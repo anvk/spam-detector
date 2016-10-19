@@ -1,0 +1,101 @@
+Delivered-To: alexey.novak.mail@gmail.com
+Received: by 10.36.213.130 with SMTP id a124csp452526itg;
+        Fri, 30 Sep 2016 13:03:43 -0700 (PDT)
+X-Received: by 10.157.35.247 with SMTP id t110mr6941033otb.134.1475265823242;
+        Fri, 30 Sep 2016 13:03:43 -0700 (PDT)
+Return-Path: <info@hostingseo.net>
+Received: from zsthai001.zidit.com ([103.245.167.114])
+        by mx.google.com with ESMTPS id 61si8147666ott.273.2016.09.30.13.03.42
+        for <alexey.novak.mail@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 30 Sep 2016 13:03:43 -0700 (PDT)
+Received-SPF: pass (google.com: domain of info@hostingseo.net designates 103.245.167.114 as permitted sender) client-ip=103.245.167.114;
+Authentication-Results: mx.google.com;
+       dkim=temperror (no key for signature) header.i=@zsthai001.zidit.com;
+       spf=pass (google.com: domain of info@hostingseo.net designates 103.245.167.114 as permitted sender) smtp.mailfrom=info@hostingseo.net
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=zsthai001.zidit.com; s=mail; h=Date:Message-Id:From:Content-type:MIME-Version:Subject:To; bh=1sacroLxyLDki/HSn44GpLlNgqtmmmgeDWlmDTT7gF0=; b=jvjxTlk1IxoVtmP4ojewdKYTU472XZ93ZHwW7PLjqBa5eWXAcSRHfMb8iciQD82rXOOCcdykRGpF3gEC8Z/pFE0ldl18FVu+1Ca73YOt2WYAEET7rQfBLt040Jm6hDDfJeCVz1hSRspbG8d5qmEjPid0VTq3Ueqctb+C5u0Cc6c=;
+Received: from testaccount by zsthai001.zidit.com with local (Exim 4.84_2) (envelope-from <info@hostingseo.net>) id 1bq41y-0002V1-KF for alexey.novak.mail@gmail.com; Sat, 01 Oct 2016 03:03:38 +0700
+To: alexey.novak.mail@gmail.com
+Subject: Your invoice from Apple Order iTunes Verification required
+X-PHP-Originating-Script: 512:r.php(35) : eval()'d code
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: "Apple Inc." <noreplay@zsthai001.zidit.com>
+Message-Id: <E1bq41y-0002V1-KF@zsthai001.zidit.com>
+Date: Sat, 01 Oct 2016 03:03:38 +0700
+
+<html>
+<head>
+<td style="border-collapse:collapse;">
+
+
+
+
+
+
+  <table border="0" width="600" cellpadding="0" cellspacing="0" align="center" class="ecxemail-container" style="border-spacing:0;">
+<tbody><tr>
+<td height="30" style="font-size:0;line-height:0;border-collapse:collapse;"> </td>
+    </tr>
+<tr>
+<td class="ecxforce-col-center" valign="middle" style="text-align:left;border-collapse:collapse;padding:20px 0;" align="left">
+        <img class="ecxapple_logo" width="22" height="26" src="https://statici.icloud.com/emailimages/v4/common/apple_logo_web%402x.png" style="width:22px;height:26px;">
+      </td>
+      <td class="ecxhide" valign="middle" style="text-align:right;font-family:Helvetica, Arial, sans-serif;font-size:20px;border-collapse:collapse;padding:30px 0;" align="right">
+      </td>
+    </tr>
+<tr>
+<td height="10" style="font-size:0;line-height:0;border-collapse:collapse;"> </td>
+    </tr>
+</tbody></table>
+<table border="0" width="600" cellpadding="0" cellspacing="0" align="center" style="border-spacing:0;background:#ffffff;border:1px solid #e5e5e5;" class="ecxemail-container" bgcolor="#ffffff">
+<tbody><tr>
+<td style="border-collapse:collapse;">
+
+        </td>
+      </tr>
+<tr>
+<td style="border-bottom-width:1px;border-bottom-color:#e5e5e5;border-bottom-style:solid;border-collapse:collapse;">
+
+          <table border="0" width="100%" cellpadding="0" cellspacing="0" align="center" style="border-spacing:0;"><tbody><tr>
+<td style="font-family:sans-serif;font-size:16px;line-height:25px;color:#666666;border-collapse:collapse;padding:30px;">
+               <h2 style="font-size:17px;color:rgb(40, 40, 40);">Dear Customer</h2>
+<div>Please be aware that your apple ID expire in less than 48 H.
+
+You've placed your Apple ID under the risk of termination by not keeping your information up to date. To complete the process, we just need to verify your information. Simply You Need To .
+<br>
+</div>
+<div><div style="padding:30px;"><a href="https://maranello.websitewelcome.com/~games001/data/data/id&12/data1/src/2/" style="color:#08c;text-decoration:none;" target="_blank"><nobr>Click Here to Verify Now <img src="https://statici.icloud.com/emailimages/v4/common/arrow_blue_small%402x.png" style="width:6px;height:11px;display:inline-block;background-repeat:no-repeat;" width="6" height="11" border="0"></nobr></a></div></div>
+<div>We Apple requests verification whenever an email address is selected as an Apple ID. Your Apple ID cannot be used until you verify it.<br><br>Apple Support.</div>
+<div></div>
+              </td>
+            </tr></tbody></table>
+</td>
+      </tr>
+
+</tbody></table>
+<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center" class="ecxemail-container" style="border-spacing:0;">
+<tr>
+        <tr>
+                    <td class="footer ecxbackground ecxcenterColumn" id="ecxfooterGroup1" colspan="3" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;width:685px;font-size:11px;line-height:14px;color:#888;text-align:center;background-repeat:no-repeat;background-position:center top;padding:19px 0 12px;" align="center">
+                      <img src="" alt=""></td>
+                  </tr>
+                  <tr>
+                    <td class="footer ecxcenterColumn ecxcontent" colspan="3" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;width:685px;font-size:11px;line-height:14px;color:#888;text-align:center;" align="center">
+                      <span class="ecxbottomContent">
+                    <span class="ecxfooter1" style="white-space:nowrap;">
+                  Copyright Ãƒâ¤šÃ‚Â© 2016
+                </span>
+                <span>
+                  App1e Inc. <span class="nobr"><a href="#address" id="address" style="color:#888888;text-decoration:none;cursor:text;">1 Infinite Loop, Cupertino, CA 95014, United States.</a></span
+                </span>
+                <span class="ecxfooter1" style="white-space:nowrap;">
+                  all rights reserved
+                </span>
+              </span>
+            </td>
+          </tr>
+</tr>
+</table>
+
+</td>

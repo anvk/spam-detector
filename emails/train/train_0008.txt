@@ -1,0 +1,541 @@
+Delivered-To: abovebluesky@gmail.com
+Received: by 10.202.7.196 with SMTP id 187csp365769oih;
+        Tue, 6 Sep 2016 12:49:50 -0700 (PDT)
+X-Received: by 10.194.228.98 with SMTP id sh2mr5051977wjc.127.1473191390631;
+        Tue, 06 Sep 2016 12:49:50 -0700 (PDT)
+Return-Path: <gmail.com.144571.abovebluesky@claptrap.topdispatch.com>
+Received: from claptrap.topdispatch.com (claptrap.topdispatch.com. [196.52.1.133])
+        by mx.google.com with ESMTPS id k3si32425565wjn.281.2016.09.06.12.49.49
+        for <abovebluesky@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 06 Sep 2016 12:49:50 -0700 (PDT)
+Received-SPF: pass (google.com: domain of gmail.com.144571.abovebluesky@claptrap.topdispatch.com designates 196.52.1.133 as permitted sender) client-ip=196.52.1.133;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@topdispatch.com;
+       spf=pass (google.com: domain of gmail.com.144571.abovebluesky@claptrap.topdispatch.com designates 196.52.1.133 as permitted sender) smtp.mailfrom=gmail.com.144571.abovebluesky@claptrap.topdispatch.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=topdispatch.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=topdispatch.com; s=s1024; l=17251; x=1473796188; i=@topdispatch.com; h=From:To:Subject:Content-Type:Date: Message-ID; bh=36gHLZkaK4AaQPIJDXsU5+HXsmQ=; b=OQ1UPJJzAmY+va16B l4XqtFYX80+ccVUTiPPAUYtOh7/JOimK+otGJI/CN5bZPSvfB7e+AdLvR67IskmW J5RK0yrW9gXJuHJ4/ls0cAoo+yTbwciuNc5bOnIkpSf4SjWpp/sTZF2OCh/SIyUN Cn8FeBoNEQgP1Z0b0rfFyVfmOY=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=topdispatch.com;
+  b=2786/iuGpPf/LP12U/Abh40ePahbtf1sDExKxFKDnWLaZi8MpYp3WM/UlpeH1w8kQkSWw83dLN3R/GsnddbbEnrGI5k5CtBcFLyvc6lAxBtqxPj9tOkV5IWLFmT+S2/EE5wIyaivTfKJ8glinJJTtUiMAqWtM/aB26enfoNHpEA=;
+Received: from claptrap.topdispatch.com [196.52.1.133] by claptrap.topdispatch.com [196.52.1.133];
+  Tue, 6 Sep 2016 15:17:16 -0500
+MIME-Version: 1.0
+From: Brightspan <noreply@topdispatch.com>
+To: abovebluesky@gmail.com
+Reply-To: noreply@topdispatch.com
+Subject: MPN Awareness Day is Sept 8th. Join In!
+Content-Type: multipart/alternative;
+   boundary="-=654dd4b27ed9a4c901dbe6812210e16c";
+Date: Tue, 6 Sep 2016 15:17:16 -0500
+Message-ID: <1-144571-QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP@claptrap.topdispatch.com>
+
+---=654dd4b27ed9a4c901dbe6812210e16c
+Content-Type: text/plain; charset="UTF-8"
+
+
+BrightSpan Communications is dedicated to bringing you information
+and support on health issues that may affect you or someone you know.
+BrightSpan has partnered with Incyte Corporation to bring you the
+following information.
+
+ You are receiving this e-mail because you have opted in to receive
+communications from BrightSpan, and this information may be  relevant
+to you or someone you know.
+
+
+
+Celebrate MPN Awareness Day,
+ Thursday, September 8, 2016
+
+RAISE MPN AWARENESS,
+ ONE CONNECTION AT A TIME
+
+September is Blood Cancer Awareness Month. As part of the effort to
+focus  attention on blood cancers such as myeloproliferative neoplasms
+(MPNs),  September 8 has been designated as MPN Awareness Day.
+
+ You can help raise MPN awareness with each person to whom you speak
+and  every connection you make.
+
+
+
+Ask an MPN Expert&#8212;Incyte Corporation will be hosting an Ask an
+MPN Expert live chat on Facebook for patients and  caregivers to learn
+more about MPNs. Get details here.
+
+Display your support&#8212;Update your Facebook profile picture  with
+a colorful MPN emblem. Click here to learn more.
+
+Spread awareness one connection at a time by sharing  helpful
+information and educational materials&#8212;Choose from  a variety of
+educational tools and resources.
+
+Raise your voice&#8212;Find out how you can share your story with the
+MPN community. Register to become a Community Voice Champion.
+
+Share your story on the Wall of Voices
+http://topdispatch.com/sorop?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=144571&l=4.&#8212;Inspire
+others by  sharing your own unique experience with MPNs.
+
+There are so many ways you can reach out and connect with someone to
+share your knowledge about MPNs. Invite others into the conversation
+about  MPNs by including #Connect4MPNs as part of your social posts.
+
+ With your voice and your story, you can help raise MPN awareness, one
+ connection at a time.
+
+NOMINATE YOUR 2016
+ MPN HERO BY SEPTEMBER 8
+
+
+
+ Don't miss out on nominating your MPN Hero! Whether your hero is  a
+patient, doctor, nurse, caregiver, or organization, our goal is to
+highlight their excellent work and recognize their outstanding service
+ to the MPN community. Our hope is that more research, more  support,
+and more solutions will emerge thanks to your support.
+
+
+               �                              MPN Heroes is a
+registered trademark of Incyte Corporation.
+ � 2016, Incyte Corporation. All rights reserved. UPM-1129a 08/16
+
+
+
+Take 5 Media
+
+P.O Box 811502
+
+Boca Raton, FL
+
+33481
+
+Click http://topdispatch.com/1/unsub.do?e=abovebluesky@gmail.com&m=144571 to
+unsubscribe.
+
+
+<1;QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP;144571;t92Yug2Y0FGczlGZw9GduAXYyRHchx2YL>
+---=654dd4b27ed9a4c901dbe6812210e16c
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Celebrate MPN Awareness Day Thursday, September 8,
+2016</title>
+    </head>
+    <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0"
+marginheight="0">
+        <table
+width="100%" height="100%" cellpadding="0" cellspacing="0" style="
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px; margin-top:10px;">
+            <tbody>
+                <tr>
+                    <td align="center" valign="top"><!--content table-->
+                    <!--header-->
+                    <table
+width="600" border="0" cellpadding="0" cellspacing="0">
+                        <tbody>
+                            <tr>
+                                <td rowspan="3"><img
+src="http://images3.mytake5.com/+KM/35477/header_01.png" width="22"
+height="410" alt="" style="display:block"></td>
+                                <!--<td colspan="2">
+<p style="
+font-size:11px; line-height:14px; color:#000000;
+text-align:center;">Trouble viewing this e-mail? Please [~ViewInBrowser
+style="color:#ee2930; text-decoration:none;  font-weight:bold;"~]click
+here[~EndViewInBrowser~].<br />
+              To ensure delivery to your inbox, please add <a
+href="mailto:postmaster@takefivemail.com" style="color:#ee2930;
+font-weight:bold; text-decoration:none;">postmaster@takefivemail.com</a> to
+your address book.</p></td>
+-->
+                            </tr>
+                            <tr>
+                                <td colspan="2"><img
+src="http://images3.mytake5.com/+KM/35477/header_03.png" width="578"
+height="163" alt="BRIGHTSPAN" style="display:block; margin:0px;"></td>
+                            </tr>
+                            <tr>
+                                <td>
+<p style="
+font-size:16px; line-height:20px; margin:0px; color:#000000;
+font-family: Arial, Helvetica, sans-serif">BrightSpan Communications is
+dedicated to bringing you information
+                                and support on health issues that may
+affect you or someone you know.
+                                BrightSpan has partnered with Incyte
+Corporation to bring you the
+                                following information.<br>
+                                <br>
+                                You are receiving this e-mail because you
+have opted in to receive
+                                communications from BrightSpan, and this
+information may be
+                                relevant to you or someone you know.<br>
+                                <br>
+                                </p>
+                                </td>
+                                <td><img
+src="http://images3.mytake5.com/+KM/35477/header_05.png" width="56"
+height="215" alt="" style="display:block"></td>
+                            </tr>
+                            <tr>
+                                <td colspan="3"><img
+src="http://images3.mytake5.com/+KM/35477/header_06.jpg" width="600"
+height="45" alt="" style="display:block"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <!--end header-->
+                    <!--top-->
+                    <table
+width="600" border="0" cellpadding="0" cellspacing="0">
+                        <tbody>
+                            <tr>
+                                <td rowspan="13"><img
+src="http://images3.mytake5.com/+KM/35477/top_01.jpg" width="21"
+height="810" alt="" style="display:block"></td>
+                                <td colspan="3">
+
+<p style="
+font-size:38px; line-height:40px; color:#00b3ef;"> Celebrate MPN Awareness
+Day,<br>
+                                Thursday, September 8, 2016 </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" rowspan="3"><img
+src="http://images3.mytake5.com/+KM/35477/top_03.jpg" height="119" alt="MPN
+Awareness Day" style="display:block"></td>
+                                <td><img
+src="http://images3.mytake5.com/+KM/35477/top_04.jpg" width="471"
+height="31" alt="" style="display:block"></td>
+                            </tr>
+                            <tr>
+                                <td><img
+src="http://images3.mytake5.com/+KM/35477/spacer.gif" align="left"
+width="25" height="50" alt="" style="display:block">
+
+<p style="font-weight:bold;
+font-size:24px; color: #f36f21; line-height:26px;"> RAISE MPN
+AWARENESS,<br>
+                                ONE CONNECTION AT A TIME </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td><img
+src="http://images3.mytake5.com/+KM/35477/top_06.jpg" width="471"
+height="31" alt="" style="display:block"></td>
+                            </tr>
+                            <tr>
+                                <td colspan="3">
+
+<p style="line-height:20px; color:#666666;
+font-family: Arial, Helvetica, sans-serif"> <strong>September is Blood
+Cancer Awareness Month.</strong> As part of the effort to focus
+                                attention on blood cancers such as
+myeloproliferative neoplasms (MPNs),
+                                September 8 has been designated as MPN
+Awareness Day.<br>
+                                <br>
+                                You can help raise MPN awareness with each
+person to whom you speak and
+                                every connection you make.<br>
+                                <br>
+                                </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td><img
+src="http://images3.mytake5.com/+KM/35477/top_08.jpg" width="99"
+height="71" alt="Facebook" style="display:block"></td>
+                                <td colspan="2">
+
+<p style="line-height:20px; color:#666666;
+font-family: Arial, Helvetica, sans-serif"> <span style="font-weight:bold;
+font-style:italic;
+font-family: Arial, Helvetica, sans-serif">Ask an MPN
+Expert</span>&#8212;Incyte Corporation will be hosting an <em>Ask an MPN
+Expert</em> live chat on Facebook for patients and
+                                caregivers to learn more about MPNs. <a
+href="http://topdispatch.com/soxan?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=144571&l=0.."
+style="font-weight:bold; text-decoration:none; color: #f36f21; ">Get
+details here<span style="color:#666666;">.</span></a> </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td><img
+src="http://images3.mytake5.com/+KM/35477/top_10.jpg" width="99"
+height="68" alt="Profile Pic" style="display:block"></td>
+                                <td colspan="2">
+
+<p style="line-height:20px; color:#666666;
+font-family: Arial, Helvetica, sans-serif"> <span style="font-weight:bold;
+font-style:italic;
+font-family: Arial, Helvetica, sans-serif">Display your
+support</span>&#8212;Update your Facebook profile picture
+                                with a colorful MPN emblem. <a
+href="http://topdispatch.com/soxan?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=144571&l=1.."
+style="font-weight:bold; text-decoration:none; color: #f36f21;">Click here
+to learn more<span style="color:#666666;">.</span></a> </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td><img
+src="http://images3.mytake5.com/+KM/35477/top_12.jpg" width="99"
+height="68" alt="Spread Awareness" style="display:block"></td>
+                                <td colspan="2">
+
+<p style="line-height:20px; color:#666666;
+font-family: Arial, Helvetica, sans-serif"> <span style="font-weight:bold;
+font-style:italic;
+font-family: Arial, Helvetica, sans-serif">Spread awareness</span> one
+connection at a time by sharing
+                                helpful information and educational
+materials&#8212;Choose from
+                                a variety of <a
+href="http://topdispatch.com/aek?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=144571&l=2."
+style="font-weight:bold; text-decoration:none; color: #f36f21;">educational
+tools and resources<span style="color:#666666;">.</span></a> </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td><img
+src="http://images3.mytake5.com/+KM/35477/top_14.jpg" width="99"
+height="66" alt="Raise Your Voice" style="display:block"></td>
+                                <td colspan="2">
+
+<p style="line-height:20px; color:#666666;
+font-family: Arial, Helvetica, sans-serif"> <span style="font-weight:bold;
+font-style:italic;
+font-family: Arial, Helvetica, sans-serif">Raise your
+voice</span>&#8212;Find out how you can share your story with the MPN
+community. Register to become a <a
+href="http://topdispatch.com/track?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=144571&l=3.."
+style="font-weight:bold; text-decoration:none; color: #f36f21;">Community
+Voice Champion<span style="color:#666666;">.</span></a> </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td><img
+src="http://images3.mytake5.com/+KM/35477/top_16.jpg" width="99"
+height="64" alt="Share Your Story" style="display:block"></td>
+                                <td colspan="2">
+
+<p style="line-height:20px; color:#666666;
+font-family: Arial, Helvetica, sans-serif"> <span style="font-weight:bold;
+font-style:italic;
+font-family: Arial, Helvetica, sans-serif">Share your story</span> on the
+<a
+href="http://topdispatch.com/solim?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=144571&l=4."
+style="font-weight:bold; text-decoration:none; color: #f36f21;">Wall of
+Voices</a>&#8212;Inspire others by
+                                sharing your own unique experience with
+MPNs.</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="3"><img
+src="http://images3.mytake5.com/+KM/35477/top_18.jpg" width="579"
+height="19" alt="" style="display:block"></td>
+                            </tr>
+                            <tr>
+                                <td colspan="3">
+
+<p style="line-height:20px; color:#666666;
+font-family: Arial, Helvetica, sans-serif"> There are so many ways you can
+reach out and connect with someone to
+                                share your knowledge about MPNs. Invite
+others into the conversation about
+                                MPNs by including <span
+style="font-weight:bold; text-decoration:none; color: #f36f21;
+font-family: Arial, Helvetica, sans-serif">#Connect4MPNs</span> as part of
+your social posts.<br>
+                                <br>
+                                With your voice and your story, you can
+help raise MPN awareness, one
+                                connection at a time. </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="3"><img
+src="http://images3.mytake5.com/+KM/35477/top_20.jpg" width="579"
+height="22" alt="" style="display:block"></td>
+                            </tr>
+                            <tr>
+                                <td><img
+src="http://images3.mytake5.com/+KM/35477/spacer.gif" width="21" height="1"
+alt="" style="display:block"></td>
+                                <td><img
+src="http://images3.mytake5.com/+KM/35477/spacer.gif" width="99" height="1"
+alt="" style="display:block"></td>
+                                <td><img
+src="http://images3.mytake5.com/+KM/35477/spacer.gif" width="9" height="1"
+alt="" style="display:block"></td>
+                                <td><img
+src="http://images3.mytake5.com/+KM/35477/spacer.gif" width="471"
+height="1" alt="" style="display:block"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <!--end top-->
+                    <!--middle-->
+                    <table
+width="600" border="0" cellpadding="0" cellspacing="0">
+                        <tbody>
+                            <tr>
+                                <td colspan="3"><a
+href="http://topdispatch.com/sordna?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=144571&l=5."><img
+
+src="http://images3.mytake5.com/+KM/35477/middle_01.jpg" width="600"
+height="353" alt="Celebrate MPN Awareness. Learn More!"
+style="border:none;display:block;"></a></td>
+                            </tr>
+                            <tr>
+                                <td><img
+src="http://images3.mytake5.com/+KM/35477/middle_02.jpg" width="21"
+height="223" alt="" style="display:block"></td>
+                                <td>
+
+<p style="
+font-size:38px; line-height:40px; color:#00ACE6; margin:0px;
+font-family: Arial, Helvetica, sans-serif"> NOMINATE YOUR 2016<br>
+                                MPN HERO BY SEPTEMBER 8<br>
+                                </p>
+
+<p style="
+font-size:18px; line-height:21px; color:#666666; margin:0px;
+font-family: Arial, Helvetica, sans-serif"> <br>
+                                Don't miss out on nominating your MPN Hero!
+Whether your hero is
+                                a patient, doctor, nurse, caregiver, or
+organization, our goal is to
+                                highlight their excellent work and
+recognize their outstanding service
+                                to the MPN community. Our hope is that more
+research, more
+                                support, and more solutions will emerge
+thanks to your support.<br>
+                                <br>
+                                </p>
+                                </td>
+                                <td><img
+src="http://images3.mytake5.com/+KM/35477/middle_04.jpg" width="25"
+height="223" alt="" style="display:block"></td>
+                            </tr>
+                            <tr>
+                                <td colspan="3"><a
+href="http://topdispatch.com/sovsel?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=144571&l=6."
+target="_blank"><img
+style="display:block;" border="0"
+src="http://images3.mytake5.com/+KM/35477/middle_05.jpg" width="600"
+height="73" alt="Nominate Your MPN Hero Now!"></a></td>
+                            </tr>
+                            <tr>
+                                <td height="30px" colspan="3">&nbsp;</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <!--end middle-->
+                    <!--footer-->
+                    <!--<table
+width="600" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td rowspan="2">
+          <img
+src="http://images3.mytake5.com/+KM/35477/footer_01.jpg" width="77"
+height="159" alt="" style="display:block"></td>
+        <td colspan="2">
+
+
+<p style="
+font-size:10px; line-height:14px; color: #666666;
+text-align:center;">Incyte Corporation is committed to maintaining the
+privacy of your information.<br /> To review our Privacy Policy, <a
+href="http://topdispatch.com/sok?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=144571&l=7."
+style="font-weight:bold; color:#f36f21; text-decoration:none;">click
+here</a>. To unsubscribe from our mailing list, <a
+href="http://topdispatch.com/sok?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=144571&l=8." style="font-weight:bold;
+color:#f36f21; text-decoration:none;">click here</a>.<br />
+          Please do not reply to this email.
+        </td>
+        <td rowspan="2">
+          <img
+src="http://images3.mytake5.com/+KM/35477/footer_03.jpg" width="64"
+height="159" alt="" style="display:block"></td>
+      </tr>
+      <tr>
+        <td>
+          <a
+href="http://topdispatch.com/sonit?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=144571&l=9."><img
+
+src="http://images3.mytake5.com/+KM/35477/footer_04.jpg" width="89"
+height="83" alt="Incyte" style="border:none; display:block;"></a></td>
+        <td>
+
+<p style="
+font-size:10px; line-height:14px; color: #666666;">
+          MPN Heroes and Voices of MPN are registered trademarks of Incyte
+Corporation.<br />
+          &copy; 2016, Incyte Corporation. All rights reserved. UPM-1129
+08/16<br /><br /><br />
+          </p>
+        </td>
+      </tr>
+    </table>--><!--end footer-->
+                    <!--content table--></td>
+                </tr>
+            </tbody>
+        </table>
+        <table
+style="margin:auto;" border="0" align="center" cellpadding="0"
+cellspacing="0">
+            <tbody>
+                <tr>
+                    <td style="padding-top:10px;" width="62" align="center"
+valign="top"><a
+id="LID54536"
+href="http://topdispatch.com/sorys?e=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP&m=144571&l=10."
+target="new"><img
+style="display:block; outline:none;" border="0"
+src="http://images3.mytake5.com/+KM/35477/incyte.png" width="62"
+height="44" alt="Incyte"></a></td>
+                    <td align="center" valign="middle" class="textH6"
+style="
+font-family:Arial, Helvetica, sans-serif;
+font-size:10px; line-height:14px; mso-line-height-rule: exactly;
+text-align:left; color:#5e5e5f; padding-left:20px;
+font-family: Arial, Helvetica, sans-serif">MPN Heroes is a registered
+trademark of Incyte Corporation.<br>
+                    &copy; 2016, Incyte Corporation. All rights reserved.
+UPM-1129a  08/16</td>
+                </tr>
+            </tbody>
+        </table>
+        <!--outer table-->
+    <img
+src="https://take5tracking.com/redirect/shim.gif?utm_campaign=35477_D1_B1_BrightSpan&utm_medium=OPEN_PIXEL"
+width="1" height="1" border="0" alt="" style="display:block"></body>
+</html><br><br>
+<center>
+<p title="Company Name" style="font-size: 11px; color: #707070;">Take 5
+Media</p>
+<p title="Company Address" style="font-size: 11px; color: #707070;">P.O Box
+811502</p>
+<p title="Company City" style="font-size: 11px; color: #707070;">Boca
+Raton, FL</p>
+<p title="Company Zip" style="font-size: 11px; color: #707070;">33481</p>
+<p style="font-size: 11px; color: #707070;">Click <a
+href="http://topdispatch.com/1/unsub.do?e=abovebluesky@gmail.com&m=144571">here</a>
+to unsubscribe.</p></center><br
+class='1_QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP_144571_t92Yug2Y0FGczlGZw9GduAXYyRHchx2YL'/>
+<img
+src="http://topdispatch.com/clickopen?msgid=144571&email=QbvNmLslWYtdGQ5t2clVHbiVmdvJWYP"
+width="1" height="1">
+---=654dd4b27ed9a4c901dbe6812210e16c--

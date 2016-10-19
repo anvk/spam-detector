@@ -1,0 +1,1159 @@
+Delivered-To: abovebluesky@gmail.com
+Received: by 10.202.7.196 with SMTP id 187csp319620oih;
+        Tue, 6 Sep 2016 10:54:02 -0700 (PDT)
+X-Received: by 10.98.11.65 with SMTP id t62mr42612073pfi.51.1473184442898;
+        Tue, 06 Sep 2016 10:54:02 -0700 (PDT)
+Return-Path: <GoldenGirlsToronto-kifek1iyjljkthh1i@cmail2.com>
+Received: from mx105.a.outbound.createsend.com (mx105.a.outbound.createsend.com. [203.55.21.105])
+        by mx.google.com with ESMTPS id d186si36411093pfc.72.2016.09.06.10.54.02
+        for <abovebluesky@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 06 Sep 2016 10:54:02 -0700 (PDT)
+Received-SPF: pass (google.com: domain of goldengirlstoronto-kifek1iyjljkthh1i@cmail2.com designates 203.55.21.105 as permitted sender) client-ip=203.55.21.105;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@cmail2.com;
+       dkim=pass header.i=@cmail2.com;
+       spf=pass (google.com: domain of goldengirlstoronto-kifek1iyjljkthh1i@cmail2.com designates 203.55.21.105 as permitted sender) smtp.mailfrom=GoldenGirlsToronto-kifek1iyjljkthh1i@cmail2.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=cs2013; d=cmail2.com; h=Subject:From:To:Reply-To:Date:MIME-Version:Content-Type:X-Feedback-ID:List-Unsubscribe:Sender:Message-ID; i=news=3Djosephpatrickpresents.com@cmail2.com; bh=IbyNxB/20L0cTjYqfMWOBssmdms=; b=F5CDjyO2vRZO6xPZwPWxlCjmZix5MAftFui4l+pYP3kpVOjrOLPJ8TF/Hc/8E6ttGbs6zokNGFoq
+   1rnIiohGkHD97gHPaxJYY1ExJizNJiIGlVvk4oSVgXsVQJhRg0Yhz1890XR/Rdy7g3xPVrKIJM1Q
+   OjXwbRNA/6Tz9s29dNc=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=cs2013; d=cmail2.com; h=Subject:From:To:Reply-To:Date:MIME-Version:Content-Type:X-Feedback-ID:List-Unsubscribe:Sender:Message-ID; bh=IbyNxB/20L0cTjYqfMWOBssmdms=; b=iMJfSTjEz1dbzV8yfZCiI0HFimwf1dlqL9xlcS8krxsEe9tZUnORLPkV1bRIjCAwKe+VplLwRWLE
+   64BjuGzRJY62abDFOwBq96dNkfNG8ch3rm2xcJokaHaJ+ABFepzD8YgPpgUGW1h7XXVTUtVdSiLH
+   eKZWKjRr4b02TGBdx18=
+Subject: Alexey Novak Book remaining seats from $29.99
+From: Golden Girls Toronto <news@josephpatrickpresents.com>
+To: Alexey Novak <abovebluesky@gmail.com>
+Reply-To: news@josephpatrickpresents.com
+Date: Wed, 07 Sep 2016 03:53:54 +1000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_bff677fc-9fcb-485d-bc20-2be105f262e1_"; charset=utf-8
+X-Mailer: Create Send
+X-Complaints-To: abuse@cmail2.com
+X-Feedback-ID: CA1-i-kifek:LI1-i-iidua:CL1-i-mutjl:createSEND
+List-Unsubscribe: <http://unsub.cmail2.com/t/i-u-kifek-iyjljkthh/>, <mailto:unsubscribe-kifek2iyjljkthh2i-CE3A16E4@cmail2.com?subject=Unsubscribe>
+Sender: Golden Girls Toronto <news=josephpatrickpresents.com@cmail2.com>
+Message-ID: <cm.0353543580471.kifek.iyjljkthh.i@cmail2.com>
+
+--_bff677fc-9fcb-485d-bc20-2be105f262e1_
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Final 3 weeks!
+
+No Images?  Click here http://josephpatrickpresents.cmail2.com/t/i-e-kifek-=
+iyjljkthh-n/
+
+It's The Golden Girls... with puppets!
+
+Just 3 weeks remain
+
+at Al Green Theatre in Toronto
+
+Alexey Novak
+
+Save $20 per ticket    http://josephpatrickpresents.cmail2.com/t/i-fb-kifek=
+-iyjljkthh-p/
+
+when you book now!
+
+Choose any seat, including VIP (where available)
+
+Reserve Your Toronto Tickets Now [https://tickets.ticketwise.com/event/gold=
+en-girls/tag/golden20]      View Our Facebook Page [https://www.facebook.co=
+m/GoldenGirlsTO/]
+
+Prepare for an evening of laughter, spectacular put-downs and familiar frie=
+nds as Miami's four favourite Golden Girls - Dorothy, Sophia, Rose and Blan=
+che - reunite in puppet-form for this lovingly hilarious live tribute show!
+
+Thank You For Being a Friend is the ultimate Golden Girls experience, deliv=
+ering all the classic dialogue, razor sharp gags and taboo-breaking stories=
+ you'd expect!
+
+VIP Kitchen Table Seating
+
+Everyone knows the kitchen table is the girls' favourite place to sit, and =
+likewise, these are the best seats in the house! Get your own table right u=
+p front for you and up to 3 friends, complete with a floral tablecloth and =
+4 slices of cheesecake!  Table seating is 4 people max per table.
+
+Our cheesecake is provided locally by Sweets From The Earth
+
+On stage at The Al Green Theatre
+
+750 Spadina Avenue at Bloor Street
+
+Thank You For Being A Friend
+
+On stage Now - September 24
+
+Nightly Tues-Sat 7:30PM
+
+Matinees Sat, Sun 1:30PM
+
+Tickets Reg. $49.99 - $69.99
+
+Book Your Tickets [https://tickets.ticketwise.com/event/golden-girls/tag/go=
+lden20]
+
+CHARGE BY PHONE:  1-888-324-6282
+
+Joseph Patrick Presents Thank You For Being A Friend
+
+Written by Thomas Duncan-Watt & Jonathan Rockefeller   You are receiving th=
+is message directly from Ticketwise, because you signed up to receive updat=
+es during a previous purchase you have made with us.
+
+Like http://josephpatrickpresents.cmail2.com/t/i-fb-kifek-iyjljkthh-x/
+
+Tweet http://josephpatrickpresents.cmail2.com/t/i-tw-kifek-iyjljkthh-m/
+
+Forward http://josephpatrickpresents.forwardtomyfriend.com/i-iyjljkthh-CE3A=
+16E4-kifek-l-c
+
+Preferences http://josephpatrickpresents.updatemyprofile.com/i-kifek-CE3A16=
+E4-iyjljkthh-q  |   Unsubscribe http://josephpatrickpresents.cmail2.com/t/i=
+-u-kifek-iyjljkthh-v/
+
+--_bff677fc-9fcb-485d-bc20-2be105f262e1_
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><!--[if IE]><html xmlns=3D"h=
+ttp://www.w3.org/1999/xhtml" class=3D"ie"><![endif]--><!--[if !IE]><!--><ht=
+ml style=3D"margin: 0;padding: 0;" xmlns=3D"http://www.w3.org/1999/xhtml"><=
+!--<![endif]--><head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <!--[if !mso]><!--><meta http-equiv=3D"X-UA-Compatible" content=3D"IE=
+=3Dedge"><!--<![endif]-->
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width"><style type=3D=
+"text/css">
+@media only screen and (min-width: 620px){* [lang=3Dx-wrapper] h1{}* [lang=
+=3Dx-wrapper] h1{font-size:36px !important;line-height:43px !important}* [l=
+ang=3Dx-wrapper] h2{}* [lang=3Dx-wrapper] h2{font-size:24px !important;line=
+-height:32px !important}* [lang=3Dx-wrapper] h3{}* [lang=3Dx-layout__inner]=
+ p,* [lang=3Dx-layout__inner] ol,* [lang=3Dx-layout__inner] ul{}* div [lang=
+=3Dx-size-8]{font-size:8px !important;line-height:14px !important}* div [la=
+ng=3Dx-size-9]{font-size:9px !important;line-height:16px !important}* div [=
+lang=3Dx-size-10]{font-size:10px !important;line-height:18px !important}* d=
+iv [lang=3Dx-size-11]{font-size:11px !important;line-height:19px !important=
+}* div [lang=3Dx-size-12]{font-size:12px !important;line-height:19px !impor=
+tant}* div [lang=3Dx-size-13]{font-size:13px !important;line-height:21px !i=
+mportant}* div [lang=3Dx-size-14]{font-size:14px !important;line-height:21p=
+x !important}* div=20
+[lang=3Dx-size-15]{font-size:15px !important;line-height:23px !important}* =
+div [lang=3Dx-size-16]{font-size:16px !important;line-height:24px !importan=
+t}* div [lang=3Dx-size-17]{font-size:17px !important;line-height:26px !impo=
+rtant}* div [lang=3Dx-size-18]{font-size:18px !important;line-height:26px !=
+important}* div [lang=3Dx-size-18]{font-size:18px !important;line-height:26=
+px !important}* div [lang=3Dx-size-20]{font-size:20px !important;line-heigh=
+t:28px !important}* div [lang=3Dx-size-22]{font-size:22px !important;line-h=
+eight:31px !important}* div [lang=3Dx-size-24]{font-size:24px !important;li=
+ne-height:32px !important}* div [lang=3Dx-size-26]{font-size:26px !importan=
+t;line-height:34px !important}* div [lang=3Dx-size-28]{font-size:28px !impo=
+rtant;line-height:36px !important}* div [lang=3Dx-size-30]{font-size:30px !=
+important;line-height:38px !important}* div [lang=3Dx-size-32]{font-size:32=
+px=20
+!important;line-height:40px !important}* div [lang=3Dx-size-34]{font-size:3=
+4px !important;line-height:43px !important}* div [lang=3Dx-size-36]{font-si=
+ze:36px !important;line-height:43px !important}* div [lang=3Dx-size-40]{fon=
+t-size:40px !important;line-height:47px !important}* div [lang=3Dx-size-44]=
+{font-size:44px !important;line-height:50px !important}* div [lang=3Dx-size=
+-48]{font-size:48px !important;line-height:54px !important}* div [lang=3Dx-=
+size-56]{font-size:56px !important;line-height:60px !important}* div [lang=
+=3Dx-size-64]{font-size:64px !important;line-height:63px !important}}
+</style>
+    <style type=3D"text/css">
+body {
+  margin: 0;
+  padding: 0;
+}
+table {
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+* {
+  line-height: inherit;
+}
+[x-apple-data-detectors],
+[href^=3D"tel"],
+[href^=3D"sms"] {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+.wrapper .footer__share-button a:hover,
+.wrapper .footer__share-button a:focus {
+  color: #ffffff !important;
+}
+.btn a:hover,
+.btn a:focus,
+.footer__share-button a:hover,
+.footer__share-button a:focus,
+.email-footer__links a:hover,
+.email-footer__links a:focus {
+  opacity: 0.8;
+}
+.ie .btn {
+  width: 100%;
+}
+.ie .column,
+[owa] .column,
+.ie .gutter,
+[owa] .gutter {
+  display: table-cell;
+  float: none !important;
+  vertical-align: top;
+}
+.ie .preheader,
+[owa] .preheader,
+.ie .email-footer,
+[owa] .email-footer {
+  width: 560px !important;
+}
+.ie .snippet,
+[owa] .snippet,
+.ie .webversion,
+[owa] .webversion {
+  width: 280px !important;
+}
+.ie .header,
+[owa] .header,
+.ie .layout,
+[owa] .layout,
+.ie .one-col .column,
+[owa] .one-col .column {
+  width: 600px !important;
+}
+.ie .fixed-width.has-border,
+[owa] .fixed-width.has-border,
+.ie .has-gutter.has-border,
+[owa] .has-gutter.has-border {
+  width: 602px !important;
+}
+.ie .two-col .column,
+[owa] .two-col .column {
+  width: 300px !important;
+}
+.ie .three-col .column,
+[owa] .three-col .column,
+.ie .narrow,
+[owa] .narrow {
+  width: 200px !important;
+}
+.ie .wide,
+[owa] .wide {
+  width: 400px !important;
+}
+.ie .two-col.has-gutter .column,
+[owa] .two-col.x_has-gutter .column {
+  width: 290px !important;
+}
+.ie .three-col.has-gutter .column,
+[owa] .three-col.x_has-gutter .column,
+.ie .has-gutter .narrow,
+[owa] .has-gutter .narrow {
+  width: 188px !important;
+}
+.ie .has-gutter .wide,
+[owa] .has-gutter .wide {
+  width: 394px !important;
+}
+.ie .two-col.has-gutter.has-border .column,
+[owa] .two-col.x_has-gutter.x_has-border .column {
+  width: 292px !important;
+}
+.ie .three-col.has-gutter.has-border .column,
+[owa] .three-col.x_has-gutter.x_has-border .column,
+.ie .has-gutter.has-border .narrow,
+[owa] .has-gutter.x_has-border .narrow {
+  width: 190px !important;
+}
+.ie .has-gutter.has-border .wide,
+[owa] .has-gutter.x_has-border .wide {
+  width: 396px !important;
+}
+.ie .fixed-width .layout__inner {
+  border-left: 0 none white !important;
+  border-right: 0 none white !important;
+}
+.ie .layout__edges {
+  display: none;
+}
+.mso .layout__edges {
+  font-size: 0;
+}
+.layout-fixed-width,
+.mso .layout-full-width {
+  background-color: #ffffff;
+}
+@media only screen and (min-width: 620px) {
+  .column,
+  .gutter {
+    display: table-cell;
+    Float: none !important;
+    vertical-align: top;
+  }
+  .preheader,
+  .email-footer {
+    width: 560px !important;
+  }
+  .snippet,
+  .webversion {
+    width: 280px !important;
+  }
+  .header,
+  .layout,
+  .one-col .column {
+    width: 600px !important;
+  }
+  .fixed-width.has-border,
+  .fixed-width.ecxhas-border,
+  .has-gutter.has-border,
+  .has-gutter.ecxhas-border {
+    width: 602px !important;
+  }
+  .two-col .column {
+    width: 300px !important;
+  }
+  .three-col .column,
+  .column.narrow {
+    width: 200px !important;
+  }
+  .column.wide {
+    width: 400px !important;
+  }
+  .two-col.has-gutter .column,
+  .two-col.ecxhas-gutter .column {
+    width: 290px !important;
+  }
+  .three-col.has-gutter .column,
+  .three-col.ecxhas-gutter .column,
+  .has-gutter .narrow {
+    width: 188px !important;
+  }
+  .has-gutter .wide {
+    width: 394px !important;
+  }
+  .two-col.has-gutter.has-border .column,
+  .two-col.ecxhas-gutter.ecxhas-border .column {
+    width: 292px !important;
+  }
+  .three-col.has-gutter.has-border .column,
+  .three-col.ecxhas-gutter.ecxhas-border .column,
+  .has-gutter.has-border .narrow,
+  .has-gutter.ecxhas-border .narrow {
+    width: 190px !important;
+  }
+  .has-gutter.has-border .wide,
+  .has-gutter.ecxhas-border .wide {
+    width: 396px !important;
+  }
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and=
+ (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-rat=
+io: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min=
+-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .fblike {
+    background-image: url(http://i3.cmail2.com/static/eb/master/13-the-blue=
+print-3/images/fblike@2x.png) !important;
+  }
+  .tweet {
+    background-image: url(http://i4.cmail2.com/static/eb/master/13-the-blue=
+print-3/images/tweet@2x.png) !important;
+  }
+  .linkedinshare {
+    background-image: url(http://i5.cmail2.com/static/eb/master/13-the-blue=
+print-3/images/lishare@2x.png) !important;
+  }
+  .forwardtoafriend {
+    background-image: url(http://i6.cmail2.com/static/eb/master/13-the-blue=
+print-3/images/forward@2x.png) !important;
+  }
+}
+@media (max-width: 321px) {
+  .fixed-width.has-border .layout__inner {
+    border-width: 1px 0 !important;
+  }
+  .layout,
+  .column {
+    min-width: 320px !important;
+    width: 320px !important;
+  }
+  .border {
+    display: none;
+  }
+}
+.mso div {
+  border: 0 none white !important;
+}
+.mso .w560 .divider {
+  Margin-left: 260px !important;
+  Margin-right: 260px !important;
+}
+.mso .w360 .divider {
+  Margin-left: 160px !important;
+  Margin-right: 160px !important;
+}
+.mso .w260 .divider {
+  Margin-left: 110px !important;
+  Margin-right: 110px !important;
+}
+.mso .w160 .divider {
+  Margin-left: 60px !important;
+  Margin-right: 60px !important;
+}
+.mso .w354 .divider {
+  Margin-left: 157px !important;
+  Margin-right: 157px !important;
+}
+.mso .w250 .divider {
+  Margin-left: 105px !important;
+  Margin-right: 105px !important;
+}
+.mso .w148 .divider {
+  Margin-left: 54px !important;
+  Margin-right: 54px !important;
+}
+.mso .font-avenir,
+.mso .font-cabin,
+.mso .font-open-sans,
+.mso .font-ubuntu {
+  font-family: sans-serif !important;
+}
+.mso .font-bitter,
+.mso .font-merriweather,
+.mso .font-pt-serif {
+  font-family: Georgia, serif !important;
+}
+.mso .font-lato,
+.mso .font-roboto {
+  font-family: Tahoma, sans-serif !important;
+}
+.mso .font-pt-sans {
+  font-family: "Trebuchet MS", sans-serif !important;
+}
+.mso .footer__share-button p {
+  margin: 0;
+}
+@media only screen and (min-width: 620px) {
+  .wrapper .size-8 {
+    font-size: 8px !important;
+    line-height: 14px !important;
+  }
+  .wrapper .size-9 {
+    font-size: 9px !important;
+    line-height: 16px !important;
+  }
+  .wrapper .size-10 {
+    font-size: 10px !important;
+    line-height: 18px !important;
+  }
+  .wrapper .size-11 {
+    font-size: 11px !important;
+    line-height: 19px !important;
+  }
+  .wrapper .size-12 {
+    font-size: 12px !important;
+    line-height: 19px !important;
+  }
+  .wrapper .size-13 {
+    font-size: 13px !important;
+    line-height: 21px !important;
+  }
+  .wrapper .size-14 {
+    font-size: 14px !important;
+    line-height: 21px !important;
+  }
+  .wrapper .size-15 {
+    font-size: 15px !important;
+    line-height: 23px !important;
+  }
+  .wrapper .size-16 {
+    font-size: 16px !important;
+    line-height: 24px !important;
+  }
+  .wrapper .size-17 {
+    font-size: 17px !important;
+    line-height: 26px !important;
+  }
+  .wrapper .size-18 {
+    font-size: 18px !important;
+    line-height: 26px !important;
+  }
+  .wrapper .size-20 {
+    font-size: 20px !important;
+    line-height: 28px !important;
+  }
+  .wrapper .size-22 {
+    font-size: 22px !important;
+    line-height: 31px !important;
+  }
+  .wrapper .size-24 {
+    font-size: 24px !important;
+    line-height: 32px !important;
+  }
+  .wrapper .size-26 {
+    font-size: 26px !important;
+    line-height: 34px !important;
+  }
+  .wrapper .size-28 {
+    font-size: 28px !important;
+    line-height: 36px !important;
+  }
+  .wrapper .size-30 {
+    font-size: 30px !important;
+    line-height: 38px !important;
+  }
+  .wrapper .size-32 {
+    font-size: 32px !important;
+    line-height: 40px !important;
+  }
+  .wrapper .size-34 {
+    font-size: 34px !important;
+    line-height: 43px !important;
+  }
+  .wrapper .size-36 {
+    font-size: 36px !important;
+    line-height: 43px !important;
+  }
+  .wrapper .size-40 {
+    font-size: 40px !important;
+    line-height: 47px !important;
+  }
+  .wrapper .size-44 {
+    font-size: 44px !important;
+    line-height: 50px !important;
+  }
+  .wrapper .size-48 {
+    font-size: 48px !important;
+    line-height: 54px !important;
+  }
+  .wrapper .size-56 {
+    font-size: 56px !important;
+    line-height: 60px !important;
+  }
+  .wrapper .size-64 {
+    font-size: 64px !important;
+    line-height: 63px !important;
+  }
+}
+.mso .size-8,
+.ie .size-8 {
+  font-size: 8px !important;
+  line-height: 14px !important;
+}
+.mso .size-9,
+.ie .size-9 {
+  font-size: 9px !important;
+  line-height: 16px !important;
+}
+.mso .size-10,
+.ie .size-10 {
+  font-size: 10px !important;
+  line-height: 18px !important;
+}
+.mso .size-11,
+.ie .size-11 {
+  font-size: 11px !important;
+  line-height: 19px !important;
+}
+.mso .size-12,
+.ie .size-12 {
+  font-size: 12px !important;
+  line-height: 19px !important;
+}
+.mso .size-13,
+.ie .size-13 {
+  font-size: 13px !important;
+  line-height: 21px !important;
+}
+.mso .size-14,
+.ie .size-14 {
+  font-size: 14px !important;
+  line-height: 21px !important;
+}
+.mso .size-15,
+.ie .size-15 {
+  font-size: 15px !important;
+  line-height: 23px !important;
+}
+.mso .size-16,
+.ie .size-16 {
+  font-size: 16px !important;
+  line-height: 24px !important;
+}
+.mso .size-17,
+.ie .size-17 {
+  font-size: 17px !important;
+  line-height: 26px !important;
+}
+.mso .size-18,
+.ie .size-18 {
+  font-size: 18px !important;
+  line-height: 26px !important;
+}
+.mso .size-20,
+.ie .size-20 {
+  font-size: 20px !important;
+  line-height: 28px !important;
+}
+.mso .size-22,
+.ie .size-22 {
+  font-size: 22px !important;
+  line-height: 31px !important;
+}
+.mso .size-24,
+.ie .size-24 {
+  font-size: 24px !important;
+  line-height: 32px !important;
+}
+.mso .size-26,
+.ie .size-26 {
+  font-size: 26px !important;
+  line-height: 34px !important;
+}
+.mso .size-28,
+.ie .size-28 {
+  font-size: 28px !important;
+  line-height: 36px !important;
+}
+.mso .size-30,
+.ie .size-30 {
+  font-size: 30px !important;
+  line-height: 38px !important;
+}
+.mso .size-32,
+.ie .size-32 {
+  font-size: 32px !important;
+  line-height: 40px !important;
+}
+.mso .size-34,
+.ie .size-34 {
+  font-size: 34px !important;
+  line-height: 43px !important;
+}
+.mso .size-36,
+.ie .size-36 {
+  font-size: 36px !important;
+  line-height: 43px !important;
+}
+.mso .size-40,
+.ie .size-40 {
+  font-size: 40px !important;
+  line-height: 47px !important;
+}
+.mso .size-44,
+.ie .size-44 {
+  font-size: 44px !important;
+  line-height: 50px !important;
+}
+.mso .size-48,
+.ie .size-48 {
+  font-size: 48px !important;
+  line-height: 54px !important;
+}
+.mso .size-56,
+.ie .size-56 {
+  font-size: 56px !important;
+  line-height: 60px !important;
+}
+.mso .size-64,
+.ie .size-64 {
+  font-size: 64px !important;
+  line-height: 63px !important;
+}
+.footer__share-button p {
+  margin: 0;
+}
+</style>
+   =20
+    <title></title>
+  <!--[if !mso]><!--><style type=3D"text/css">
+@import url(https://fonts.googleapis.com/css?family=3DLato:400,700,400itali=
+c,700italic|Merriweather:400italic,400,700,700italic|Open+Sans:400italic,70=
+0italic,700,400);
+</style><link href=3D"https://fonts.googleapis.com/css?family=3DLato:400,70=
+0,400italic,700italic|Merriweather:400italic,400,700,700italic|Open+Sans:40=
+0italic,700italic,700,400" rel=3D"stylesheet" type=3D"text/css"><!--<![endi=
+f]--><style type=3D"text/css">
+body{background-color:#7cc9b7}.mso h1{}.mso h1{font-family:sans-serif !impo=
+rtant}.mso h2{}.mso h2{font-family:sans-serif !important}.mso h3{}.mso h3{f=
+ont-family:sans-serif !important}.mso .column,.mso .column__background td{}=
+.mso .column,.mso .column__background td{font-family:Georgia,serif !importa=
+nt}.mso .btn a{}.mso .btn a{font-family:Georgia,serif !important}.mso .webv=
+ersion,.mso .snippet,.mso .layout-email-footer td,.mso .footer__share-butto=
+n p{}.mso .webversion,.mso .snippet,.mso .layout-email-footer td,.mso .foot=
+er__share-button p{font-family:sans-serif !important}.mso .logo{}.mso .logo=
+{font-family:Georgia,serif !important}.logo a:hover,.logo a:focus{color:#00=
+0 !important}.mso .layout-has-border{border-top:1px solid #419e88;border-bo=
+ttom:1px solid #419e88}.mso .layout-has-bottom-border{border-bottom:1px sol=
+id #419e88}.mso .border,.ie .border{background-color:#419e88}@media only=20
+screen and (min-width: 620px){.wrapper h1{}.wrapper h1{font-size:36px !impo=
+rtant;line-height:43px !important}.wrapper h2{}.wrapper h2{font-size:24px !=
+important;line-height:32px !important}.wrapper h3{}.column p,.column ol,.co=
+lumn ul{}}.mso h1,.ie h1{}.mso h1,.ie h1{font-size:36px !important;line-hei=
+ght:43px !important}.mso h2,.ie h2{}.mso h2,.ie h2{font-size:24px !importan=
+t;line-height:32px !important}.mso h3,.ie h3{}.mso .layout__inner p,.ie .la=
+yout__inner p,.mso .layout__inner ol,.ie .layout__inner ol,.mso .layout__in=
+ner ul,.ie .layout__inner ul{}
+</style></head>
+<!--[if mso]>
+  <body class=3D"mso">
+<![endif]-->
+<!--[if !mso]><!-->
+  <body class=3D"full-padding" style=3D"margin: 0;padding: 0;-webkit-text-s=
+ize-adjust: 100%;">
+<!--<![endif]-->
+    <div class=3D"wrapper" style=3D"min-width: 320px;background-color: #7cc=
+9b7;" lang=3D"x-wrapper">
+      <div class=3D"preheader" style=3D"Margin: 0 auto;max-width: 560px;min=
+-width: 280px; width: 280px;width: calc(28000% - 173040px);">
+        <div style=3D"border-collapse: collapse;display: table;width: 100%;=
+">
+        <!--[if (mso)|(IE)]><table align=3D"center" class=3D"preheader" cel=
+lpadding=3D"0" cellspacing=3D"0"><tr><td style=3D"width: 280px" valign=3D"t=
+op"><![endif]-->
+          <div class=3D"snippet" style=3D'Float: left;font-size: 12px;line-=
+height: 19px;max-width: 280px;min-width: 140px; width: 140px;width: calc(14=
+000% - 78120px);padding: 10px 0 5px 0;color: #431756;font-family: "Open San=
+s",sans-serif;'>
+            <p style=3D"Margin-top: 0;Margin-bottom: 0;">Final 3 weeks!</p>
+          </div>
+        <!--[if (mso)|(IE)]></td><td style=3D"width: 280px" valign=3D"top">=
+<![endif]-->
+          <div class=3D"webversion" style=3D'Float: left;font-size: 12px;li=
+ne-height: 19px;max-width: 280px;min-width: 139px; width: 139px;width: calc=
+(14100% - 78680px);padding: 10px 0 5px 0;text-align: right;color: #431756;f=
+ont-family: "Open Sans",sans-serif;'>
+            <p style=3D"Margin-top: 0;Margin-bottom: 0;">No Images? <a styl=
+e=3D"text-decoration: underline;transition: opacity 0.1s ease-in;color: #43=
+1756;" href=3D"http://josephpatrickpresents.cmail2.com/t/i-e-kifek-iyjljkth=
+h-k/">Click here</a></p>
+          </div>
+        <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+        </div>
+      </div>
+     =20
+      <div class=3D"layout one-col fixed-width" style=3D"Margin: 0 auto;max=
+-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 173000px)=
+;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">
+        <div class=3D"layout__inner" style=3D"border-collapse: collapse;dis=
+play: table;width: 100%;background-color: #ffffff;" lang=3D"x-layout__inner=
+">
+        <!--[if (mso)|(IE)]><table align=3D"center" cellpadding=3D"0" cells=
+pacing=3D"0"><tr class=3D"layout-fixed-width" style=3D"background-color: #f=
+fffff;"><td style=3D"width: 600px" class=3D"w560"><![endif]-->
+          <div class=3D"column" style=3D"text-align: left;color: #000;font-=
+size: 16px;line-height: 24px;font-family: Merriweather,Georgia,serif;max-wi=
+dth: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);">
+       =20
+        <div style=3D"font-size: 12px;font-style: normal;font-weight: norma=
+l;" align=3D"center">
+          <a style=3D"text-decoration: underline;transition: opacity 0.1s e=
+ase-in;color: #0080d7;" href=3D"http://josephpatrickpresents.cmail2.com/t/i=
+-l-kifek-iyjljkthh-r/"><img style=3D"border: 0;display: block;height: auto;=
+width: 100%;max-width: 600px;" alt=3D"Tickets to Thank You For Being A Frie=
+nd" width=3D"600" src=3D"http://i1.cmail2.com/ei/i/0D/E88/F36/035325/csfina=
+l/gg-email-top3.jpg"></a>
+        </div>
+     =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-top: =
+20px;">
+      <h3 style=3D'Margin-top: 0;Margin-bottom: 0;font-style: normal;font-w=
+eight: normal;color: #ec008b;font-size: 14px;line-height: 21px;font-family:=
+ "Open Sans",sans-serif;text-align: center;'><strong>It's The Golden Girls.=
+.. with puppets!</strong></h3><p class=3D"size-24" style=3D"Margin-top: 12p=
+x;Margin-bottom: 0;font-family: open sans,sans-serif;font-size: 20px;line-h=
+eight: 28px;text-align: center;" lang=3D"x-size-24"><span class=3D"font-ope=
+n-sans">Just 3 weeks remain<br>
+at Al Green Theatre in Toronto</span></p><p style=3D"Margin-top: 20px;Margi=
+n-bottom: 20px;text-align: center;"><span style=3D"color:#431756"><strong>A=
+lexey Novak</strong></span></p>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <div style=3D"line-height:12px;font-size:1px">&nbsp;</div>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <div class=3D"divider" style=3D"display: block;font-size: 2px;line-he=
+ight: 2px;Margin-left: auto;Margin-right: auto;width: 40px;background-color=
+: #419e88;Margin-bottom: 20px;">&nbsp;</div>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <h3 class=3D"size-22" style=3D'Margin-top: 0;Margin-bottom: 0;font-st=
+yle: normal;font-weight: normal;color: #ec008b;font-size: 18px;line-height:=
+ 26px;font-family: "Open Sans",sans-serif;text-align: center;' lang=3D"x-si=
+ze-22"><strong>Save $20 per ticket <a style=3D"text-decoration: none;transi=
+tion: opacity 0.1s ease-in;color: #0080d7;" href=3D"http://josephpatrickpre=
+sents.cmail2.com/t/i-fb-kifek-iyjljkthh-u/" likeurl=3D"https://www.facebook=
+.com/GoldenGirlsTO/" rel=3D"cs_facebox"><img style=3D"border: 0;" src=3D"ht=
+tps://img.createsend1.com/img/social/fblike.png" border=3D"0" title=3D"Like=
+ this on Facebook" alt=3D"Facebook Like Button" width=3D"51" height=3D"20">=
+</a>&nbsp;<br>
+when you book now!</strong></h3><p style=3D"Margin-top: 12px;Margin-bottom:=
+ 20px;text-align: center;"><strong>Choose any seat, including VIP (where av=
+ailable)</strong></p>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <div class=3D"btn btn--flat fullwidth btn--large" style=3D"Margin-bot=
+tom: 20px;text-align: center;">
+        <![if !mso]><a style=3D"border-radius: 4px;display: block;font-size=
+: 14px;font-weight: bold;line-height: 24px;padding: 12px 24px;text-align: c=
+enter;text-decoration: none !important;transition: opacity 0.1s ease-in;col=
+or: #fff;background-color: #ec008b;font-family: Merriweather, Georgia, seri=
+f;" href=3D"http://josephpatrickpresents.cmail2.com/t/i-l-kifek-iyjljkthh-y=
+/">Reserve Your Toronto Tickets Now</a><![endif]>
+      <!--[if mso]><p style=3D"line-height:0;margin:0;">&nbsp;</p><v:roundr=
+ect xmlns:v=3D"urn:schemas-microsoft-com:vml" href=3D"http://josephpatrickp=
+resents.cmail2.com/t/i-l-kifek-iyjljkthh-y/" style=3D"width:560px" arcsize=
+=3D"9%" fillcolor=3D"#EC008B" stroke=3D"f"><v:textbox style=3D"mso-fit-shap=
+e-to-text:t" inset=3D"0px,11px,0px,11px"><center style=3D"font-size:14px;li=
+ne-height:24px;color:#FFFFFF;font-family:Georgia,serif;font-weight:bold;mso=
+-line-height-rule:exactly;mso-text-raise:4px">Reserve Your Toronto Tickets =
+Now</center></v:textbox></v:roundrect><![endif]--></div>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <div class=3D"btn btn--flat fullwidth btn--large" style=3D"Margin-bot=
+tom: 20px;text-align: center;">
+        <![if !mso]><a style=3D"border-radius: 4px;display: block;font-size=
+: 14px;font-weight: bold;line-height: 24px;padding: 12px 24px;text-align: c=
+enter;text-decoration: none !important;transition: opacity 0.1s ease-in;col=
+or: #fff;background-color: #3b5998;font-family: Merriweather, Georgia, seri=
+f;" href=3D"http://josephpatrickpresents.cmail2.com/t/i-l-kifek-iyjljkthh-j=
+/">View Our Facebook Page</a><![endif]>
+      <!--[if mso]><p style=3D"line-height:0;margin:0;">&nbsp;</p><v:roundr=
+ect xmlns:v=3D"urn:schemas-microsoft-com:vml" href=3D"http://josephpatrickp=
+resents.cmail2.com/t/i-l-kifek-iyjljkthh-j/" style=3D"width:560px" arcsize=
+=3D"9%" fillcolor=3D"#3B5998" stroke=3D"f"><v:textbox style=3D"mso-fit-shap=
+e-to-text:t" inset=3D"0px,11px,0px,11px"><center style=3D"font-size:14px;li=
+ne-height:24px;color:#FFFFFF;font-family:Georgia,serif;font-weight:bold;mso=
+-line-height-rule:exactly;mso-text-raise:4px">View Our Facebook Page</cente=
+r></v:textbox></v:roundrect><![endif]--></div>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <p style=3D"Margin-top: 0;Margin-bottom: 0;font-family: open sans,san=
+s-serif;"><span class=3D"font-open-sans">Prepare for an evening of laughter=
+, spectacular put-downs and familiar friends as Miami's four favourite Gold=
+en Girls -&nbsp;<strong>Dorothy, Sophia, Rose and Blanche</strong>&nbsp;- r=
+eunite in puppet-form for this lovingly hilarious live tribute show!&nbsp;<=
+br>
+<br>
+<strong>Thank You For Being a Friend</strong>&nbsp;is&nbsp;the ultimate Gol=
+den Girls experience, delivering all the classic dialogue, razor sharp gags=
+ and taboo-breaking stories you'd expect!</span></p><h2 class=3D"size-18" s=
+tyle=3D"Margin-top: 20px;Margin-bottom: 0;font-style: normal;font-weight: n=
+ormal;color: #f23278;font-size: 17px;line-height: 26px;font-family: open sa=
+ns,sans-serif;text-align: center;" lang=3D"x-size-18"><span class=3D"font-o=
+pen-sans"><span style=3D"color:#ec008b"><strong>VIP Kitchen Table Seating</=
+strong></span></span></h2><p style=3D"Margin-top: 16px;Margin-bottom: 20px;=
+font-family: open sans,sans-serif;text-align: left;"><span class=3D"font-op=
+en-sans">Everyone knows the kitchen table is the girls' favourite place to =
+sit, and likewise, these are the best seats in the house! Get your own tabl=
+e right up front for you and up to 3 friends,<strong>&nbsp;complete with a =
+floral=20
+tablecloth and 4 slices of cheesecake!</strong>&nbsp; Table seating is 4 pe=
+ople max per table.</span></p>
+    </div>
+       =20
+        <div style=3D"font-size: 12px;font-style: normal;font-weight: norma=
+l;" align=3D"center">
+          <img style=3D"border: 0;display: block;height: auto;width: 100%;m=
+ax-width: 600px;" alt=3D"" width=3D"600" src=3D"http://i2.cmail2.com/ei/i/0=
+D/E88/F36/035325/csfinal/gg-cheesecake1.png">
+        </div>
+     =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-top: =
+20px;">
+      <p class=3D"size-12" style=3D"Margin-top: 0;Margin-bottom: 20px;font-=
+family: lato,tahoma,sans-serif;font-size: 12px;line-height: 19px;text-align=
+: center;" lang=3D"x-size-12"><span class=3D"font-lato"><em>Our cheesecake =
+is provided locally by Sweets From The Earth</em></span></p>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <div class=3D"divider" style=3D"display: block;font-size: 2px;line-he=
+ight: 2px;Margin-left: auto;Margin-right: auto;width: 40px;background-color=
+: #419e88;Margin-bottom: 20px;">&nbsp;</div>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <p style=3D"Margin-top: 0;Margin-bottom: 20px;font-family: open sans,=
+sans-serif;text-align: center;"><span class=3D"font-open-sans">On stage at =
+<strong>The Al Green Theatre</strong><br>
+750 Spadina Avenue&nbsp;at Bloor Street</span></p>
+    </div>
+       =20
+        <div style=3D"font-size: 12px;font-style: normal;font-weight: norma=
+l;" align=3D"center">
+          <a style=3D"text-decoration: underline;transition: opacity 0.1s e=
+ase-in;color: #0080d7;" href=3D"http://josephpatrickpresents.cmail2.com/t/i=
+-l-kifek-iyjljkthh-t/"><img style=3D"border: 0;display: block;height: auto;=
+width: 100%;max-width: 600px;" alt=3D"The Al Green Theatre" width=3D"600" s=
+rc=3D"http://i3.cmail2.com/ei/i/0D/E88/F36/035325/csfinal/al-green-seating.=
+jpg"></a>
+        </div>
+     =20
+          </div>
+        <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+        </div>
+      </div>
+ =20
+      <div class=3D"layout two-col fixed-width" style=3D"Margin: 0 auto;max=
+-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 173000px)=
+;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">
+        <div class=3D"layout__inner" style=3D"border-collapse: collapse;dis=
+play: table;width: 100%;background-color: #ffffff;" lang=3D"x-layout__inner=
+">
+        <!--[if (mso)|(IE)]><table align=3D"center" cellpadding=3D"0" cells=
+pacing=3D"0"><tr class=3D"layout-fixed-width" style=3D"background-color: #f=
+fffff;"><td style=3D"width: 300px" valign=3D"top" class=3D"w260"><![endif]-=
+->
+          <div class=3D"column" style=3D"text-align: left;color: #000;font-=
+size: 16px;line-height: 24px;font-family: Merriweather,Georgia,serif;Float:=
+ left;max-width: 320px;min-width: 300px; width: 320px;width: calc(12300px -=
+ 2000%);">
+         =20
+        <div style=3D"font-size: 12px;font-style: normal;font-weight: norma=
+l;" align=3D"center">
+          <a style=3D"text-decoration: underline;transition: opacity 0.1s e=
+ase-in;color: #0080d7;" href=3D"http://josephpatrickpresents.cmail2.com/t/i=
+-l-kifek-iyjljkthh-i/"><img style=3D"border: 0;display: block;height: auto;=
+width: 100%;max-width: 238px;" alt=3D"Get tickets to Thank You For Being A =
+Friend" width=3D"238" src=3D"http://i4.cmail2.com/ei/i/0D/E88/F36/035325/cs=
+final/sophia.png"></a>
+        </div>
+     =20
+          </div>
+        <!--[if (mso)|(IE)]></td><td style=3D"width: 300px" valign=3D"top" =
+class=3D"w260"><![endif]-->
+          <div class=3D"column" style=3D"text-align: left;color: #000;font-=
+size: 16px;line-height: 24px;font-family: Merriweather,Georgia,serif;Float:=
+ left;max-width: 320px;min-width: 300px; width: 320px;width: calc(12300px -=
+ 2000%);">
+         =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-top: =
+24px;">
+     =20
+<h1 class=3D"size-14" style=3D"Margin-top: 0;Margin-bottom: 0;font-style: n=
+ormal;font-weight: normal;color: #000;font-size: 14px;line-height: 21px;fon=
+t-family: sans-serif;" lang=3D"x-size-14"><span class=3D"font-sans-serif"><=
+span style=3D"color:#ec008b"><strong>Thank You For Being A Friend</strong><=
+/span></span></h1><blockquote style=3D"Margin-top: 20px;Margin-bottom: 20px=
+;Margin-left: 0;Margin-right: 0;padding-left: 14px;border-left: 4px solid #=
+419e88;"><p class=3D"size-12" style=3D"Margin-top: 20px;Margin-bottom: 0;fo=
+nt-family: sans-serif;font-size: 12px;line-height: 19px;" lang=3D"x-size-12=
+"><span class=3D"font-sans-serif" style=3D"Margin-top: 20px;"><strong style=
+=3D"Margin-top: 20px;">On stage Now - September 24</strong></span></p><p cl=
+ass=3D"size-12" style=3D"Margin-top: 20px;Margin-bottom: 20px;font-family: =
+sans-serif;font-size: 12px;line-height: 19px;" lang=3D"x-size-12"><span cla=
+ss=3D"font-sans-serif"=20
+style=3D"Margin-top: 20px;">Nightly Tues-Sat 7:30PM<br style=3D"Margin-top:=
+ 20px;">
+Matinees Sat, Sun 1:30PM<br>
+<strong>Tickets Reg. $49.99 - $69.99</strong></span></p></blockquote>
+    </div>
+         =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-botto=
+m: 24px;">
+      <div class=3D"btn btn--flat btn--large" style=3D"text-align:left;">
+        <![if !mso]><a style=3D"border-radius: 4px;display: inline-block;fo=
+nt-size: 14px;font-weight: bold;line-height: 24px;padding: 12px 24px;text-a=
+lign: center;text-decoration: none !important;transition: opacity 0.1s ease=
+-in;color: #fff;background-color: #ec008b;font-family: Merriweather, Georgi=
+a, serif;" href=3D"http://josephpatrickpresents.cmail2.com/t/i-l-kifek-iyjl=
+jkthh-d/">Book Your Tickets</a><![endif]>
+      <!--[if mso]><p style=3D"line-height:0;margin:0;">&nbsp;</p><v:roundr=
+ect xmlns:v=3D"urn:schemas-microsoft-com:vml" href=3D"http://josephpatrickp=
+resents.cmail2.com/t/i-l-kifek-iyjljkthh-d/" style=3D"width:177px" arcsize=
+=3D"9%" fillcolor=3D"#EC008B" stroke=3D"f"><v:textbox style=3D"mso-fit-shap=
+e-to-text:t" inset=3D"0px,11px,0px,11px"><center style=3D"font-size:14px;li=
+ne-height:24px;color:#FFFFFF;font-family:Georgia,serif;font-weight:bold;mso=
+-line-height-rule:exactly;mso-text-raise:4px">Book Your Tickets</center></v=
+:textbox></v:roundrect><![endif]--></div>
+    </div>
+         =20
+          </div>
+        <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+        </div>
+      </div>
+ =20
+      <div class=3D"layout one-col fixed-width" style=3D"Margin: 0 auto;max=
+-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 173000px)=
+;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">
+        <div class=3D"layout__inner" style=3D"border-collapse: collapse;dis=
+play: table;width: 100%;background-color: #431756;" lang=3D"x-layout__inner=
+">
+        <!--[if (mso)|(IE)]><table align=3D"center" cellpadding=3D"0" cells=
+pacing=3D"0"><tr class=3D"layout-fixed-width" style=3D"background-color: #4=
+31756;"><td style=3D"width: 600px" class=3D"w560"><![endif]-->
+          <div class=3D"column" style=3D"text-align: left;color: #000;font-=
+size: 16px;line-height: 24px;font-family: Merriweather,Georgia,serif;max-wi=
+dth: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);">
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-top: =
+24px;Margin-bottom: 24px;">
+      <p style=3D"Margin-top: 0;Margin-bottom: 0;font-family: open sans,san=
+s-serif;text-align: center;"><span class=3D"font-open-sans"><span style=3D"=
+color:#ffffff">CHARGE BY PHONE: &nbsp;1-888-324-6282</span></span></p>
+    </div>
+       =20
+          </div>
+        <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+        </div>
+      </div>
+ =20
+      <div class=3D"layout email-footer" style=3D"Margin: 0 auto;max-width:=
+ 600px;min-width: 320px; width: 320px;width: calc(28000% - 173000px);overfl=
+ow-wrap: break-word;word-wrap: break-word;word-break: break-word;">
+        <div class=3D"layout__inner" style=3D"border-collapse: collapse;dis=
+play: table;width: 100%;" lang=3D"x-layout__inner">
+        <!--[if (mso)|(IE)]><table align=3D"center" cellpadding=3D"0" cells=
+pacing=3D"0"><tr class=3D"layout-email-footer"><td style=3D"width: 400px;" =
+valign=3D"top" class=3D"w360"><![endif]-->
+          <div class=3D"column wide" style=3D'text-align: left;font-size: 1=
+2px;line-height: 19px;color: #431756;font-family: "Open Sans",sans-serif;Fl=
+oat: left;max-width: 400px;min-width: 320px; width: 320px;width: calc(8000%=
+ - 47600px);'>
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-top: =
+10px;Margin-bottom: 10px;">
+              <table class=3D"email-footer__links emb-web-links" style=3D"b=
+order-collapse: collapse;table-layout: fixed;"><tbody><tr>
+              <td class=3D"emb-web-links" style=3D"padding: 0;width: 26px;"=
+><a style=3D"text-decoration: underline;transition: opacity 0.1s ease-in;co=
+lor: #431756;" href=3D"http://josephpatrickpresents.cmail2.com/t/i-l-kifek-=
+iyjljkthh-h/"><img style=3D"border: 0;" src=3D"http://i8.cmail2.com/static/=
+eb/master/13-the-blueprint-3/images/facebook.png" width=3D"26" height=3D"26=
+"></a></td>
+              </tr></tbody></table>
+              <div style=3D"Margin-top: 20px;">
+                <div>Joseph Patrick Presents <strong>Thank You For Being A =
+Friend&nbsp;</strong><br>
+Written by Thomas Duncan-Watt &amp; Jonathan Rockefeller</div>
+              </div>
+              <div style=3D"Margin-top: 18px;">
+                <div>You are receiving this message directly from Ticketwis=
+e, because you signed up to receive updates during a previous purchase you =
+have made with us.</div>
+              </div>
+            </div>
+          </div>
+        <!--[if (mso)|(IE)]></td><td style=3D"width: 200px;" valign=3D"top"=
+ class=3D"w160"><![endif]-->
+          <div class=3D"column narrow" style=3D'text-align: left;font-size:=
+ 12px;line-height: 19px;color: #431756;font-family: "Open Sans",sans-serif;=
+Float: left;max-width: 320px;min-width: 200px; width: 320px;width: calc(722=
+00px - 12000%);'>
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-top: =
+10px;Margin-bottom: 10px;">
+              <div class=3D"footer__share-button">
+                <!--[if mso]><p style=3D"line-height:0;">&nbsp;</p><![endif=
+]-->
+               =20
+<p style=3D"Margin-top: 0;Margin-bottom: 5px;line-height: 26px;mso-line-hei=
+ght-rule: exactly;"><![if !mso]><a class=3D"fblike" style=3D"background-ima=
+ge: url(http://i7.cmail2.com/static/eb/master/13-the-blueprint-3/images/fbl=
+ike.png);text-decoration: none;transition: opacity 0.1s ease-in;color: #fff=
+fff;background-repeat: no-repeat;background-size: 200px 56px;border-radius:=
+ 2px;display: inline-block;font-size: 11px;font-weight: bold;line-height: 1=
+1px;padding: 8px 11px 7px 28px;text-align: left;background-color: #3e655c;"=
+ href=3D"http://josephpatrickpresents.cmail2.com/t/i-fb-kifek-iyjljkthh-o/"=
+ left-align-text=3D"true" rel=3D"cs_facebox">Like</a><![endif]><!--[if mso]=
+><v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" href=3D"http://jose=
+phpatrickpresents.cmail2.com/t/i-fb-kifek-iyjljkthh-o/" style=3D"width:62px=
+"=20
+arcsize=3D"8%" fill=3D"t" stroke=3D"f"><v:fill type=3D"tile" src=3D"http://=
+i7.cmail2.com/static/eb/master/13-the-blueprint-3/images/fblike.png" color=
+=3D"#3E655C"></v:fill><v:textbox style=3D"mso-fit-shape-to-text:t" inset=3D=
+"27px,7px,0,6px"><p style=3D"font-size:11px;line-height:11px;color:#FFFFFF;=
+font-weight:bold;mso-line-height-rule:exactly;mso-text-raise:-1px">Like</p>=
+</v:textbox></v:roundrect><![endif]--></p>
+               =20
+<p style=3D"Margin-top: 0;Margin-bottom: 5px;line-height: 26px;mso-line-hei=
+ght-rule: exactly;"><![if !mso]><a class=3D"tweet" style=3D"background-imag=
+e: url(http://i8.cmail2.com/static/eb/master/13-the-blueprint-3/images/twee=
+t.png);text-decoration: none;transition: opacity 0.1s ease-in;color: #fffff=
+f;background-repeat: no-repeat;background-size: 200px 56px;border-radius: 2=
+px;display: inline-block;font-size: 11px;font-weight: bold;line-height: 11p=
+x;padding: 8px 11px 7px 28px;text-align: left;background-color: #3e655c;" h=
+ref=3D"http://josephpatrickpresents.cmail2.com/t/i-tw-kifek-iyjljkthh-b/" l=
+eft-align-text=3D"true">Tweet</a><![endif]><!--[if mso]><v:roundrect xmlns:=
+v=3D"urn:schemas-microsoft-com:vml" href=3D"http://josephpatrickpresents.cm=
+ail2.com/t/i-tw-kifek-iyjljkthh-b/" style=3D"width:73px" arcsize=3D"8%" fil=
+l=3D"t"=20
+stroke=3D"f"><v:fill type=3D"tile" src=3D"http://i8.cmail2.com/static/eb/ma=
+ster/13-the-blueprint-3/images/tweet.png" color=3D"#3E655C"></v:fill><v:tex=
+tbox style=3D"mso-fit-shape-to-text:t" inset=3D"27px,7px,0,6px"><p style=3D=
+"font-size:11px;line-height:11px;color:#FFFFFF;font-weight:bold;mso-line-he=
+ight-rule:exactly;mso-text-raise:-1px">Tweet</p></v:textbox></v:roundrect><=
+![endif]--></p>
+               =20
+               =20
+<p style=3D"Margin-top: 0;Margin-bottom: 5px;line-height: 26px;mso-line-hei=
+ght-rule: exactly;"><![if !mso]><a class=3D"forwardtoafriend" style=3D"back=
+ground-image: url(http://i10.cmail2.com/static/eb/master/13-the-blueprint-3=
+/images/forward.png);text-decoration: none;transition: opacity 0.1s ease-in=
+;color: #ffffff;background-repeat: no-repeat;background-size: 200px 56px;bo=
+rder-radius: 2px;display: inline-block;font-size: 11px;font-weight: bold;li=
+ne-height: 11px;padding: 8px 11px 7px 28px;text-align: left;background-colo=
+r: #3e655c;" href=3D"http://josephpatrickpresents.forwardtomyfriend.com/i-i=
+yjljkthh-CE3A16E4-kifek-l-a" left-align-text=3D"true">Forward</a><![endif]>=
+<!--[if mso]><v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" href=3D=
+"http://josephpatrickpresents.forwardtomyfriend.com/i-iyjljkthh-CE3A16E4-ki=
+fek-l-a" style=3D"width:85px" arcsize=3D"8%" fill=3D"t" stroke=3D"f"><v:fil=
+l type=3D"tile"=20
+src=3D"http://i10.cmail2.com/static/eb/master/13-the-blueprint-3/images/for=
+ward.png" color=3D"#3E655C"></v:fill><v:textbox style=3D"mso-fit-shape-to-t=
+ext:t" inset=3D"27px,7px,0,6px"><p style=3D"font-size:11px;line-height:11px=
+;color:#FFFFFF;font-weight:bold;mso-line-height-rule:exactly;mso-text-raise=
+:-1px">Forward</p></v:textbox></v:roundrect><![endif]--></p>
+              </div>
+            </div>
+          </div>
+        <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+        </div>
+      </div>
+      <div class=3D"layout one-col email-footer" style=3D"Margin: 0 auto;ma=
+x-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 173000px=
+);overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">
+        <div class=3D"layout__inner" style=3D"border-collapse: collapse;dis=
+play: table;width: 100%;" lang=3D"x-layout__inner">
+        <!--[if (mso)|(IE)]><table align=3D"center" cellpadding=3D"0" cells=
+pacing=3D"0"><tr class=3D"layout-email-footer"><td style=3D"width: 600px;" =
+class=3D"w560"><![endif]-->
+          <div class=3D"column" style=3D'text-align: left;font-size: 12px;l=
+ine-height: 19px;color: #431756;font-family: "Open Sans",sans-serif;max-wid=
+th: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);'>
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-top: =
+10px;Margin-bottom: 10px;">
+              <div>
+                <span><a style=3D"text-decoration: underline;transition: op=
+acity 0.1s ease-in;color: #431756;" href=3D"http://josephpatrickpresents.up=
+datemyprofile.com/i-kifek-CE3A16E4-iyjljkthh-f" lang=3D"en">Preferences</a>=
+&nbsp;&nbsp;|&nbsp;&nbsp;</span><a style=3D"text-decoration: underline;tran=
+sition: opacity 0.1s ease-in;color: #431756;" href=3D"http://josephpatrickp=
+resents.cmail2.com/t/i-u-kifek-iyjljkthh-z/">Unsubscribe</a>
+              </div>
+            </div>
+          </div>
+        <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+        </div>
+      </div>
+      <div style=3D"line-height:40px;font-size:40px;">&nbsp;</div>
+   =20
+  </div><img style=3D"overflow: hidden;position: fixed;visibility: hidden !=
+important;display: block !important;height: 1px !important;width: 1px !impo=
+rtant;border: 0 !important;margin: 0 !important;padding: 0 !important;" src=
+=3D"https://josephpatrickpresents.cmail2.com/t/i-o-kifek-iyjljkthh/o.gif" w=
+idth=3D"1" height=3D"1" border=3D"0" alt=3D"">
+</body></html>
+
+
+
+--_bff677fc-9fcb-485d-bc20-2be105f262e1_--

@@ -1,0 +1,125 @@
+Delivered-To: alexey.novak.mail@gmail.com
+Received: by 10.36.213.130 with SMTP id a124csp3440322itg;
+        Thu, 6 Oct 2016 07:51:53 -0700 (PDT)
+X-Received: by 10.25.212.5 with SMTP id l5mr7156471lfg.73.1475765513766;
+        Thu, 06 Oct 2016 07:51:53 -0700 (PDT)
+Return-Path: <bounce@datadiscourse.org>
+Received: from vmta13.datadiscourse.org (vmta13.datadiscourse.org. [217.23.9.97])
+        by mx.google.com with ESMTPS id a73si3465280lfa.255.2016.10.06.07.51.53
+        for <alexey.novak.mail@gmail.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Thu, 06 Oct 2016 07:51:53 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce@datadiscourse.org designates 217.23.9.97 as permitted sender) client-ip=217.23.9.97;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@datadiscourse.org;
+       spf=pass (google.com: domain of bounce@datadiscourse.org designates 217.23.9.97 as permitted sender) smtp.mailfrom=bounce@datadiscourse.org;
+       dmarc=pass (p=NONE dis=NONE) header.from=datadiscourse.org
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=dkim; d=datadiscourse.org; h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; bh=lMJ2zNFqoOEQxKHNYx4E9zz+4B09NdInDGscCTcTMiA=; b=FNhhfe8IRVsWH5M6aYWvv6KR65S+OVf1toKYbXHwarZJYMOUTXr8l4q+ThDSBv/c4ZOaDA6HQLlA
+   UegFa+jTsultOZKtLjbP3ntVYHAlkah5Hj6gJ2r9JylkPxry+FT7+kZUjYVyWESbGJMpvREy4lQY
+   GED8EFbiyEGQ/6aBdjw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=datadiscourse.org; b=c8b0bD/zM5sGACEO+vACP8/SZX2SxZG7oWCSWslJqwTfp6mTNw2EfgZynNgYUnhjWJSpGt5VdIcg
+   f/R0pdv6sDFMwTBeOvOi/2FAV0se4XWVU+CXFCOF3ZwF7OzQU6sNDYAwL4INnJ+c79n1SNBCFI7S
+   wkPxOVHR8NFhZqMzWrE=;
+To: alexey.novak.mail@gmail.com
+Subject: Harvard-Incubated Consulting Marketplace and Training Platform
+Message-ID: <bf541fe955b2c9c6368b849db969cc0b@datadiscourse.org>
+Return-Path: bounce@datadiscourse.org
+Date: Tue, 04 Oct 2016 17:35:09 +0000
+From: Experfy Marketplace <experfy@datadiscourse.org>
+Reply-To: experfy@datadiscourse.org
+MIME-Version: 1.0
+X-Mailer-LID: 3
+List-Unsubscribe: <http://datadiscourse.org/iem/unsubscribe.php?M=705552&C=8d74bf4770bc751bd9c3658ad15eb7b8&L=3&N=4>
+X-Mailer-RecptId: 705552
+X-Mailer-SID: 4
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_5ed475c75e657952a78ed52a5032737e"
+Content-Transfer-Encoding: 8bit
+
+--b1_5ed475c75e657952a78ed52a5032737e
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://datadiscourse.org/iem/display.php?M=705552&C=8d74bf4770bc751bd9c3658ad15eb7b8&S=4&L=3&N=2
+
+Dear Colleague,
+
+
+Experfy is a Harvard-incubated consulting marketplace for analytics,
+engineering and tech
+projects.  From data science to programming, mobile apps and systems
+engineering, we do it all. See
+http://datadiscourse.org/iem/link.php?M=705552&N=4&L=2&F=T
+
+25,000 tech and data experts have joined our community to find credible
+work that pays between
+$50 and $250 per hour.  TechCrunch calls us a "McKinsey in the Cloud" and
+RapidMiner refers
+to us as the "#1 Consulting Marketplace."  We hope you will sign-up to stay
+informed and
+possibly work on lucrative consulting projects that may interest you.
+
+We also have a training and certification platform that provides a wide
+range of cutting-edge
+courses to advance your career.  The courses are taught by Harvard
+professors and top
+industry experts from companies like Cisco, Google and Amazon.  Upon
+completion of your
+training, you can begin building your portfolio by working in our
+consulting marketplace or
+attract the attention of world's top companies for a full-time employment
+through our Recruit
+platform. We have put together a powerful ecosystem to help you in all
+stages of your career.
+
+Best regards,
+Experfy's Innovation Group
+
+
+To stop receiving these
+emails:http://datadiscourse.org/iem/unsubscribe.php?M=705552&C=8d74bf4770bc751bd9c3658ad15eb7b8&L=3&N=4
+
+--b1_5ed475c75e657952a78ed52a5032737e
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+</head>
+<body>
+Dear Colleague,<br /><br />Experfy is a Harvard-incubated <a
+href="http://datadiscourse.org/iem/link.php?M=705552&N=4&L=2&F=H">consulting
+marketplace</a> for analytics, engineering and tech projects. From data
+science to programming, mobile apps and systems engineering, we do it all.
+25,000 technology and data experts have joined our community to find
+credible work that pays between $50 and $250 per hour. TechCrunch calls us
+a "McKinsey in the Cloud" and RapidMiner refers to us the "#1 Consulting
+Marketplace." We hope you will sign-up to stay informed and possibly work
+on lucrative consulting projects that may interest you. <br /><br />We also
+have a <a
+href="http://datadiscourse.org/iem/link.php?M=705552&N=4&L=1&F=H">training
+and certification platform</a> that provides a wide range of cutting-edge
+courses to advance your career. The courses are taught by Harvard
+professors and top industry experts from companies like Cisco, Google and
+Amazon. Upon completion of your training, you can begin building your
+portfolio by working in our <a
+href="http://datadiscourse.org/iem/link.php?M=705552&N=4&L=2&F=H">consulting
+marketplace</a>&nbsp;or attract the attention of world's top companies for
+full-time employment through our <a
+href="http://datadiscourse.org/iem/link.php?M=705552&N=4&L=4&F=H">Recruit
+Platform</a>. We have put together a powerful ecosystem to help you in all
+stages of your career.<br /><br />Best regards,<br />Experfy's Innovation
+Group
+<p class="p3"><span class="s3"><span class="s4"><b><a
+href="http://datadiscourse.org/iem/link.php?M=705552&N=4&L=7&F=H"><br
+/></a></b>&nbsp;<a
+href="http://datadiscourse.org/iem/unsubscribe.php?M=705552&C=8d74bf4770bc751bd9c3658ad15eb7b8&L=3&N=4">Safe
+Unsubscribe</a></span></span></p>
+<img
+src="http://datadiscourse.org/iem/open.php?M=705552&L=3&N=4&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_5ed475c75e657952a78ed52a5032737e--
