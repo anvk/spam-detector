@@ -1,0 +1,12 @@
+{
+  "trainData": [
+    {
+      "name": "train_a.txt",
+      "classifier": 0
+    },
+    {
+      "name": "train_b.txt",
+      "classifier": 0
+    }
+  ]
+}

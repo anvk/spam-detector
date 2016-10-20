@@ -63,9 +63,9 @@ export default class SpamDetector {
         const duration = (Date.now() - taskTime) / MILLISECONDS;
         console.log(`Email preprocess finished. Execution time: ${duration} seconds`);
 
-        this._generateBagOfWords(results);
+        this.bagOfWords = this._generateBagOfWords(results);
 
-        return this._vectorize(results);
+        return this._vectorize(results, this.bagOfWords);
       })
       .then((results) => {
         console.log(`Results are ${JSON.stringify(results[0])}`);
@@ -81,8 +81,11 @@ export default class SpamDetector {
       : `${path}${BACK_SLASH}`;
   }
 
-  _vectorize(tokenizedEmails = []) {
-    return tokenizedEmails;
+  _vectorize(tokenizedEmails = [], bagOfWords = []) {
+    try {
+    for (const tokenizedEmail of tokenizedEmails) {
+      tfidf.addDocument(tokenizedEmail.text);
+    }
   }
 
   _generateBagOfWords(tokenizedEmails = []) {
@@ -103,9 +106,13 @@ export default class SpamDetector {
       })
       .slice(0, MAX_WORD_FEATURES);
 
-    sortedArray.forEach((element, index) => {
-      this.bagOfWords.set(element[0], index + 1)
-    });
+    // sortedArray.forEach((element, index) => {
+    //   this.bagOfWords.set(element[0], index + 1)
+    // });
+
+    console.log(sortedArray);
+
+    return sortedArray;
   }
 
   _preprocessEmails(emails = []) {
@@ -173,6 +180,8 @@ export default class SpamDetector {
       const { name, classifier } = emailData;
 
       mailparser.on('end', (mailObj) => {
+        console.log(mailObj.text);
+
         resolve({
           subject: mailObj.subject,
           text: mailObj.text,

@@ -1,0 +1,60 @@
+Delivered-To: abovebluesky@gmail.com
+Received: by 10.202.60.195 with SMTP id j186csp420512oia;
+        Wed, 19 Oct 2016 09:29:39 -0700 (PDT)
+X-Received: by 10.55.25.24 with SMTP id k24mr7559680qkh.141.1476894579247;
+        Wed, 19 Oct 2016 09:29:39 -0700 (PDT)
+Return-Path: <natalie.garriga22@gmail.com>
+Received: from mail-qk0-x229.google.com (mail-qk0-x229.google.com. [2607:f8b0:400d:c09::229])
+        by mx.google.com with ESMTPS id f123si24379292qkd.299.2016.10.19.09.29.39
+        for <abovebluesky@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 19 Oct 2016 09:29:39 -0700 (PDT)
+Received-SPF: pass (google.com: domain of natalie.garriga22@gmail.com designates 2607:f8b0:400d:c09::229 as permitted sender) client-ip=2607:f8b0:400d:c09::229;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com;
+       spf=pass (google.com: domain of natalie.garriga22@gmail.com designates 2607:f8b0:400d:c09::229 as permitted sender) smtp.mailfrom=natalie.garriga22@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-qk0-x229.google.com with SMTP id o68so36851416qkf.3
+        for <abovebluesky@gmail.com>; Wed, 19 Oct 2016 09:29:39 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=na8axTZBlcF3gKJjaqWG/WHHLZLefQC/W24LjbzG9tA=;
+        b=nI4wF1gGMGIItlTQIDoEnfFzCm4hYXyv17+eNd3uo8Hv1QOfg/sq2fLm/6BC7lCQyM
+         yLX6XRAl3pfM1keuhkH5lRR0PdijFrYOn4kiM0nM4tEsXT7WgX1daYnJQC1XhfByy2pX
+         hQCFCk6yoUYs957j9UEmgbTzbDcvUDFckgoEHtDooTXwq38LUw7KTt/tKW3YBZvu6vN6
+         8uNUtQYzRe3ewbEXBJNwoCpiB69h4Kvc/siw+5lua08q2GUb51EsEVljXgvDST+zRwDU
+         O7wSwPWLcnpbSqz/JAPBCbt/CFj4SavSXg5sMva562Zv1xLo9lvB8aP1DxStTujGij7j
+         Ipbw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=na8axTZBlcF3gKJjaqWG/WHHLZLefQC/W24LjbzG9tA=;
+        b=cJ0dh0vl1/JgzYsotwme+aHlfMK0OyGvy/wcR4IpHZwVDwSQ+aw3DkASSrUkPs+c9L
+         ylFYri88vQ5FQbtPU+FLntIhnWVD9jdAFG4LgF2UopPza710qqgBi98UvQWEf+WaiciB
+         iKcxGyQCvzX0hyh68wK7yFtZ479BJdADvTuXLMKebTv7YAv33ORea+TMsBWKRLrfXvbl
+         SX0csIunW1kkuXKWV+86bwJVszSFoA/T51EbFgy9ubq7xEIM2Avbgg1iSI6UZ26BqYBe
+         deeJcK88b5t21M0FYG2s2whNXDNISJJcv7q03lcXjA/bpnsa+AdfkK7VeQDE5nV4fsuk
+         YJBw==
+X-Gm-Message-State: ABUngvf7vuXg+FXwPWfgFq2x4mIqfAo4rNA4h33KQoC/zWCvB3rJ+ZCNI9Ghe7cnS37AvyeITntq8moHDkHBCA==
+X-Received: by 10.55.40.41 with SMTP id o41mr1232832qkh.237.1476894578649; Wed, 19 Oct 2016 09:29:38 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.55.18.79 with HTTP; Wed, 19 Oct 2016 09:29:38 -0700 (PDT)
+From: Natalie Garriga <natalie.garriga22@gmail.com>
+Date: Wed, 19 Oct 2016 12:29:38 -0400
+Message-ID: <CAHXDsiGxNKbrvK+GZWP05tMzwR8mfOD==LqOhbegXbp-41=Ydw@mail.gmail.com>
+Subject: San Francisco
+To: Alexey Novak <abovebluesky@gmail.com>
+Content-Type: multipart/alternative; boundary=001a1140a35abb39cc053f3a5029
+
+--001a1140a35abb39cc053f3a5029
+Content-Type: text/plain; charset=UTF-8
+
+The dog sat on my bed.
+
+--001a1140a35abb39cc053f3a5029
+Content-Type: text/html; charset=UTF-8
+
+The dog sat on my bed.
+
+--001a1140a35abb39cc053f3a5029--
