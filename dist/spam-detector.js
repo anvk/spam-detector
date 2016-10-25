@@ -96,10 +96,11 @@ var SpamDetector = function () {
 
         _this.bagOfWords = _this._generateBagOfWords(results);
 
-        return _this._vectorize(results);
+        return _this._vectorize(results, _this.bagOfWords);
       }).then(function (results) {
         console.log('Results are ' + JSON.stringify(results[0]));
       }).catch(function (error) {
+        console.error(error);
         throw error;
       });
     }
@@ -112,76 +113,98 @@ var SpamDetector = function () {
     key: '_vectorize',
     value: function _vectorize() {
       var tokenizedEmails = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : [];
+      var bagOfWords = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : [];
+
+      var idfs = this._computeIdfs(tokenizedEmails, bagOfWords);
+
+      var result = [];
+
+      var _iteratorNormalCompletion = true;
+      var _didIteratorError = false;
+      var _iteratorError = undefined;
 
       try {
-        var TfIdf = _natural2.default.TfIdf;
-        var tfidf = new TfIdf();
-
-        var _iteratorNormalCompletion = true;
-        var _didIteratorError = false;
-        var _iteratorError = undefined;
-
+        for (var _iterator = tokenizedEmails[Symbol.iterator](), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
+          var _tokenizedEmail = _step.value;
+        }
+      } catch (err) {
+        _didIteratorError = true;
+        _iteratorError = err;
+      } finally {
         try {
-          for (var _iterator = tokenizedEmails[Symbol.iterator](), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
-            var tokenizedEmail = _step.value;
-
-            tfidf.addDocument(tokenizedEmail.text);
+          if (!_iteratorNormalCompletion && _iterator.return) {
+            _iterator.return();
           }
-        } catch (err) {
-          _didIteratorError = true;
-          _iteratorError = err;
         } finally {
-          try {
-            if (!_iteratorNormalCompletion && _iterator.return) {
-              _iterator.return();
-            }
-          } finally {
-            if (_didIteratorError) {
-              throw _iteratorError;
-            }
+          if (_didIteratorError) {
+            throw _iteratorError;
           }
         }
-
-        console.log('about to show tfidf numbers');
-
-        console.log(tfidf.tfidf('bed', 0));
-        console.log(tfidf.tfidf('cat', 0));
-        console.log(tfidf.tfidf('dog', 0));
-        console.log(tfidf.tfidf('face', 0));
-        console.log(tfidf.tfidf('my', 0));
-        console.log(tfidf.tfidf('on', 0));
-        console.log(tfidf.tfidf('sat', 0));
-        console.log(tfidf.tfidf('the', 0));
-
-        return tokenizedEmails;
-      } catch (e) {
-        console.log(e);
       }
+
+      console.log(result);
+
+      return result;
     }
   }, {
-    key: '_generateBagOfWords',
-    value: function _generateBagOfWords() {
-      var tokenizedEmails = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : [];
+    key: '_computeTfs',
+    value: function _computeTfs() {
+      var tokenizedEmailText = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : [];
+      var bagOfWords = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : [];
 
-      var bagOfWords = new Map();
+      var wordsMap = new Map(bagOfWords.map(function (element) {
+        return [element, 0];
+      }));
+      var numberOfWords = tokenizedEmail.length;
+
+      for (var word in tokenizedEmailText) {
+        if (!wordsMap.has(word)) {
+          continue;
+        }
+
+        wordsMap.set(word, wordsMap.get(token) + 1);
+      }
+
+      return wordsMap;
+    }
+  }, {
+    key: '_computeIdfs',
+    value: function _computeIdfs() {
+      var tokenizedEmails = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : [];
+      var bagOfWords = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : [];
+
+      var wordsMap = new Map();
+      var numOfDocuments = tokenizedEmails.length;
+      console.log(numOfDocuments);
 
       var _iteratorNormalCompletion2 = true;
       var _didIteratorError2 = false;
       var _iteratorError2 = undefined;
 
       try {
-        for (var _iterator2 = tokenizedEmails[Symbol.iterator](), _step2; !(_iteratorNormalCompletion2 = (_step2 = _iterator2.next()).done); _iteratorNormalCompletion2 = true) {
-          var tokenizedEmail = _step2.value;
+        for (var _iterator2 = bagOfWords[Symbol.iterator](), _step2; !(_iteratorNormalCompletion2 = (_step2 = _iterator2.next()).done); _iteratorNormalCompletion2 = true) {
+          var word = _step2.value;
+
+          wordsMap.set(word, 0);
           var _iteratorNormalCompletion3 = true;
           var _didIteratorError3 = false;
           var _iteratorError3 = undefined;
 
           try {
-            for (var _iterator3 = tokenizedEmail.text[Symbol.iterator](), _step3; !(_iteratorNormalCompletion3 = (_step3 = _iterator3.next()).done); _iteratorNormalCompletion3 = true) {
-              var token = _step3.value;
+            for (var _iterator3 = tokenizedEmails[Symbol.iterator](), _step3; !(_iteratorNormalCompletion3 = (_step3 = _iterator3.next()).done); _iteratorNormalCompletion3 = true) {
+              var _tokenizedEmail2 = _step3.value;
 
-              bagOfWords.set(token, bagOfWords.has(token) ? bagOfWords.get(token) + 1 : 1);
+              var tokenizedEmailTextSet = new Set(_tokenizedEmail2.text);
+
+              if (tokenizedEmailTextSet.has(word)) {
+                wordsMap.set(word, wordsMap.get(word) + 1);
+                continue;
+              }
             }
+
+            // we computed occurence of the word in documents.
+            // let's set its Idf now
+            // Idf = log(Number of documents / Number of documents that contain word w)
           } catch (err) {
             _didIteratorError3 = true;
             _iteratorError3 = err;
@@ -196,6 +219,8 @@ var SpamDetector = function () {
               }
             }
           }
+
+          wordsMap.set(word, Math.log(numOfDocuments / wordsMap.get(word)));
         }
       } catch (err) {
         _didIteratorError2 = true;
@@ -212,17 +237,78 @@ var SpamDetector = function () {
         }
       }
 
+      console.log('my idf array');
+      console.log(wordsMap);
+
+      return wordsMap;
+    }
+  }, {
+    key: '_generateBagOfWords',
+    value: function _generateBagOfWords() {
+      var tokenizedEmails = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : [];
+
+      var bagOfWords = new Map();
+
+      var _iteratorNormalCompletion4 = true;
+      var _didIteratorError4 = false;
+      var _iteratorError4 = undefined;
+
+      try {
+        for (var _iterator4 = tokenizedEmails[Symbol.iterator](), _step4; !(_iteratorNormalCompletion4 = (_step4 = _iterator4.next()).done); _iteratorNormalCompletion4 = true) {
+          var _tokenizedEmail3 = _step4.value;
+          var _iteratorNormalCompletion5 = true;
+          var _didIteratorError5 = false;
+          var _iteratorError5 = undefined;
+
+          try {
+            for (var _iterator5 = _tokenizedEmail3.text[Symbol.iterator](), _step5; !(_iteratorNormalCompletion5 = (_step5 = _iterator5.next()).done); _iteratorNormalCompletion5 = true) {
+              var _token = _step5.value;
+
+              bagOfWords.set(_token, bagOfWords.has(_token) ? bagOfWords.get(_token) + 1 : 1);
+            }
+          } catch (err) {
+            _didIteratorError5 = true;
+            _iteratorError5 = err;
+          } finally {
+            try {
+              if (!_iteratorNormalCompletion5 && _iterator5.return) {
+                _iterator5.return();
+              }
+            } finally {
+              if (_didIteratorError5) {
+                throw _iteratorError5;
+              }
+            }
+          }
+        }
+
+        // Pick only MAX_WORD_FEATURES number of most frequent words in the
+        // set of our documents. Infrequent words can cause our model to overfit
+      } catch (err) {
+        _didIteratorError4 = true;
+        _iteratorError4 = err;
+      } finally {
+        try {
+          if (!_iteratorNormalCompletion4 && _iterator4.return) {
+            _iterator4.return();
+          }
+        } finally {
+          if (_didIteratorError4) {
+            throw _iteratorError4;
+          }
+        }
+      }
+
       var sortedArray = [].concat(_toConsumableArray(bagOfWords.entries())).sort(function (a, b) {
         return a[1] > b[1] ? -1 : 1;
       }).slice(0, MAX_WORD_FEATURES);
 
-      // sortedArray.forEach((element, index) => {
-      //   this.bagOfWords.set(element[0], index + 1)
-      // });
-
       console.log(sortedArray);
 
-      return sortedArray;
+      // return just words in a sorted order
+      return sortedArray.map(function (element) {
+        return element[0];
+      }).sort();
     }
   }, {
     key: '_preprocessEmails',

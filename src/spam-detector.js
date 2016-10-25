@@ -71,6 +71,7 @@ export default class SpamDetector {
         console.log(`Results are ${JSON.stringify(results[0])}`);
       })
       .catch(error => {
+        console.error(error);
         throw error;
       });
   }
@@ -82,10 +83,60 @@ export default class SpamDetector {
   }
 
   _vectorize(tokenizedEmails = [], bagOfWords = []) {
-    try {
+    const idfs = this._computeIdfs(tokenizedEmails, bagOfWords);
+
+    let result = [];
+
     for (const tokenizedEmail of tokenizedEmails) {
-      tfidf.addDocument(tokenizedEmail.text);
+
     }
+
+    console.log(result);
+
+    return result;
+  }
+
+  _computeTfs(tokenizedEmailText = [], bagOfWords = []) {
+    let wordsMap = new Map(bagOfWords.map(element => [element, 0]));
+    const numberOfWords = tokenizedEmail.length;
+
+    for (const word in tokenizedEmailText) {
+      if (!wordsMap.has(word)) {
+        continue;
+      }
+
+      wordsMap.set(word, wordsMap.get(token) + 1);
+    }
+
+    return wordsMap;
+  }
+
+  _computeIdfs(tokenizedEmails = [], bagOfWords = []) {
+    let wordsMap = new Map();
+    let numOfDocuments = tokenizedEmails.length;
+    console.log(numOfDocuments);
+
+    for (const word of bagOfWords) {
+      wordsMap.set(word, 0);
+      for (const tokenizedEmail of tokenizedEmails) {
+        const tokenizedEmailTextSet = new Set(tokenizedEmail.text);
+
+        if (tokenizedEmailTextSet.has(word)) {
+          wordsMap.set(word, wordsMap.get(word) + 1);
+          continue;
+        }
+      }
+
+      // we computed occurence of the word in documents.
+      // let's set its Idf now
+      // Idf = log(Number of documents / Number of documents that contain word w)
+      wordsMap.set(word, Math.log(numOfDocuments / wordsMap.get(word)));
+    }
+
+    console.log('my idf array');
+    console.log(wordsMap);
+
+    return wordsMap;
   }
 
   _generateBagOfWords(tokenizedEmails = []) {
@@ -100,19 +151,18 @@ export default class SpamDetector {
       }
     }
 
+    // Pick only MAX_WORD_FEATURES number of most frequent words in the
+    // set of our documents. Infrequent words can cause our model to overfit
     const sortedArray = [...bagOfWords.entries()]
       .sort((a, b) => {
         return a[1] > b[1] ? -1 : 1;
       })
       .slice(0, MAX_WORD_FEATURES);
 
-    // sortedArray.forEach((element, index) => {
-    //   this.bagOfWords.set(element[0], index + 1)
-    // });
-
     console.log(sortedArray);
 
-    return sortedArray;
+    // return just words in a sorted order
+    return sortedArray.map(element => element[0]).sort();
   }
 
   _preprocessEmails(emails = []) {
