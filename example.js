@@ -2,7 +2,7 @@
 
 /* global require */
 
-var SpamDetector = require('./dist/spam-detector.js').default;
+var SpamDetector = require('./dist/spamDetector.js').default;
 var emailsData = require('./emails/emailsData.json');
 var emailsData_test = require('./emails/emailsData_test.json');
 

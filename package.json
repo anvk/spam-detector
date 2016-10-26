@@ -1,8 +1,8 @@
 {
   "name": "spam-detector",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "anvk",
-  "main": "dist/spam-detector.js",
+  "main": "dist/spamDetector.js",
   "description": "",
   "contributors": [
     {
