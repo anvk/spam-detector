@@ -1,6 +1,6 @@
 {
   "name": "spam-detector",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "anvk",
   "main": "dist/spamDetector.js",
   "description": "",
@@ -45,7 +45,9 @@
     "eslint-plugin-import": "1.16.0",
     "eslint-plugin-jsx-a11y": "2.2.2",
     "eslint-plugin-react": "6.3.0",
+    "is-windows": "0.2.0",
     "mocha": "3.1.0",
+    "proxyquire": "1.7.10",
     "rimraf": "2.5.4"
   },
   "engine": "node >= 0.10.x",

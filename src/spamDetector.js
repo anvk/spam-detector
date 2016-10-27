@@ -1,9 +1,9 @@
 import { MailParser } from 'mailparser';
 import natural from 'natural';
 import Promise from 'promise';
+import * as path from 'path';
 import fs from 'fs';
 
-const BACK_SLASH = '/';
 const MILLISECONDS = 1000;
 
 const MAX_WORD_FEATURES = 5000;
@@ -37,7 +37,7 @@ export default class SpamDetector {
     this.testPath = testPath;
     this.testData = testData;
     this.bowLength = bowLength;
-    this.trainPath = this._appendSlash(trainPath);
+    this.trainPath = trainPath;
     this.bagOfWords = new Map();
   }
 
@@ -77,19 +77,13 @@ export default class SpamDetector {
       });
   }
 
-  _appendSlash(path = '') {
-    return path.substr(-1) === BACK_SLASH
-      ? path
-      : `${path}${BACK_SLASH}`;
-  }
-
   _vectorize(tokenizedEmails = [], bagOfWords = []) {
-    if (!bagOfWords.length) {
-      throw '_vectorize(): Error - bagOfWords cannot be empty!';
-    }
-
     if (!tokenizedEmails.length) {
       throw '_vectorize(): Error - tokenizedEmails cannot be empty!';
+    }
+
+    if (!bagOfWords.length) {
+      throw '_vectorize(): Error - bagOfWords cannot be empty!';
     }
 
     const idfs = this._computeIdfs(tokenizedEmails, bagOfWords);
@@ -102,12 +96,7 @@ export default class SpamDetector {
         throw '_vectorize(): Error - tokenizedEmail is missing text property!';
       }
 
-      console.log(tokenizedEmail);
       const tfs = this._computeTfs(tokenizedEmail.text, bagOfWords);
-
-      console.log('so tfs and idfs are:');
-      console.log(idfs);
-      console.log(tfs);
 
       const vectorizedEmail = new Map();
       idfs.forEach((idf, word) =>
@@ -117,19 +106,16 @@ export default class SpamDetector {
       result.push(vectorizedEmail);
     }
 
-    console.log('Result of vectorize');
-    console.log(result);
-
     return result;
   }
 
   _computeTfs(tokenizedEmailText = [], bagOfWords = []) {
-    if (!bagOfWords.length) {
-      throw '_computeTfs(): Error - bagOfWords cannot be empty!';
-    }
-
     if (!tokenizedEmailText.length) {
       throw '_computeTfs(): Error - email with empty body was passed!';
+    }
+
+    if (!bagOfWords.length) {
+      throw '_computeTfs(): Error - bagOfWords cannot be empty!';
     }
 
     let wordsMap = new Map(bagOfWords.map(element => [element, 0]));
@@ -151,12 +137,12 @@ export default class SpamDetector {
   }
 
   _computeIdfs(tokenizedEmails = [], bagOfWords = []) {
-    if (!bagOfWords.length) {
-      throw '_computeIdfs(): Error - bagOfWords cannot be empty!';
-    }
-
     if (!tokenizedEmails.length) {
       throw '_computeIdfs(): Error - tokenizedEmails cannot be empty!';
+    }
+
+    if (!bagOfWords.length) {
+      throw '_computeIdfs(): Error - bagOfWords cannot be empty!';
     }
 
     let wordsMap = new Map();
@@ -188,12 +174,12 @@ export default class SpamDetector {
   }
 
   _generateBagOfWords(tokenizedEmails = [], bowLength = MAX_WORD_FEATURES) {
-    if (bowLength < 1) {
-      throw '_generateBagOfWords(): Error - Bag of Words must have at least 1 word';
-    }
-
     if (!tokenizedEmails.length) {
       throw '_generateBagOfWords(): Error - tokenizedEmails cannot be empty!';
+    }
+
+    if (bowLength < 1) {
+      throw '_generateBagOfWords(): Error - Bag of Words must have at least 1 word';
     }
 
     let bagOfWords = new Map();
@@ -241,7 +227,7 @@ export default class SpamDetector {
 
   _preprocessEmailText(text) {
     if (typeof text !== 'string') {
-      return [];
+      throw '_preprocessEmailText(): Error - text has to be a string!';
     }
 
     let result = text;
@@ -277,29 +263,38 @@ export default class SpamDetector {
   }
 
   _readEmails(emailsData = []) {
-    const promises = emailsData.map(emailData => this._readEmail(emailData));
+    const promises = emailsData.map(emailData =>
+      this._readEmail(this.trainPath, emailData)
+    );
 
     return Promise.all(promises);
   }
 
-  _readEmail(emailData = {}) {
+  _readEmail(trainPath, emailData = {}) {
     return new Promise((resolve, reject) => {
+      const { name, label } = emailData;
+
+      if (typeof trainPath !== 'string' || !trainPath.length) {
+        throw '_readEmail(): Error - trainPath cannot be empty!';
+      }
+
+      if (!name) {
+        throw '_readEmail(): Error - name cannot be empty in emailData!';
+      }
+
+      if (!label) {
+        throw '_readEmail(): Error - label cannot be empty in emailData!';
+      }
+
       const mailparser = new MailParser();
 
-      const { name, classifier } = emailData;
+      mailparser.on('end', mailObj => resolve({ text: mailObj.text, label }));
 
-      mailparser.on('end', (mailObj) => {
-        console.log(mailObj.text);
+      const filePath = !path.isAbsolute(trainPath)
+        ? path.join(path.resolve(__dirname), trainPath, name)
+        : path.join(trainPath, name);
 
-        resolve({
-          subject: mailObj.subject,
-          text: mailObj.text,
-          classifier
-        });
-      });
-
-      fs.createReadStream(`${this.trainPath}${name}`)
-        .pipe(mailparser);
+      fs.createReadStream(`${filePath}`).pipe(mailparser);
     });
   }
 }
